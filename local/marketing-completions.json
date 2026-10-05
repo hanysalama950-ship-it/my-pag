@@ -1,0 +1,109 @@
+{
+  "rule": "Ahmed Taher U0B3344PJ3W reply تم means completed for linked task",
+  "items": [
+    {
+      "replyId": "C0B0901QXSA:1790258342.740409",
+      "taskMessageId": "C0B0901QXSA:1790258117.631349",
+      "title": "تحديث بنر المتجر لعرض 48 ساعة.",
+      "evidence": "تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790258117.631349:0"
+    },
+    {
+      "replyId": "C0B0901QXSA:1789635744.297319",
+      "taskMessageId": "C0B0901QXSA:1789634238.285469",
+      "title": "إرسال رسالة الإيميل لعرض اليوم الوطني بتاريخ 17 سبتمبر.",
+      "evidence": "تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1789634238.285469:1"
+    },
+    {
+      "replyId": "C0B0901QXSA:1789312158.089789",
+      "taskMessageId": "C0B0901QXSA:1789310321.947629",
+      "title": "إرسال رسائل واتساب والإيميل لعرض اليوم الوطني بتاريخ 13 سبتمبر.",
+      "evidence": "تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1789310321.947629:2"
+    },
+    {
+      "replyId": "C0B0901QXSA:1789211880.984629",
+      "taskMessageId": "C0B0901QXSA:1789209758.788759",
+      "title": "تنفيذ حملة الوعي بالعلامة التجارية على سناب شات بتاريخ 12 سبتمبر.",
+      "evidence": "تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1789209758.788759:3"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790249695.378519",
+      "title": "ترويج فيديو ريل إنستغرام بهدف المبيعات.",
+      "evidence": "فيديو ريل انستا بهدف المبيعات -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790249695.378519:4"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790250106.205009",
+      "title": "ترويج فيديو تيك توك دارك بهدف المبيعات.",
+      "evidence": "فيديو تيك توك دارك بهدف المبيعات -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790250106.205009:5"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790250971.037939",
+      "title": "ترويج فيديو سناب بهدف المبيعات.",
+      "evidence": "فيديو سناب بهدف المبيعات -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790250971.037939:6"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790255159.467859",
+      "title": "ترويج فيديو إنستغرام بهدف الوعي.",
+      "evidence": "فيديو انستا بهدف الوعي -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790255159.467859:7"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790256464.393859",
+      "title": "إظهار الشحن المجاني على المنتجات باستثناء الكلاسيك.",
+      "evidence": "التأكد من ظهور شحن مجاني على الكل الا الكلاسيك -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790256464.393859:8"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790258015.171209",
+      "taskMessageId": "C0B0901QXSA:1790256464.393859",
+      "title": "تعديل خلفيات الكلاسيك والبريميوم.",
+      "evidence": "تعديل خلفيات الكلاسيك والبريميوم -تم",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790256464.393859:9"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790259949.275729",
+      "taskMessageId": "C0B0901QXSA:1790259491.717019",
+      "title": "إرسال إيميل عروض اليوم الوطني.",
+      "evidence": "تم ارسال الايميل الان",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790259491.717019:10"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790259949.275729",
+      "taskMessageId": "C0B0901QXSA:1790259304.029349",
+      "title": "جدولة رسالة واتساب للإرسال الساعة 6 مساءً؛ الإرسال نفسه لم يتأكد بعد.",
+      "evidence": "وتم جدولة الواتس الساعة 6 للارسال",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790259304.029349:11"
+    },
+    {
+      "replyId": "C0B0901QXSA:1790366175.980119",
+      "taskMessageId": "C0B0901QXSA:1790258603.728329",
+      "title": "تحديث بنر المتجر من 48 إلى 24 ساعة.",
+      "evidence": "تم استبدال البنر من 48 الى 24",
+      "reviewed": true,
+      "canonicalKey": "C0B0901QXSA:1790258603.728329:24-hour-banner"
+    }
+  ]
+}

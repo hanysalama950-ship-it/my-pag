@@ -1,0 +1,12 @@
+# Runtime and credentials only. Business data intentionally included for PRIVATE repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+*.lnk

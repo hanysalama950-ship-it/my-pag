@@ -1,0 +1,11 @@
+{
+  "automationId": "automation",
+  "schedule": "18:00",
+  "timezone": "Asia/Riyadh",
+  "lastGeneratedDate": "2026-10-04",
+  "scheduledVerification": "pending",
+  "delivery": "prepared_for_user_to_send",
+  "lastGeneratedAt": "2026-10-04T17:38:13.660551+03:00",
+  "lastResult": "generated",
+  "reportFile": "D:\\EMIZ\\ceo-project\\daily-reports\\daily-2026-10-04.txt"
+}

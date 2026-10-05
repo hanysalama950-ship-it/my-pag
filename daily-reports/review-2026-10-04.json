@@ -1,0 +1,141 @@
+{
+  "checkedAt": "2026-10-04T17:38:13.627277+03:00",
+  "review": {
+    "date": "2026-10-04",
+    "snapshotRevision": "2026-10-04T14:35:42.560Z",
+    "sourceVersions": {
+      "tasks": "2026-10-04T14:35:42.560Z",
+      "archive": "2026-10-04T14:35:42.560Z",
+      "hiring": "2026-10-04T14:35:42.560Z",
+      "sales": "2026-10-04T14:35:42.560Z",
+      "collection": "2026-10-04T14:35:42.560Z",
+      "marketing": "2026-10-04T14:35:42.560Z",
+      "creative": "2026-10-04T14:35:42.560Z",
+      "cx": "2026-10-04T14:35:42.560Z",
+      "orders": "2026-10-04T14:35:42.560Z",
+      "calls": "2026-10-04T14:35:42.560Z",
+      "whatsapp": "2026-10-03T09:03:29.421187Z",
+      "marketing-channel": "2026-10-04T14:35:42.560Z",
+      "creative-channel": "2026-10-04T14:35:42.560Z",
+      "team-marketing-channel": "2026-10-04T14:35:42.560Z"
+    },
+    "reviewedSourceIds": [
+      "tasks",
+      "marketing",
+      "marketing-channel",
+      "creative-channel",
+      "team-marketing-channel",
+      "orders",
+      "calls",
+      "hiring",
+      "sales",
+      "cx"
+    ],
+    "items": [
+      {
+        "department": "التسويق",
+        "title": "إرسال خطة المبيعات والميزانية لشهري أكتوبر ونوفمبر للمراجعة.",
+        "sourceId": "marketing",
+        "sourceRecordId": "Rec0C6PFU6GBE",
+        "canonicalKey": "Rec0C6PFU6GBE",
+        "evidence": "إرسال خطة مبيعات ومزانية شهر أكتوبر وشهر نوفبر",
+        "dateEvidence": "2026-10-04",
+        "completionDate": "2026-10-04",
+        "state": "completed",
+        "reviewed": true
+      },
+      {
+        "department": "التسويق",
+        "title": "إرسال استراتيجية موقع شركة مدى والنموذج الأولي إلى الفريق للتنفيذ؛ النموذج ما زال مبدئيًا.",
+        "sourceId": "marketing",
+        "sourceRecordId": "Rec0C6EG6N6JH",
+        "canonicalKey": "Rec0C6EG6N6JH",
+        "evidence": "إرسال إستراتجية الويب سات للتنفيذ",
+        "dateEvidence": "2026-10-04",
+        "completionDate": "2026-10-04",
+        "state": "completed",
+        "reviewed": true
+      },
+      {
+        "department": "التسويق",
+        "title": "إرسال استراتيجية ومتطلبات CRM ونموذج متابعة العملاء إلى الفريق للتنفيذ.",
+        "sourceId": "marketing",
+        "sourceRecordId": "Rec0C6DJEJMTM",
+        "canonicalKey": "Rec0C6DJEJMTM",
+        "evidence": "إرسال إستراتجية CRM للتنفيذ",
+        "dateEvidence": "2026-10-04",
+        "completionDate": "2026-10-04",
+        "state": "completed",
+        "reviewed": true
+      }
+    ],
+    "notes": [
+      "تم تحديث كل مصادر Google وSlack المهيأة، لكن مراجعة الأدلة التفصيلية للأرشيف والتحصيل والمحتوى غير مكتملة.",
+      "واتساب: المحادثة المحددة متاحة لكن أحدث عرض لا يحتوي سوى رابط اللوحة اليوم؛ لم يُسترجع آخر تقرير محفوظ.",
+      "تقرير التسويق المرسل 4 أكتوبر يصف أعمال 3 أكتوبر؛ لم تُنسب تلك الأعمال لليوم.",
+      "المحتوى العام للسوشيال: آخر رصد جزئي سابق اليوم، لا يثبت نشر محتوى جديد اليوم.",
+      "الحسابات مؤجلة بطلب المستخدم حتى توفير Excel."
+    ]
+  },
+  "b2c": {
+    "today": [
+      {
+        "sales.total_tax": 0,
+        "customer-count": 2,
+        "sales.total_sales": 858,
+        "sales.total_discount": 40,
+        "sales.total_shipping": 0,
+        "sales.total_epayment_fee": 8,
+        "order-returned-count": 0,
+        "sales.orders_count": 2,
+        "avg-cart-price": 449
+      }
+    ],
+    "month": [
+      {
+        "sales.total_discount": 406,
+        "sales.total_shipping": 0,
+        "sales.total_tax": 0,
+        "order-returned-count": 0,
+        "sales.total_epayment_fee": 46,
+        "sales.total_sales": 5701,
+        "sales.orders_count": 9,
+        "customer-count": 9,
+        "avg-cart-price": 678
+      }
+    ],
+    "expenses": {
+      "checkedAt": "2026-10-04T14:36:04.183Z",
+      "rows": [
+        {
+          "date": "2026-10-01",
+          "fileId": "F0C60GZKWMV",
+          "ts": "1791012456.185449",
+          "spend": 131,
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B40S4G14P/p1791012456185449"
+        },
+        {
+          "date": "2026-10-02",
+          "fileId": "F0C6KJQC9D2",
+          "ts": "1791012491.949359",
+          "spend": 138.01,
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B40S4G14P/p1791012491949359"
+        },
+        {
+          "date": "2026-10-03",
+          "fileId": "F0C6DERE74K",
+          "ts": "1791099942.352129",
+          "spend": 147.34,
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B40S4G14P/p1791099942352129"
+        }
+      ],
+      "errors": [],
+      "scope": "آخر 100 رسالة؛ الملفات النصية المؤرخة للشهر الحالي. أحدث تقرير لكل يوم، دون المجاميع الأسبوعية والتراكمية."
+    }
+  },
+  "limitations": [
+    "B2B لا يزال يعرض سبتمبر؛ لا يُستخدم كمبيعات أكتوبر.",
+    "الإنفاق الإعلاني متاح حتى 3 أكتوبر فقط.",
+    "أرقام المكالمات داخل المرفقات غير مقروءة؛ لا تُعتبر صفرًا."
+  ]
+}

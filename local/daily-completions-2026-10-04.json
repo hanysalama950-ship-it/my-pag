@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "snapshotRevision": "2026-10-04T14:35:42.560Z",
+  "sourceVersions": {
+    "tasks": "2026-10-04T14:35:42.560Z",
+    "archive": "2026-10-04T14:35:42.560Z",
+    "hiring": "2026-10-04T14:35:42.560Z",
+    "sales": "2026-10-04T14:35:42.560Z",
+    "collection": "2026-10-04T14:35:42.560Z",
+    "marketing": "2026-10-04T14:35:42.560Z",
+    "creative": "2026-10-04T14:35:42.560Z",
+    "cx": "2026-10-04T14:35:42.560Z",
+    "orders": "2026-10-04T14:35:42.560Z",
+    "calls": "2026-10-04T14:35:42.560Z",
+    "whatsapp": "2026-10-03T09:03:29.421187Z",
+    "marketing-channel": "2026-10-04T14:35:42.560Z",
+    "creative-channel": "2026-10-04T14:35:42.560Z",
+    "team-marketing-channel": "2026-10-04T14:35:42.560Z"
+  },
+  "reviewedSourceIds": [
+    "tasks",
+    "marketing",
+    "marketing-channel",
+    "creative-channel",
+    "team-marketing-channel",
+    "orders",
+    "calls",
+    "hiring",
+    "sales",
+    "cx"
+  ],
+  "items": [
+    {
+      "department": "التسويق",
+      "title": "إرسال خطة المبيعات والميزانية لشهري أكتوبر ونوفمبر للمراجعة.",
+      "sourceId": "marketing",
+      "sourceRecordId": "Rec0C6PFU6GBE",
+      "canonicalKey": "Rec0C6PFU6GBE",
+      "evidence": "إرسال خطة مبيعات ومزانية شهر أكتوبر وشهر نوفبر",
+      "dateEvidence": "2026-10-04",
+      "completionDate": "2026-10-04",
+      "state": "completed",
+      "reviewed": true
+    },
+    {
+      "department": "التسويق",
+      "title": "إرسال استراتيجية موقع شركة مدى والنموذج الأولي إلى الفريق للتنفيذ؛ النموذج ما زال مبدئيًا.",
+      "sourceId": "marketing",
+      "sourceRecordId": "Rec0C6EG6N6JH",
+      "canonicalKey": "Rec0C6EG6N6JH",
+      "evidence": "إرسال إستراتجية الويب سات للتنفيذ",
+      "dateEvidence": "2026-10-04",
+      "completionDate": "2026-10-04",
+      "state": "completed",
+      "reviewed": true
+    },
+    {
+      "department": "التسويق",
+      "title": "إرسال استراتيجية ومتطلبات CRM ونموذج متابعة العملاء إلى الفريق للتنفيذ.",
+      "sourceId": "marketing",
+      "sourceRecordId": "Rec0C6DJEJMTM",
+      "canonicalKey": "Rec0C6DJEJMTM",
+      "evidence": "إرسال إستراتجية CRM للتنفيذ",
+      "dateEvidence": "2026-10-04",
+      "completionDate": "2026-10-04",
+      "state": "completed",
+      "reviewed": true
+    }
+  ],
+  "notes": [
+    "تم تحديث كل مصادر Google وSlack المهيأة، لكن مراجعة الأدلة التفصيلية للأرشيف والتحصيل والمحتوى غير مكتملة.",
+    "واتساب: المحادثة المحددة متاحة لكن أحدث عرض لا يحتوي سوى رابط اللوحة اليوم؛ لم يُسترجع آخر تقرير محفوظ.",
+    "تقرير التسويق المرسل 4 أكتوبر يصف أعمال 3 أكتوبر؛ لم تُنسب تلك الأعمال لليوم.",
+    "المحتوى العام للسوشيال: آخر رصد جزئي سابق اليوم، لا يثبت نشر محتوى جديد اليوم.",
+    "الحسابات مؤجلة بطلب المستخدم حتى توفير Excel."
+  ]
+}

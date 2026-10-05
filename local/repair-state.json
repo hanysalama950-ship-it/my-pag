@@ -1,0 +1,16 @@
+{
+  "status": "pending_scheduled_verification",
+  "automationId": "automation",
+  "appliedAt": "2026-09-24T11:24:13Z",
+  "change": "windows.sandbox: unelevated -> elevated",
+  "reason": "unelevated sandbox refused split writable root sets in scheduled turns",
+  "manualSyncVerifiedAt": "2026-09-24T11:30:07.910Z",
+  "manualSyncErrors": 0,
+  "browserVerified": true,
+  "scheduledVerifiedAt": null,
+  "completionReported": false,
+  "nextStep": "Reinitialize elevated sandbox through supported Codex UI, then verify a real heartbeat. No internal permission edits or bypass.",
+  "diagnosticProbe": "Standalone sandbox probe did not complete; cancelled. No success inferred.",
+  "diagnosedAt": "2026-09-26",
+  "diagnosis": "Configured elevated, prior heartbeat failures explicitly use unelevated; exact selection cause unverified."
+}

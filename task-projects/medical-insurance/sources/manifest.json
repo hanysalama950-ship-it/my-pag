@@ -1,0 +1,57 @@
+[
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/QTN-7002338999-B3S.pdf",
+    "extracted": "ملاذ-1.pdf"
+  },
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/QTN-7002339021-B3s.pdf",
+    "extracted": "ملاذ-2.pdf"
+  },
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/QTN-Malath 7002651243-B3s.pdf",
+    "extracted": "ملاذ-3.pdf"
+  },
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/QTN_7002338973-B3S.pdf",
+    "extracted": "ملاذ-4.pdf"
+  },
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/REJCTED-7002339021.xlsx",
+    "extracted": "ملاذ-5.xlsx"
+  },
+  {
+    "archive": "ملاذ.zip",
+    "original": "ملاذ/REJCTED7002651243.xlsx",
+    "extracted": "ملاذ-6.xlsx"
+  },
+  {
+    "archive": "ميدغيلف.zip",
+    "original": "ميدغيلف/QTN 7002338973-medgulf.pdf",
+    "extracted": "ميدغيلف-1.pdf"
+  },
+  {
+    "archive": "ميدغيلف.zip",
+    "original": "ميدغيلف/QTN-7002338999-medgulf.pdf",
+    "extracted": "ميدغيلف-2.pdf"
+  },
+  {
+    "archive": "ميدغيلف.zip",
+    "original": "ميدغيلف/Qtn-Medgulf7002651243-.pdf",
+    "extracted": "ميدغيلف-3.pdf"
+  },
+  {
+    "archive": "ميدغيلف.zip",
+    "original": "ميدغيلف/QTN_7002339021-medgulf.pdf",
+    "extracted": "ميدغيلف-4.pdf"
+  },
+  {
+    "archive": "ميدغيلف.zip",
+    "original": "FortinetCleanList.txt",
+    "extracted": "ميدغيلف-5.txt"
+  }
+]

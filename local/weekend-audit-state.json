@@ -1,0 +1,1 @@
+{"status":"scheduled_pending_execution","deadline":"2026-09-26T09:00:00+03:00","completedStages":[],"currentPriority":"scheduled_runtime_and_archive_integrity","knownBlocker":"Scheduled shell execution fails with split writable root sets sandbox error; manual success is not verification.","deliveredAt":null}

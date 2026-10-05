@@ -1,0 +1,8 @@
+The following files have been cleaned:
+
+ميدغيلف/QTN 7002338973-medgulf.pdf	(Original MD5: 13618800ca26c4101492a8b1fbd9f123)
+ميدغيلف/QTN-7002338999-medgulf.pdf	(Original MD5: 85fa305721562e3f0e16ca35e0db9809)
+ميدغيلف/Qtn-Medgulf7002651243-.pdf	(Original MD5: 64407597364b3a4c4870ef85ea6af520)
+ميدغيلف/QTN_7002339021-medgulf.pdf	(Original MD5: e946bf82efbedc0e1bae3cfb7b85e078)
+
+The original ZIP file was cleaned by Fortinet.

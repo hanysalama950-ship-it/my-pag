@@ -1,0 +1,50 @@
+{
+  "automationId": "automation",
+  "lastCheckedAt": "2026-09-24T14:36:22.092Z",
+  "errors": [],
+  "knownLimitations": [
+    "Sales is best-effort readable text.",
+    "Calls metadata only; attachment metrics unavailable."
+  ],
+  "lastAttemptAt": "2026-09-24T11:30:07.910Z",
+  "lastRunKind": "manual_user_requested",
+  "repairStatus": "pending_scheduled_verification",
+  "lastKnownScheduledFailure": "windows unelevated restricted-token sandbox cannot enforce split writable root sets directly; refusing to run unsandboxed",
+  "knownScheduledFailureAlreadyReported": true,
+  "whatsapp": {
+    "lastSuccessAt": "2026-09-24T14:36:56.692176Z",
+    "reports": 12,
+    "automaticSyncVerified": false,
+    "lastReadKind": "manual_browser",
+    "lastError": null
+  },
+  "lastManualSyncAt": "2026-09-24T14:36:22.092Z",
+  "lastManualSyncResult": {
+    "errors": 0,
+    "whatsappReports": 12,
+    "whatsappArchivedActions": 94,
+    "marketingChannelIds": [
+      "C0C1KG3UE3B",
+      "C0C0G8QGBSS",
+      "C0B0901QXSA"
+    ],
+    "marketingTaskRecords": 228,
+    "scheduledVerification": "unchanged_pending"
+  },
+  "lastAuditAt": "2026-09-24T13:33:52.951040+00:00",
+  "lastManualRefreshAt": "2026-10-03T09:04:03.956691+00:00",
+  "lastManualRefreshSummary": {
+    "tasks": 23,
+    "archive": 760,
+    "hiring": 18,
+    "collection": 102,
+    "marketing": 134,
+    "creative": 137,
+    "cx": 91
+  },
+  "whatsappManualCheck": {
+    "checkedAt": "2026-10-01T08:54:45.175042+00:00",
+    "historyComplete": false,
+    "reports": 13
+  }
+}

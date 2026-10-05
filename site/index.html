@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>متابعة الرئيس التنفيذي</title>
+  <meta name="description" content="المهام والموضوعات والمصادر الخاصة بمتابعة الرئيس التنفيذي أ. مهند.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23172f45'/%3E%3Cpath d='M10 21l6 6 14-15' fill='none' stroke='%235fe0c1' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script><script src="slack-ui.js" defer></script><script src="app.js" defer></script><script src="local-sync.js" defer></script><script src="local-entries.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">انتقل إلى المحتوى</a>
+<aside class="sidebar">
+  <div class="brand"><span class="brandmark" aria-hidden="true">م</span><div><strong>المتابعة التنفيذية</strong><span>أ. مهند · الرئيس التنفيذي</span></div></div>
+  <div class="navlabel">مساحة المشروع</div>
+  <nav aria-label="أقسام المشروع">
+    <button data-view="overview" class="active"><span>نظرة عامة</span><span aria-hidden="true">◫</span></button>
+    <button data-view="projects"><span>مشروعات المهام</span><span>▣</span></button><button data-view="tasks"><span>المهام المباشرة</span><span id="navTasks" class="navcount"></span></button>
+    <button data-view="hiring"><span>التوظيف</span><span aria-hidden="true">◉</span></button>
+    <button data-view="social"><span>أداء وسائل السوشيال ميديا</span><span aria-hidden="true">◉</span></button>
+    <button data-view="b2c"><span>مبيعات B2C</span><span aria-hidden="true">▤</span></button>
+    <button data-view="sales"><span>مبيعات B2B</span><span aria-hidden="true">▤</span></button>
+    <button data-view="collection"><span>التحصيل</span><span aria-hidden="true">◷</span></button>
+    <button data-view="teams"><span>متابعة الفرق</span><span aria-hidden="true">▦</span></button>
+    <button data-view="reports"><span>الطلبات والمكالمات</span><span aria-hidden="true">≡</span></button>
+    <button data-view="whatsapp"><span>تقارير واتساب</span><span id="navWhatsapp" class="navcount"></span></button>
+    <button data-view="linkedin"><span>منشورات لينكدإن</span><span aria-hidden="true">in</span></button>
+    <button data-view="daily"><span>التقرير اليومي</span><span aria-hidden="true">18:00</span></button>
+    <button data-view="archive"><span>أرشيف الإنجاز</span><span aria-hidden="true">✓</span></button>
+    <button data-view="sources"><span>قنوات ومصادر المتابعة</span><span id="navSources" class="navcount"></span></button>
+  </nav>
+  <div class="sidebarfoot"><span class="scope">لقطة بيانات</span><p>مصادرك في مكان واحد.<br>المزامنة عبر Codex أثناء تشغيل الجهاز.</p><span id="sidebarDate"></span></div>
+</aside>
+<div class="shell">
+  <header class="topbar"><span>مشروع متابعة الرئيس التنفيذي</span><div><span class="private-label">مساحة خاصة</span><span id="currentDate"></span></div></header>
+  <main id="main" tabindex="-1">
+    <div class="pageheading"><div><p class="eyebrow">متابعة الأعمال والقرارات</p><h1 id="pageTitle">نظرة عامة</h1><p id="pageSubtitle" class="subtitle">المهام المباشرة، التوظيف، المبيعات وقنوات الفريق.</p></div><button id="printButton" class="button">طباعة العرض</button></div>
+    <div id="freshness" class="notice"></div>
+    <section id="content" aria-labelledby="pageTitle"></section>
+    <footer>تُفتح البنود في مصادرها الأصلية. تُحدّث البيانات عبر المزامنة المحلية؛ حالة كل مصدر في قسم قنوات المتابعة.</footer>
+  </main>
+</div>
+<noscript>يلزم تفعيل JavaScript لعرض بيانات اللوحة.</noscript>
+</body></html>

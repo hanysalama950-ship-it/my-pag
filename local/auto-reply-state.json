@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "authorizedAt": "2026-09-24T14:02:40Z",
+  "startAfter": "2026-09-24T14:02:40Z",
+  "mode": "send_routine_dashboard_answers",
+  "scheduledVerified": false,
+  "status": "configured_pending_scheduled_verification",
+  "slack": {
+    "channelId": "D0B386VTKS9",
+    "senderId": "U0B2W4SBW95",
+    "identityVerified": true,
+    "lastReadMessageTs": "1790255234.657279",
+    "lastManualReadResult": "DM and CEO identity verified; latest messages precede startAfter; no message sent."
+  },
+  "whatsapp": {
+    "chatName": "أ مهند الرصيص ١",
+    "identityVerifiedThisSetup": true,
+    "lastManualReadAt": "2026-09-24T14:07:12.866704+00:00",
+    "lastManualReadResult": "Correct chat open; no new text question after startAfter; no message sent."
+  },
+  "processed": {},
+  "pending": {},
+  "lastError": null
+}
