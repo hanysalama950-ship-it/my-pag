@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-06",
+  "snapshotRevision": "2026-10-06T13:59:17.458Z",
+  "sourceVersions": {
+    "tasks": "2026-10-06T13:59:17.458Z",
+    "archive": "2026-10-06T13:59:17.458Z",
+    "hiring": "2026-10-06T13:59:17.458Z",
+    "sales": "2026-10-06T13:42:34.991307+00:00",
+    "collection": "2026-10-06T13:59:17.458Z",
+    "marketing": "2026-10-06T13:59:17.458Z",
+    "creative": "2026-10-06T13:59:17.458Z",
+    "cx": "2026-10-06T13:59:17.458Z",
+    "orders": "2026-10-06T13:59:17.458Z",
+    "calls": "2026-10-06T13:59:17.458Z",
+    "whatsapp": "2026-10-06T08:35:49.195475Z",
+    "marketing-channel": "2026-10-06T13:59:17.458Z",
+    "creative-channel": "2026-10-06T13:59:17.458Z",
+    "team-marketing-channel": "2026-10-06T13:59:17.458Z"
+  },
+  "reviewedSourceIds": [
+    "team-marketing-channel"
+  ],
+  "items": [
+    {
+      "department": "التسويق",
+      "title": "إرسال بنرات عرض البريميوم وباقة «باقتك على مزاجك» للفريق",
+      "sourceId": "team-marketing-channel",
+      "sourceRecordId": "C0B0901QXSA:1791294959.226559",
+      "canonicalKey": "october-store-banners-delivered",
+      "evidence": "مرفق لكم بنرات العروض الخاصة بالمتجر:",
+      "dateEvidence": "2026-10-06",
+      "completionDate": "2026-10-06",
+      "state": "completed",
+      "reviewed": true
+    }
+  ]
+}

@@ -8,26 +8,35 @@
       "lastSuccessAt": null,
       "reports": [],
       "handle": "emizksa",
-      "publicCheckedAt": "2026-10-03T10:14:20.317549+00:00",
+      "publicCheckedAt": "2026-10-06T14:11:21.949661+00:00",
       "accessNote": "تمت قراءة الصفحة العامة؛ الأرقام تراكمية وقت الفحص وليست نتائج يومية.",
       "publicMetrics": [
         {
           "label": "المتابعون",
-          "value": "٤٬٢٤٩"
+          "value": "4,245"
         },
         {
-          "label": "الإعجابات التراكمية",
-          "value": "30.3K تقريبًا"
+          "label": "إعجابات الحساب",
+          "value": "30.3K"
         }
       ],
       "posts": [
+        {
+          "url": "https://www.tiktok.com/@emizksa/video/7693549574673255698",
+          "title": "جاييينكم .. خلكم قريبين — إعلان تشويقي",
+          "type": "فيديو",
+          "publishedAt": null,
+          "firstSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "lastSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "baseline": false
+        },
         {
           "url": "https://www.tiktok.com/@emizksa/video/7690625750172486964",
           "title": "مين يفوز؟",
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -36,7 +45,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -45,7 +54,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -54,7 +63,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -63,7 +72,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -72,7 +81,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -81,7 +90,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -90,7 +99,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -99,7 +108,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -108,7 +117,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -117,7 +126,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -126,7 +135,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -135,7 +144,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -144,7 +153,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -153,7 +162,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -162,7 +171,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -171,7 +180,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -180,7 +189,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -189,7 +198,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -198,7 +207,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -207,7 +216,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -216,7 +225,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -225,7 +234,7 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -234,13 +243,13 @@
           "type": "فيديو",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         }
       ],
-      "contentCheckedAt": "2026-10-05T10:25:07.740572+00:00",
+      "contentCheckedAt": "2026-10-06T14:05:45.161391+00:00",
       "contentStatus": "partial",
-      "contentNote": "فحص الشبكة العامة الظاهرة. الروابط المضافة رصد جديد وليست إثبات نشر اليوم؛ تاريخ النشر غير متاح. لم تُراجع القصص المؤقتة أو كامل الأرشيف. ظهرت 24 مادة، وأحدث ست مواد مطابقة للرصد السابق. فُتحت مادة إضافية ولم يظهر تاريخ نشر.",
+      "contentNote": "مراجعة الشبكة العامة الظاهرة؛ رصد رابط جديد منذ الفحص السابق، دون إثبات أن تاريخ نشره اليوم. لا تشمل المراجعة كامل الأرشيف أو القصص المؤقتة. فُتح المقطع الجديد ولم يظهر تاريخ نشر قابل للتوثيق.",
       "contentChecks": [
         {
           "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -253,6 +262,18 @@
           "status": "partial",
           "observedCount": 24,
           "newCount": 18
+        },
+        {
+          "checkedAt": "2026-10-06T08:34:37.408774+00:00",
+          "status": "partial",
+          "observedCount": 24,
+          "newCount": 0
+        },
+        {
+          "checkedAt": "2026-10-06T14:05:45.161391+00:00",
+          "status": "partial",
+          "observedCount": 24,
+          "newCount": 1
         }
       ]
     },
@@ -268,12 +289,21 @@
       "publicMetrics": [],
       "posts": [
         {
+          "url": "https://www.snapchat.com/@emizksa/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeHN5enBxc2N5AaERdfaCAaERdebYAAAAAQ",
+          "title": "مقطع Spotlight جديد مرصود",
+          "type": "Spotlight",
+          "publishedAt": null,
+          "firstSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "lastSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "baseline": false
+        },
+        {
           "url": "https://www.snapchat.com/@emizksa/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaGV1dXdna2ZyAaDo4vZWAaDo4qXZAAAAAQ",
           "title": "فيديو Spotlight",
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -282,7 +312,7 @@
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -291,7 +321,7 @@
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -300,7 +330,7 @@
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -309,7 +339,7 @@
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -318,13 +348,13 @@
           "type": "Spotlight",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         }
       ],
-      "contentCheckedAt": "2026-10-05T10:25:07.740572+00:00",
+      "contentCheckedAt": "2026-10-06T14:05:45.161391+00:00",
       "contentStatus": "partial",
-      "contentNote": "فحص الشبكة العامة الظاهرة. الروابط المضافة رصد جديد وليست إثبات نشر اليوم؛ تاريخ النشر غير متاح. لم تُراجع القصص المؤقتة أو كامل الأرشيف. تم توثيق أول 6 روابط من شبكة Recent؛ الأوصاف الآلية لم تعتمد كعناوين.",
+      "contentNote": "مراجعة الشبكة العامة الظاهرة؛ رصد رابط جديد منذ الفحص السابق، دون إثبات أن تاريخ نشره اليوم. لا تشمل المراجعة كامل الأرشيف أو القصص المؤقتة. فُتح المقطع الجديد ولم يظهر تاريخ نشر قابل للتوثيق.",
       "contentChecks": [
         {
           "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -337,6 +367,18 @@
           "status": "partial",
           "observedCount": 6,
           "newCount": 0
+        },
+        {
+          "checkedAt": "2026-10-06T08:34:37.408774+00:00",
+          "status": "partial",
+          "observedCount": 6,
+          "newCount": 0
+        },
+        {
+          "checkedAt": "2026-10-06T14:05:45.161391+00:00",
+          "status": "partial",
+          "observedCount": 6,
+          "newCount": 1
         }
       ]
     },
@@ -347,15 +389,24 @@
       "lastSuccessAt": null,
       "reports": [],
       "handle": "emizksa",
-      "publicCheckedAt": "2026-10-03T10:14:50.970556+00:00",
+      "publicCheckedAt": "2026-10-06T14:11:21.949661+00:00",
       "accessNote": "تم التحقق من حساب EMIZ | إيميز العام. الصفحة تعرض تسجيل الدخول؛ لم يتم الوصول لإحصاءات الحساب الداخلية.",
       "publicMetrics": [
         {
           "label": "المتابعون",
-          "value": "٢٬٢٣٣"
+          "value": "2,234"
         }
       ],
       "posts": [
+        {
+          "url": "https://www.instagram.com/emizksa/reel/DeJ6ugxtmzC/",
+          "title": "ريلز جديد مرصود من الحساب العام",
+          "type": "ريلز",
+          "publishedAt": null,
+          "firstSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "lastSeenAt": "2026-10-06T14:05:45.161391+00:00",
+          "baseline": false
+        },
         {
           "url": "https://www.instagram.com/emizksa/reel/DdUBE3GtldA/",
           "title": "فيديو ريلز",
@@ -371,7 +422,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -389,7 +440,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -407,7 +458,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -416,7 +467,7 @@
           "type": "صور متعددة",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -425,7 +476,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -434,7 +485,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -452,7 +503,7 @@
           "type": "ريلز",
           "publishedAt": null,
           "firstSeenAt": "2026-10-04T08:47:01.486512+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": true
         },
         {
@@ -470,7 +521,7 @@
           "type": "منشور",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -479,7 +530,7 @@
           "type": "منشور",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -488,7 +539,7 @@
           "type": "منشور",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -497,7 +548,7 @@
           "type": "منشور",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         },
         {
@@ -506,13 +557,13 @@
           "type": "منشور",
           "publishedAt": null,
           "firstSeenAt": "2026-10-05T10:25:07.740572+00:00",
-          "lastSeenAt": "2026-10-05T10:25:07.740572+00:00",
+          "lastSeenAt": "2026-10-06T08:34:37.408774+00:00",
           "baseline": false
         }
       ],
-      "contentCheckedAt": "2026-10-05T10:25:07.740572+00:00",
+      "contentCheckedAt": "2026-10-06T14:05:45.161391+00:00",
       "contentStatus": "partial",
-      "contentNote": "فحص الشبكة العامة الظاهرة. الروابط المضافة رصد جديد وليست إثبات نشر اليوم؛ تاريخ النشر غير متاح. لم تُراجع القصص المؤقتة أو كامل الأرشيف. تفاصيل المنشورات تتطلب تسجيل الدخول وفق الفحص السابق؛ تمت مراجعة 12 رابطًا عامًا.",
+      "contentNote": "مراجعة الشبكة العامة الظاهرة؛ رصد رابط جديد منذ الفحص السابق، دون إثبات أن تاريخ نشره اليوم. لا تشمل المراجعة كامل الأرشيف أو القصص المؤقتة. تعذر فتح تفاصيل الريل دون تسجيل الدخول.",
       "contentChecks": [
         {
           "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -525,6 +576,18 @@
           "status": "partial",
           "observedCount": 12,
           "newCount": 5
+        },
+        {
+          "checkedAt": "2026-10-06T08:34:37.408774+00:00",
+          "status": "partial",
+          "observedCount": 12,
+          "newCount": 0
+        },
+        {
+          "checkedAt": "2026-10-06T14:05:45.161391+00:00",
+          "status": "partial",
+          "observedCount": 12,
+          "newCount": 1
         }
       ]
     }
@@ -561,7 +624,9 @@
         "url": "https://emiz.store/ar/p/GrPNE"
       }
     ],
-    "experiment": "فرضية للاختبار: وصول الزائر إلى صفحة الصنف نفسه مع شرح واضح للحجم والقيمة قد يساعد قرار الشراء. استخدم رابط حملة مختلفًا لكل منصة، ثم قارن زيارات الصفحات والإضافة للسلة والطلبات عند توفر التتبع؛ لا يمكن إثبات هذا السلوك من الصفحات العامة وحدها."
+    "experiment": "فرضية للاختبار: وصول الزائر إلى صفحة الصنف نفسه مع شرح واضح للحجم والقيمة قد يساعد قرار الشراء. استخدم رابط حملة مختلفًا لكل منصة، ثم قارن زيارات الصفحات والإضافة للسلة والطلبات عند توفر التتبع؛ لا يمكن إثبات هذا السلوك من الصفحات العامة وحدها.",
+    "homepageCheckedAt": "2026-10-06T14:11:21.949661+00:00",
+    "homepageNote": "تأكد ظهور روابط الأصناف الأربعة وطلبات الجملة وسياسة الاستبدال ووسائل التواصل. لم يُختبر إتمام الشراء أو الدفع، ولم تُتحقق أسعار المنتجات من هذه القراءة."
   },
   "contentAutomationStatus": "scheduled"
 }

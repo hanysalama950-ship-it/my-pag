@@ -176,6 +176,13 @@ def export(data):
     from whatsapp_assignments import enrich as enrich_assignments
     enrich_assignments(data)
     enrich_completed(data)
+    verified_path=ROOT/'local/verified-completions.json'
+    if verified_path.exists():
+        verified=json.loads(verified_path.read_text(encoding='utf-8'))
+        existing={x['id'] for x in data.get('archive',[])}
+        for entry in verified:
+            if entry['id'] not in existing:
+                data['archive'].append(entry); existing.add(entry['id'])
     # User assignment applies only to archive rows without a recorded owner.
     for task in data.get('archive', []):
         if str(task.get('owner') or '').strip() in ['', 'غير مسجل', 'غير محدد', 'غير مسجلة']:
