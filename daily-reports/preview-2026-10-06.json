@@ -1,16 +1,16 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T11:36:33.953834+03:00",
+  "generatedAt": "2026-10-06T17:08:55.256118+03:00",
   "preview": true,
-  "text": "السلام عليكم أ. مهند،\n\nقسم المستودع والتشغيل:\n• آخر تقرير متاح (2026-10-05): تم تجهيز وشحن 6 طلبًا: 1 داخل الرياض و5 خارج الرياض.\n• شكاوى العملاء مستقرة.\n",
+  "text": "السلام عليكم أ. مهند،\n\nالتسويق:\n• إرسال بنرات عرض البريميوم وباقة «باقتك على مزاجك» للفريق\n\nقسم المستودع والتشغيل:\n• تم تجهيز وشحن 3 طلبًا: 3 داخل الرياض و0 خارج الرياض.\n• شكاوى العملاء مستقرة.\n",
   "staleSources": [],
   "scheduleHour": 18,
   "timezone": "Asia/Riyadh",
   "sourceReviewComplete": false,
   "reviewIssues": [
-    "مراجعة مصادر التقرير لم تكتمل للنسخة الحالية."
+    "مصادر لم تكتمل مراجعتها: archive، calls، collection، creative، creative-channel، cx، hiring، marketing، marketing-channel، orders، sales، tasks، whatsapp"
   ],
-  "reviewedSourceCount": 0,
+  "reviewedSourceCount": 1,
   "sourceCount": 14,
-  "sourceSnapshotAt": "2026-10-06T08:32:46.959Z"
+  "sourceSnapshotAt": "2026-10-06T13:59:17.458Z"
 }
