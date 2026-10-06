@@ -39,13 +39,13 @@
   {
     "id": "sales",
     "area": "مبيعات B2B",
-    "name": "مبيعات مناديب إيميز 2026",
+    "name": "مبيعات B2B — EMIZ CRM",
     "type": "Excel على Drive",
-    "url": "https://docs.google.com/spreadsheets/d/1jLI5Ns2sJ9niJUMwO-a8tC7LCrr6Oz7H/edit?gid=897192375#gid=897192375",
+    "url": "http://192.168.13.9:8081/SalesAnalyticsReport?preset=ytd&saleKind=all",
     "status": "read",
-    "details": "ملخص 2026-09 من القراءة النصية المتاحة لملف Excel؛ اكتمال الملف كله غير متحقق. لا يوجد جدول واضح للشهر 2026-10؛ المعروض أحدث فترة متاحة: 2026-09.",
-    "lastSuccessAt": "2026-10-06T08:32:46.959Z",
-    "lastCheckedAt": "2026-10-06T08:32:46.959Z",
+    "details": "لقطة من التقارير الظاهرة لجميع المناديب والنقدي والآجل. ليست نسخة كاملة من قاعدة بيانات الفواتير.",
+    "lastSuccessAt": "2026-10-06T13:42:34.991307+00:00",
+    "lastCheckedAt": "2026-10-06T13:42:34.991307+00:00",
     "syncStatus": "partial"
   },
   {
