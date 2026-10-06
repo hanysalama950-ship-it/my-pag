@@ -40,7 +40,7 @@
     "id": "sales",
     "area": "مبيعات B2B",
     "name": "مبيعات B2B — EMIZ CRM",
-    "type": "Excel على Drive",
+    "type": "نظام المبيعات الداخلي",
     "url": "http://192.168.13.9:8081/SalesAnalyticsReport?preset=ytd&saleKind=all",
     "status": "read",
     "details": "لقطة من التقارير الظاهرة لجميع المناديب والنقدي والآجل. ليست نسخة كاملة من قاعدة بيانات الفواتير.",

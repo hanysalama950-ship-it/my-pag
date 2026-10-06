@@ -141,7 +141,7 @@ def export(data):
         if data.get('sales'): data['salesLegacy']=data.pop('sales')
         for s in data['sources']:
             if s['id']=='sales':
-                s.update(name='مبيعات B2B — EMIZ CRM',url=data['b2bCRM']['sourceUrl'],status='read',syncStatus='partial',lastSuccessAt=data['b2bCRM']['lastSuccessAt'],lastCheckedAt=data['b2bCRM']['checkedAt'],details=data['b2bCRM']['scope'])
+                s.update(name='مبيعات B2B — EMIZ CRM',type='نظام المبيعات الداخلي',url=data['b2bCRM']['sourceUrl'],status='read',syncStatus='partial',lastSuccessAt=data['b2bCRM']['lastSuccessAt'],lastCheckedAt=data['b2bCRM']['checkedAt'],details=data['b2bCRM']['scope'])
                 s.pop('syncError',None)
     expense_path=ROOT/'local/b2c-expenses.json'
     if expense_path.exists(): data['b2cExpenses']=json.loads(expense_path.read_text(encoding='utf-8'))
