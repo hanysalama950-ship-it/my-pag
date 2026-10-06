@@ -52,7 +52,7 @@ async function sales(){
   return {content:file.content,modifiedTime:meta.modified_time||meta.modifiedTime};
 }
 const channelJobs=Object.entries({'marketing-channel':'C0C1KG3UE3B','creative-channel':'C0C0G8QGBSS','team-marketing-channel':'C0B0901QXSA'}).map(([key,id])=>capture(key,async()=>unwrap(await tools.mcp__codex_apps__slack_slack_read_channel({channel_id:id,limit:100,response_format:'detailed'}))));
-const jobs=[...channelJobs,sheets(),hiring(),capture('sales',sales),...Object.entries({collection:'F0BFR86EYJY',marketing:'F0C2BUTGNJC',creative:'F0BB6KV7N3U',cx:'F0BD4EG8ZNW'}).map(([key,id])=>capture(key,()=>list(id))),...Object.entries({orders:'C0B04N23NAX',calls:'C0C06E5AZ32'}).map(([key,id])=>capture(key,async()=>unwrap(await tools.mcp__codex_apps__slack_slack_read_channel({channel_id:id,limit:10}))))];
+const jobs=[...channelJobs,sheets(),hiring(),...Object.entries({collection:'F0BFR86EYJY',marketing:'F0C2BUTGNJC',creative:'F0BB6KV7N3U',cx:'F0BD4EG8ZNW'}).map(([key,id])=>capture(key,()=>list(id))),...Object.entries({orders:'C0B04N23NAX',calls:'C0C06E5AZ32'}).map(([key,id])=>capture(key,async()=>unwrap(await tools.mcp__codex_apps__slack_slack_read_channel({channel_id:id,limit:10}))))];
 const settled=await Promise.allSettled(jobs);
 for(const r of settled)if(r.status==='rejected')inbox.errors.orchestration=String(r.reason);
 inbox.checkedAt=new Date().toISOString();
