@@ -135,6 +135,14 @@ def sales(inp, today):
     if issues: notes.insert(0,'فروق بين الإجمالي المسجل وصافي الفاتورة مع الضريبة في: '+ '، '.join(issues)+'. أُبقيت القيم الأصلية.')
     return dict(period=period,modifiedTime=inp.get('modifiedTime'),scope='ملخص '+period+' من القراءة النصية المتاحة لملف Excel؛ اكتمال الملف كله غير متحقق.'+period_note,invoices=invoices,gross=float(sum((Decimal(str(r['gross'])) for r in invoices),Decimal(0))),units=sum(r['units'] for r in invoices),collectionsTotal=float(sum(collection_values,Decimal(0))),collectionCount=len(collections_rows),invalidCollections=invalid_collections,collectionsComplete=not invalid_collections,notes=notes)
 def export(data):
+    crm_path=ROOT/'local/b2b-crm-data.json'
+    if crm_path.exists():
+        data['b2bCRM']=json.loads(crm_path.read_text(encoding='utf-8'))
+        if data.get('sales'): data['salesLegacy']=data.pop('sales')
+        for s in data['sources']:
+            if s['id']=='sales':
+                s.update(name='مبيعات B2B — EMIZ CRM',url=data['b2bCRM']['sourceUrl'],status='read',syncStatus='partial',lastSuccessAt=data['b2bCRM']['lastSuccessAt'],lastCheckedAt=data['b2bCRM']['checkedAt'],details=data['b2bCRM']['scope'])
+                s.pop('syncError',None)
     expense_path=ROOT/'local/b2c-expenses.json'
     if expense_path.exists(): data['b2cExpenses']=json.loads(expense_path.read_text(encoding='utf-8'))
     social_path=ROOT/'local/social-data.json'
@@ -179,7 +187,7 @@ def export(data):
     atomic(ROOT/'sources.json',json.dumps(data['sources'],ensure_ascii=False,indent=2))
     html=(SITE/'index.html').read_text(encoding='utf-8')
     html=html.replace('<link rel="stylesheet" href="style.css">','<style>'+(SITE/'style.css').read_text(encoding='utf-8')+'</style>')
-    names=['data.js','slack-ui.js','app.js','local-sync.js','local-entries.js']
+    names=['data.js','slack-ui.js','b2b-crm.js','app.js','local-sync.js','local-entries.js']
     for name in names: html=html.replace('<script src="'+name+'" defer></script>','')
     code='\n'.join((SITE/name).read_text(encoding='utf-8') for name in names if (SITE/name).exists()).replace('</script','<\\/script')
     html=html.replace('</body>','<script>document.addEventListener("DOMContentLoaded",()=>{'+code+'\n});</script></body>')
@@ -191,6 +199,7 @@ def run(inbox, current):
     oldtime=current.get('fetchedAt')
     inputs=inbox.get('inputs',{})
     for s in current['sources']:
+        if s['id']=='sales' and (ROOT/'local/b2b-crm-data.json').exists(): continue
         # WhatsApp is read through the linked browser, independently of connectors.
         if s['id'] in ['whatsapp','marketing-channel','creative-channel','team-marketing-channel']: continue
         key=s['id']; s.setdefault('lastSuccessAt',oldtime); s['lastCheckedAt']=checked
