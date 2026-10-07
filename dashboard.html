@@ -35,7 +35,6 @@
     <button data-view="collection"><span>التحصيل</span><span aria-hidden="true">◷</span></button>
     <button data-view="teams"><span>متابعة الفرق</span><span aria-hidden="true">▦</span></button>
     <button data-view="reports"><span>الطلبات والمكالمات</span><span aria-hidden="true">≡</span></button>
-    <button data-view="whatsapp"><span>تقارير واتساب</span><span id="navWhatsapp" class="navcount"></span></button>
     <button data-view="linkedin"><span>منشورات لينكدإن</span><span aria-hidden="true">in</span></button>
     <button data-view="daily"><span>التقرير اليومي</span><span aria-hidden="true">18:00</span></button>
     <button data-view="archive"><span>أرشيف الإنجاز</span><span aria-hidden="true">✓</span></button>
@@ -157,7 +156,6 @@ const recommended=c=>/^يرشح للمقابلة/.test(String(c.recommendation||
 const shortlisted = D.hiring.filter(recommended);
 const views={overview:['نظرة عامة','المهام المباشرة، التوظيف، المبيعات وقنوات الفريق.'],tasks:['المهام المباشرة','التكليفات الواردة في شيت المتابعة، مع آخر ملاحظة مسجلة.'],hiring:['متابعة التوظيف','رئيس الحسابات · التبويب المحدد في رابط درايف المقابلات.'],sales:['مبيعات B2B','مبيعات مناديب إيميز · ملخص السجلات المقروءة.'],archive:['أرشيف الإنجاز','سجلات المهام المكتملة، مع الاحتفاظ بالتكرارات كما وردت في المصدر.'],sources:['قنوات ومصادر المتابعة','10 مصادر تجمع التكليفات والتقارير وقنوات الفريق.']};
 Object.assign(views,{collection:['متابعة التحصيل','أرصدة ومواعيد استحقاق كما وردت في قائمة collection-tracking.'],teams:['متابعة الفرق','الماركتنج والمحتوى وشكاوى العملاء.'],reports:['الطلبات والمكالمات','آخر التقارير الظاهرة في قناتي العمليات والمكالمات.']});
-Object.assign(views,{whatsapp:['تقارير واتساب','التقارير النصية المرسلة إلى أ. مهند · قراءة مباشرة من المحادثة.']});
 views.linkedin=['منشورات لينكدإن','مسودة احترافية كل 3 أيام · للمراجعة والنشر اليدوي'];
 views.social=['أداء وسائل السوشيال ميديا','التقارير اليومية وتفاعل الجمهور والتحويل إلى المتجر'];
 views.salesDaily=['التقرير اليومي للمبيعات','نتائج اليوم والتحصيل ونشاط المناديب وأولويات المتابعة للإدارة'];
@@ -181,7 +179,6 @@ function navigate(view){if(!Object.hasOwn(views,view))throw new Error('القس�
 function render(){
   views.sources[1]=N(D.sources.length)+' مصدرًا للتكليفات والتقارير وقنوات الفريق.';
   document.getElementById('navSources').textContent=N(D.sources.length);
-  document.getElementById('navWhatsapp').textContent=N(D.whatsapp?.reports?.length||0);
   document.getElementById('pageTitle').textContent=views[state.view][0];document.getElementById('pageSubtitle').textContent=views[state.view][1];
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===state.view);if(b.dataset.view===state.view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});
   if(state.view==='social')renderSocial();else if(state.view==='b2c')renderB2C();else if(state.view==='projects')renderProjects();else if(state.view==='overview')renderOverview();else if(state.view==='tasks'||state.view==='archive')renderTasks();else if(state.view==='hiring')renderHiring();else if(state.view==='sales')renderCRMSales();else if(state.view==='salesDaily')renderCRMDaily();else if(state.view==='collection')renderCollection();else if(state.view==='teams')renderTeams();else if(state.view==='reports')renderReports();else if(state.view==='whatsapp')renderWhatsApp();else if(state.view==='linkedin')renderLinkedin();else if(state.view==='daily')renderDaily();else renderSources();
