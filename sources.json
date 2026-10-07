@@ -8,8 +8,8 @@
     "status": "read",
     "details": "قراءة تبويب المتابعة؛ تاريخ التقرير داخل المصدر: 30-9-2026",
     "sourceDate": "30-9-2026",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -20,8 +20,8 @@
     "url": "https://docs.google.com/spreadsheets/d/1cRqADbYSr9xMgs2IXMEPIVj6GokDC8Zt_19uHz_tt1I/edit?gid=281417223#gid=281417223",
     "status": "read",
     "details": "سجلات المهام المسماة؛ التكرارات محفوظة كما في المصدر.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -32,8 +32,8 @@
     "url": "https://docs.google.com/spreadsheets/d/1zgluTTLz2H8Wm0XtCb16pz_HJisOGhmCJmfAyZ9RB6A/edit?gid=1240866926#gid=1240866926",
     "status": "read",
     "details": "أسماء المرشحين والتوصية النهائية في تبويب رئيس الحسابات.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -56,8 +56,8 @@
     "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BFR86EYJY",
     "status": "read",
     "details": "قراءة القائمة كاملة؛ الأرصدة المعروضة تحتاج مطابقة الفواتير.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -70,8 +70,8 @@
     "channelUrl": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
     "status": "read",
     "details": "قراءة قائمة الماركتنج كاملة.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -82,8 +82,8 @@
     "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BB6KV7N3U",
     "status": "read",
     "details": "قراءة قائمة المحتوى كاملة.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -94,8 +94,8 @@
     "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BD4EG8ZNW",
     "status": "read",
     "details": "قراءة قائمة شكاوى العملاء كاملة.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -107,8 +107,8 @@
     "channelId": "C0B04N23NAX",
     "status": "read",
     "details": "آخر 10 رسائل بالقناة؛ استخراج تقارير الطلبات ذات الأرقام الصريحة.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "ok"
   },
   {
@@ -120,8 +120,8 @@
     "channelId": "C0C06E5AZ32",
     "status": "read",
     "details": "روابط التقارير في آخر 10 رسائل. أعداد المكالمات داخل المرفقات غير متحققة.",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "syncStatus": "partial"
   },
   {
@@ -142,10 +142,10 @@
     "name": "marketing-master-task-list",
     "type": "Slack channel",
     "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
     "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
   },
   {
@@ -154,10 +154,10 @@
     "name": "creative-team",
     "type": "Slack channel",
     "url": "https://al-rossaisgroup.slack.com/archives/C0C0G8QGBSS",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
     "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
   },
   {
@@ -166,10 +166,10 @@
     "name": "team-marketing",
     "type": "Slack channel",
     "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA",
-    "lastCheckedAt": "2026-10-07T09:04:42.435Z",
+    "lastCheckedAt": "2026-10-07T09:32:06.595Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T09:04:42.435Z",
+    "lastSuccessAt": "2026-10-07T09:32:06.595Z",
     "details": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
   }
 ]
