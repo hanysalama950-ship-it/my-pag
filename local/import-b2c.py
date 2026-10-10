@@ -22,6 +22,7 @@ if __name__=='__main__':
     previous=json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     d=merge_reports(previous,incoming)
     atomic(path,json.dumps(d,ensure_ascii=False))
-    current=json.loads((SITE/'data.json').read_text(encoding='utf-8'))
+    from public_summary import current as private_current
+    current=private_current()
     export(current)
     print('B2C imported: '+d['checkedAt'])

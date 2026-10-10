@@ -10,3 +10,10 @@ __pycache__/
 node_modules/
 .venv/
 *.lnk
+local/github-sync.lock
+local/github-publish-state.json
+local/github-publish-state.tmp
+
+# Local-only Drive/Slack detail; public export contains aggregates.
+local/private-dashboard-data.json
+local/private-data.js
