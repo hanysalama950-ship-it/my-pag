@@ -4,12 +4,12 @@
     "area": "المهام المباشرة",
     "name": "المتابعة",
     "type": "Google Sheets",
-    "url": "https://docs.google.com/spreadsheets/d/1cRqADbYSr9xMgs2IXMEPIVj6GokDC8Zt_19uHz_tt1I/edit?gid=0#gid=0",
+    "url": "",
     "status": "read",
-    "details": "قراءة تبويب المتابعة؛ تاريخ التقرير داخل المصدر: 30-9-2026",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
     "sourceDate": "30-9-2026",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -17,11 +17,11 @@
     "area": "المهام المكتملة",
     "name": "أرشيف المهام المكتملة",
     "type": "Google Sheets",
-    "url": "https://docs.google.com/spreadsheets/d/1cRqADbYSr9xMgs2IXMEPIVj6GokDC8Zt_19uHz_tt1I/edit?gid=281417223#gid=281417223",
+    "url": "",
     "status": "read",
-    "details": "سجلات المهام المسماة؛ التكرارات محفوظة كما في المصدر.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -29,11 +29,11 @@
     "area": "التوظيف",
     "name": "درايف المقابلات",
     "type": "Google Sheets",
-    "url": "https://docs.google.com/spreadsheets/d/1zgluTTLz2H8Wm0XtCb16pz_HJisOGhmCJmfAyZ9RB6A/edit?gid=1240866926#gid=1240866926",
+    "url": "",
     "status": "read",
-    "details": "أسماء المرشحين والتوصية النهائية في تبويب رئيس الحسابات.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -45,19 +45,20 @@
     "status": "read",
     "details": "مؤشرات اليوم والشهر والسنة والجداول التفصيلية مقروءة في 7 أكتوبر. الذمم إجمالي المصدر دون استبعاد العميل المطلوب؛ التحصيل التفصيلي محتفظ بآخر قراءة.",
     "lastSuccessAt": "2026-10-07T13:39:42.226947+00:00",
-    "lastCheckedAt": "2026-10-07T13:39:42.226947+00:00",
-    "syncStatus": "partial"
+    "lastCheckedAt": "2026-10-10T12:15:31.463301+00:00",
+    "syncStatus": "error",
+    "syncError": "تعذر تشغيل أداة المتصفح المرتبط؛ آخر قراءة ناجحة محفوظة بتاريخها."
   },
   {
     "id": "collection",
     "area": "التحصيل",
     "name": "collection-tracking",
     "type": "Slack List",
-    "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BFR86EYJY",
+    "url": "",
     "status": "read",
-    "details": "قراءة القائمة كاملة؛ الأرصدة المعروضة تحتاج مطابقة الفواتير.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -65,13 +66,11 @@
     "area": "الماركتنج",
     "name": "marketing-master-task-list",
     "type": "Slack List",
-    "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0C2BUTGNJC",
-    "channelId": "C0C1KG3UE3B",
-    "channelUrl": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
+    "url": "",
     "status": "read",
-    "details": "قراءة قائمة الماركتنج كاملة.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -79,11 +78,11 @@
     "area": "المحتوى",
     "name": "creative-team",
     "type": "Slack List",
-    "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BB6KV7N3U",
+    "url": "",
     "status": "read",
-    "details": "قراءة قائمة المحتوى كاملة.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -91,11 +90,11 @@
     "area": "شكاوى العملاء",
     "name": "operations-cx",
     "type": "Slack List",
-    "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BD4EG8ZNW",
+    "url": "",
     "status": "read",
-    "details": "قراءة قائمة شكاوى العملاء كاملة.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -103,12 +102,11 @@
     "area": "الطلبات اليومية",
     "name": "التقرير اليومي لعدد الطلبات",
     "type": "Slack Channel",
-    "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX",
-    "channelId": "C0B04N23NAX",
+    "url": "",
     "status": "read",
-    "details": "آخر 10 رسائل بالقناة؛ استخراج تقارير الطلبات ذات الأرقام الصريحة.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "ok"
   },
   {
@@ -116,12 +114,11 @@
     "area": "المكالمات التسويقية",
     "name": "emiz-call-center",
     "type": "Slack Channel",
-    "url": "https://al-rossaisgroup.slack.com/archives/C0C06E5AZ32",
-    "channelId": "C0C06E5AZ32",
+    "url": "",
     "status": "read",
-    "details": "روابط التقارير في آخر 10 رسائل. أعداد المكالمات داخل المرفقات غير متحققة.",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "syncStatus": "partial"
   },
   {
@@ -129,47 +126,47 @@
     "area": "التقارير المرسلة للرئيس التنفيذي",
     "name": "أ مهند الرصيص ١",
     "type": "WhatsApp Business",
-    "url": "https://web.whatsapp.com/",
+    "url": "",
     "status": "read",
-    "syncStatus": "partial",
+    "syncStatus": "error",
     "lastSuccessAt": "2026-10-07T13:40:27.676042Z",
-    "lastCheckedAt": "2026-10-07T13:40:27.676042Z",
-    "details": "تقارير نصية من المحادثة الخاصة؛ السجل غير مكتمل. التحديث التلقائي من واتساب لم يُتحقق بعد."
+    "lastCheckedAt": "2026-10-10T12:15:31.463301+00:00",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
     "id": "marketing-channel",
     "area": "تقارير الماركتنج",
     "name": "marketing-master-task-list",
     "type": "Slack channel",
-    "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "url": "",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
     "id": "creative-channel",
     "area": "تقارير الماركتنج",
     "name": "creative-team",
     "type": "Slack channel",
-    "url": "https://al-rossaisgroup.slack.com/archives/C0C0G8QGBSS",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "url": "",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
     "id": "team-marketing-channel",
     "area": "تقارير الماركتنج",
     "name": "team-marketing",
     "type": "Slack channel",
-    "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA",
-    "lastCheckedAt": "2026-10-07T15:20:46.387Z",
+    "url": "",
+    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-07T15:20:46.387Z",
-    "details": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
+    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   }
 ]
