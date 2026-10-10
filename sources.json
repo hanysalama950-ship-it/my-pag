@@ -8,8 +8,8 @@
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
     "sourceDate": "30-9-2026",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -20,8 +20,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -32,8 +32,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -56,8 +56,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -68,8 +68,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -80,8 +80,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -92,8 +92,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -104,8 +104,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "ok"
   },
   {
@@ -116,8 +116,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "syncStatus": "partial"
   },
   {
@@ -138,10 +138,10 @@
     "name": "marketing-master-task-list",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
@@ -150,10 +150,10 @@
     "name": "creative-team",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
@@ -162,10 +162,10 @@
     "name": "team-marketing",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-10T12:11:21.112Z",
+    "lastCheckedAt": "2026-10-10T15:08:05.047Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-10T12:11:21.112Z",
+    "lastSuccessAt": "2026-10-10T15:08:05.047Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   }
 ]
