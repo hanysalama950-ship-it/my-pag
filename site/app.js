@@ -1,7 +1,7 @@
 'use strict';
 function projectAttachment(p,a){
  if(!a.file || !['file:','https:','http:'].includes(location.protocol))return E(a.name);
- if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.id) || !/^attachments\/[^/\\]+\.pdf$/i.test(a.file))return E(a.name);
+ if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.id) || !/^attachments\/[^/\\]+\.(?:pdf|html)$/i.test(a.file))return E(a.name);
  const base=location.pathname.endsWith('/dashboard.html')?'./':'../';
  const path=base+'task-projects/'+encodeURIComponent(p.id)+'/'+a.file.split('/').map(encodeURIComponent).join('/');
  return `<a href="${E(path)}" target="_blank" rel="noopener">${E(a.name)} ↗</a>`;
