@@ -8,8 +8,8 @@
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
     "sourceDate": "11-10-2026",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -20,8 +20,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -32,8 +32,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -56,8 +56,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -68,8 +68,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -80,8 +80,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -92,8 +92,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "ok"
   },
   {
@@ -105,7 +105,7 @@
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
     "lastSuccessAt": "2026-10-10T15:08:05.047Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "error"
   },
   {
@@ -116,8 +116,8 @@
     "url": "",
     "status": "read",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "syncStatus": "partial"
   },
   {
@@ -138,10 +138,10 @@
     "name": "marketing-master-task-list",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
@@ -150,10 +150,10 @@
     "name": "creative-team",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   },
   {
@@ -162,10 +162,10 @@
     "name": "team-marketing",
     "type": "Slack channel",
     "url": "",
-    "lastCheckedAt": "2026-10-11T14:47:03.320Z",
+    "lastCheckedAt": "2026-10-12T07:40:04.379Z",
     "status": "read",
     "syncStatus": "ok",
-    "lastSuccessAt": "2026-10-11T14:47:03.320Z",
+    "lastSuccessAt": "2026-10-12T07:40:04.379Z",
     "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا."
   }
 ]
