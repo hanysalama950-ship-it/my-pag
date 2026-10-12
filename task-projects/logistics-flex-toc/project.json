@@ -71,6 +71,15 @@
   ],
   "attachments": [
     {
+      "name": "عرض أسعار فلكستوك — نسخة PDF للعرض",
+      "file": "attachments/Flextock-Quotation.pdf",
+      "date": "2026-10-12",
+      "bytes": 249843,
+      "sha256": "3c8bf64e211e7f809ac04fa04f4019f023dd309d42007190a9c5a0d6414af177",
+      "status": "نسخة PDF من العرض الأصلي",
+      "category": "عرض الأسعار"
+    },
+    {
       "name": "بروفايل فلكستوك",
       "file": "attachments/Flextock KSA — Company profile.pdf",
       "date": "2026-10-12",
