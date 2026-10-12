@@ -25,18 +25,6 @@
     "syncStatus": "ok"
   },
   {
-    "id": "hiring",
-    "area": "التوظيف",
-    "name": "درايف المقابلات",
-    "type": "Google Sheets",
-    "url": "",
-    "status": "read",
-    "details": "ملخصات عامة؛ تفاصيل المصدر محفوظة محليًا.",
-    "lastSuccessAt": "2026-10-12T07:51:47.579Z",
-    "lastCheckedAt": "2026-10-12T07:51:47.579Z",
-    "syncStatus": "ok"
-  },
-  {
     "id": "sales",
     "area": "مبيعات B2B",
     "name": "مبيعات B2B — EMIZ CRM",
