@@ -612,6 +612,56 @@
       "sources": [],
       "updatedAt": "2026-10-17",
       "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+    },
+    {
+      "id": "picks",
+      "name": "PICKS / PERGALĖ",
+      "category": "فواكه مغلفة وحلويات",
+      "photos": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "products": [
+        "فراولة وتوت عليق بغلاف الزبادي (Yogurt Glaze)",
+        "فراولة وتوت عليق وكرز بغلاف Milk Cocoa",
+        "فراولة بغلاف Yogurt and Milk Cocoa",
+        "تظهر على رف العرض أصناف مانجو وموز وأناناس؛ التركيبة الدقيقة تحتاج كتالوجًا"
+      ],
+      "contacts": [
+        {
+          "name": "Vincas Zaščižinskas",
+          "role": "Head of Export — من الموقع الرسمي",
+          "email": "vincas.zascizinskas@pergale.lt",
+          "phones": [
+            "+37065971149"
+          ],
+          "website": "https://www.pergale.lt/contacts/",
+          "source": "صفحة التواصل الرسمية؛ لا يُفترض أنه صاحب البطاقة المغطاة في الصورة"
+        },
+        {
+          "name": "AB Vilniaus Pergalė",
+          "role": "التواصل العام",
+          "email": "info@pergale.lt",
+          "phones": [
+            "+37052751311"
+          ],
+          "website": "https://www.pergale.lt",
+          "source": "صفحة التواصل الرسمية"
+        }
+      ],
+      "notes": "وردت أربع صور الساعة 17:01؛ اثنتان للجناح واثنتان للمنتجات. بطاقة الأعمال مغطاة جزئيًا؛ لم تُنسخ أرقام أو أسماء غير مقروءة. لا يوجد عرض سعر أو رقم جناح ظاهر.",
+      "booth": "غير ظاهر في الصور",
+      "address": "V. A. Graičiūno str. 26, LT-02241 Vilnius, Lithuania",
+      "sources": [
+        [
+          "صفحة التواصل الرسمية",
+          "https://www.pergale.lt/contacts/"
+        ]
+      ],
+      "updatedAt": "2026-10-17",
+      "status": "صور جديدة محفوظة — التواصل التجاري لم يُنفذ"
     }
   ],
   "images": [
@@ -1028,6 +1078,43 @@
       "sha256": "1ac3fe7c7f4cef9a10de6256057fceb3be5f00793bde35ddf70ac409cfb643e6",
       "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026",
       "direction": "outgoing"
+    },
+    {
+      "n": 47,
+      "file": "WhatsApp Image 2026-10-17 at 5.01.12 PM.jpeg",
+      "path": "sial-images/sial-047.jpg",
+      "bytes": 238666,
+      "sha256": "8d8adffb2a1b2a43776b7b4c07f9ca23d50099a21a62306356f77c26a5aac6f7",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026، 17:01",
+      "direction": "incoming"
+    },
+    {
+      "n": 48,
+      "file": "WhatsApp Image 2026-10-17 at 5.01.12 PM (1).jpeg",
+      "path": "sial-images/sial-048.jpg",
+      "bytes": 236598,
+      "sha256": "f1cbd7ba753b4b6332f7e2843f60314e2e18deaf4de88c46deca1c8d5f340bc4",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026، 17:01",
+      "direction": "incoming"
+    },
+    {
+      "n": 49,
+      "file": "WhatsApp Image 2026-10-17 at 5.01.13 PM.jpeg",
+      "path": "sial-images/sial-049.jpg",
+      "bytes": 237072,
+      "sha256": "8922f2bc7f31fa208da9828708b9dac7dca2cad8bea3fc96b3b4c014d188a1fb",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026، 17:01",
+      "direction": "incoming"
+    },
+    {
+      "n": 50,
+      "file": "WhatsApp Image 2026-10-17 at 5.01.13 PM (1).jpeg",
+      "path": "sial-images/sial-050.jpg",
+      "bytes": 228520,
+      "sha256": "08e121753d59fa14bfae0111417a99474bd9dc20782254348fcb230a46301b26",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026، 17:01",
+      "direction": "incoming"
     }
-  ]
+  ],
+  "lastAdditionAt": "2026-10-17T17:01:00+03:00"
 }
