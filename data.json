@@ -5660,6 +5660,233 @@
       "url": "https://docs.google.com/spreadsheets/d/1cRqADbYSr9xMgs2IXMEPIVj6GokDC8Zt_19uHz_tt1I/edit?gid=281417223#gid=281417223&range=A341:E341"
     },
     {
+      "id": "verified-C0B0901QXSA:1791294959.226559",
+      "title": "إرسال بنرات عرض البريميوم وباقة «باقتك على مزاجك» للفريق",
+      "owner": "جيهان رميلي",
+      "department": "التسويق",
+      "status": "تم الإنجاز",
+      "priority": "",
+      "source": "verified-source",
+      "sourceId": "team-marketing-channel",
+      "sourceRecordId": "C0B0901QXSA:1791294959.226559",
+      "completionDate": "2026-10-06",
+      "due": "2026-10-06",
+      "dateBasis": "تاريخ إرسال البنرات في Slack",
+      "note": "تم إرسال البنرات للفريق؛ نشرها على المتجر إجراء مستقل لم يُثبت اكتماله.",
+      "evidence": "مرفق لكم بنرات العروض الخاصة بالمتجر:\n• البنر الأول: عرض البريميوم بسعر 199 ريال.\n• البنر الثاني: باقتك على مزاجك بسعر 499 ريال.",
+      "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1791294959226559"
+    },
+    {
+      "id": "graphic-portfolio-review-2026-10-12",
+      "title": "مراجعة 20 ملف أعمال لوظيفة جرافيك ديزاين، وإعداد ترتيب أولي وملخص لكل مرشح يشمل نقاط القوة والجوانب المطلوب التحقق منها وأسئلة المقابلة، مع حفظ نسخ معاينة لثلاثة ملفات خارجية.",
+      "owner": "هاني",
+      "department": "التوظيف",
+      "status": "تم الإنجاز",
+      "priority": "",
+      "source": "verified-source",
+      "sourceId": "hiring-manual",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "dateBasis": "تاريخ إعداد المراجعة في اللوحة",
+      "note": "إعداد تقييم بصري وترتيب أولي لملفات الأعمال العشرين، مع حفظ نسخ معاينة محلية لثلاثة مواقع.",
+      "evidence": "الملفات المحلية وتقييمات local/hiring-roles.json؛ أُعدت المراجعة بمساعدة Codex.",
+      "url": ""
+    },
+    {
+      "id": "verified-C0C0G8QGBSS:1791804034.076359",
+      "title": "عقد اجتماع لتنظيم عمل المحتوى، واعتماد تخصيص 4 ساعات للتخطيط والكلندر و4 ساعات لإنتاج الفيديوهات، مع تحديد مستهدف فيديوهين نهائيين يوميًا وآلية توثيق مواعيد التسليم.",
+      "department": "التسويق",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "sourceId": "creative-channel",
+      "sourceRecordId": "C0C0G8QGBSS:1791804034.076359",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "بناءً على الاجتماع الذي عُقد اليوم، تم الاتفاق على تنظيم يوم العمل",
+      "url": "",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "verified-C0B0901QXSA:1791795969.449699",
+      "title": "تحديث قسم Media Buyer Tasks لمهام الإعلانات المدفوعة، وتحديد تسجيل وصف المهمة وتاريخ البداية والموعد النهائي والحالة، وآلية التحديث اليومي وتوثيق أسباب التأخير.",
+      "department": "التسويق",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "sourceId": "team-marketing-channel",
+      "sourceRecordId": "C0B0901QXSA:1791795969.449699",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "تم تحديث خانة *Media Buyer Tasks*",
+      "url": "",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "verified-Rec0C1G6TR9PX",
+      "title": "إعداد خطة تصنيف العملاء إلى الفئات البرونزية والفضية والذهبية.",
+      "department": "التسويق",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "sourceId": "marketing",
+      "sourceRecordId": "Rec0C1G6TR9PX",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "خطة لترتيب قائمة العملاء (البرنزي -الفضي -الذهبي )",
+      "url": "",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "flex-docs-2026-10-12",
+      "title": "تجهيز ملف مستقل لشركة فلكس توك، وحفظ بروفايل الشركة وعرض الأسعار، واستخلاص بنود تكلفة التخزين والتجهيز والشحن.",
+      "department": "المشروعات اللوجستية",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "استلام البروفايل وعرض الأسعار",
+      "sourceFile": "task-projects/logistics-flex-toc/project.json",
+      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
+      "url": ""
+    },
+    {
+      "id": "flex-meeting-arranged-2026-10-12",
+      "title": "تنسيق اجتماع الشراكة مع فلكس توك عبر Google Meet واستلام دعوة الاجتماع وإضافتها إلى ملف المشروع.",
+      "department": "المشروعات اللوجستية",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "استلام دعوة اجتماع الشراكة",
+      "sourceFile": "task-projects/logistics-flex-toc/project.json",
+      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
+      "url": ""
+    },
+    {
+      "id": "jeddah-interviews-arranged-2026-10-12",
+      "title": "تنظيم ملفات ثلاثة مرشحين لمندوبي مبيعات جدة وتحديد مواعيد مقابلاتهم لليوم التالي، بفاصل نصف ساعة بين المقابلات.",
+      "department": "التوظيف",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "completionDate": "2026-10-12",
+      "due": "2026-10-12",
+      "evidence": "تحديد مواعيد مقابلات 13 أكتوبر",
+      "sourceFile": "local/hiring-roles.json",
+      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
+      "url": ""
+    },
+    {
+      "id": "riyadh-cv-review-2026-10-13",
+      "title": "مراجعة خمس سير ذاتية لمندوبي مبيعات الرياض وإعداد ترتيب أولي حسب خبرة الهوريكا وملخصات للإدارة وأسئلة المقابلات.",
+      "department": "التوظيف",
+      "owner": "هاني",
+      "status": "تم الإنجاز",
+      "source": "verified-source",
+      "completionDate": "2026-10-13",
+      "evidence": "السير الخمس المرسلة ومراجعتها المحلية في hiring-roles.json؛ المراجعة بمساعدة Codex.",
+      "url": ""
+    },
+    {
+      "id": "crm-invoice-216-20261014",
+      "department": "مبيعات B2B",
+      "title": "تم تسجيل فاتورة للعميل زاد بقيمة 3,031.86 ريال شامل الضريبة.",
+      "evidence": "SL-20261014-0001 — 2026-10-14 — زاد — 3,031.86",
+      "url": "http://192.168.13.9:8081/SalesAnalyticsReport?preset=today&saleKind=all",
+      "completionDate": "2026-10-14",
+      "source": "verified-source",
+      "sourceFile": "outputs/sial-20261014/crm-today-evidence.json",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "salla-sales-20261014",
+      "department": "مبيعات المتجر",
+      "title": "سجل المتجر 11 طلبًا بإجمالي مبيعات 5,807 ريال حتى وقت إعداد التقرير.",
+      "evidence": "{\"sales.total_tax\": 0, \"sales.total_epayment_fee\": 71, \"sales.orders_count\": 11, \"customer-count\": 11, \"sales.total_sales\": 5807, \"sales.total_discount\": 239, \"sales.total_shipping\": 0, \"order-returned-count\": 0, \"avg-cart-price\": 549}",
+      "url": "",
+      "completionDate": "2026-10-14",
+      "source": "verified-source",
+      "sourceFile": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "eureka-report-20261014",
+      "department": "المشروعات",
+      "title": "تم إعداد الدراسة الشاملة لمشروع استخراج البيانات المالية داخل نظام يوريكا، متضمنة خطة التنفيذ والمتطلبات والاختبارات.",
+      "evidence": "التقرير الإداري المحفوظ من 30 فصلًا بتاريخ 14 أكتوبر 2026",
+      "url": "",
+      "completionDate": "2026-10-14",
+      "source": "verified-source",
+      "sourceFile": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "eureka-format-v2-20261015",
+      "department": "المشروعات",
+      "title": "تم إعادة تنسيق دراسة أتمتة التقارير المالية داخل يوريكا ونشر الإصدار 2.0، مع مذكرة للإدارة وملاحق الدراسة الكاملة.",
+      "evidence": "إعادة تنظيم الدراسة لعرضها على الإدارة — الإصدار 2.0",
+      "sourceFile": "task-projects/eureka-fde/project.json",
+      "completionDate": "2026-10-15",
+      "source": "verified-source",
+      "url": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "flextock-four-hour-enquiry-20261015",
+      "department": "المشروعات",
+      "title": "تم طلب توضيح سعر التوصيل خلال أربع ساعات داخل الرياض من فلكستوك؛ بانتظار رد الشركة.",
+      "evidence": "بخصوص موضوع التوصيل خلال اربع ساعات داخل الرياض\nسعره مش موجود",
+      "sourceFile": "task-projects/logistics-flex-toc/project.json",
+      "completionDate": "2026-10-15",
+      "source": "verified-source",
+      "url": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "salla-sales-snapshot-20261015",
+      "department": "مبيعات المتجر",
+      "title": "سجل المتجر 4 طلبات بإجمالي مبيعات 1,064.00 ريال حتى قراءة الساعة 16:38 بتوقيت الرياض؛ متابعة خلال اليوم.",
+      "evidence": "{\"sales\": 1064, \"orders\": 4, \"average_order_value\": 278, \"customers\": 4, \"returned_orders\": 0, \"units_sold\": 4, \"discount\": 49.9, \"tax\": 0, \"shipping\": 18, \"cod_fees\": 18, \"payment_fees\": 8.37, \"cost_of_goods\": 165}",
+      "sourceFile": "local/b2c-data.json",
+      "completionDate": "2026-10-15",
+      "source": "verified-source",
+      "url": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "crm-sales-snapshot-20261015",
+      "department": "مبيعات B2B",
+      "title": "بلغت مبيعات اليوم 2,636.40 ريال والمردودات 9,577.20 ريال، بصافي -6,940.80 ريال قبل الضريبة حتى قراءة الساعة 16:40؛ ليست إقفالًا نهائيًا.",
+      "evidence": "{\"label\": \"اليوم\", \"fromDate\": \"2026-10-15\", \"toDate\": \"2026-10-15\", \"sales\": 2636.4, \"returns\": 9577.2, \"net\": -6940.8, \"netWithVat\": -7981.92, \"collections\": 0, \"invoices\": 1, \"customers\": 1, \"returnCount\": 3, \"checkedAt\": \"2026-10-15T13:40:33.487752+00:00\", \"target\": 0, \"targetPercent\": null}",
+      "sourceFile": "local/b2b-crm-data.json",
+      "completionDate": "2026-10-15",
+      "source": "verified-source",
+      "url": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
+      "id": "eureka-submitted-20261015",
+      "department": "المشروعات",
+      "title": "تم إرسال دراسة يوريكا PDF لأ. مهند الساعة 16:20، وذُكر إرسال نسخة لأ. هيثم الساعة 16:21. يلزم مطابقة النطاق مع توضيح n8n قبل اعتماد التنفيذ.",
+      "completionDate": "2026-10-15",
+      "source": "verified-source",
+      "sourceFile": "task-projects/eureka-fde/project.json",
+      "evidence": "رسالة PDF ظاهرة في محادثة أ. مهند ثم: وارسلت بردو نسخة ل أ هيثم",
+      "url": "",
+      "owner": "هاني",
+      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
+    },
+    {
       "id": "orders-2026-10-14",
       "title": "تم تجهيز وشحن 12 طلبًا: 3 داخل الرياض و9 خارج الرياض.",
       "owner": "هاني",
@@ -14579,233 +14806,6 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BB6KV7N3U",
       "evidence": "حالة المصدر: تم الإنجاز",
       "archivedFromSnapshot": "2026-10-17T10:02:08.381Z"
-    },
-    {
-      "id": "verified-C0B0901QXSA:1791294959.226559",
-      "title": "إرسال بنرات عرض البريميوم وباقة «باقتك على مزاجك» للفريق",
-      "owner": "جيهان رميلي",
-      "department": "التسويق",
-      "status": "تم الإنجاز",
-      "priority": "",
-      "source": "verified-source",
-      "sourceId": "team-marketing-channel",
-      "sourceRecordId": "C0B0901QXSA:1791294959.226559",
-      "completionDate": "2026-10-06",
-      "due": "2026-10-06",
-      "dateBasis": "تاريخ إرسال البنرات في Slack",
-      "note": "تم إرسال البنرات للفريق؛ نشرها على المتجر إجراء مستقل لم يُثبت اكتماله.",
-      "evidence": "مرفق لكم بنرات العروض الخاصة بالمتجر:\n• البنر الأول: عرض البريميوم بسعر 199 ريال.\n• البنر الثاني: باقتك على مزاجك بسعر 499 ريال.",
-      "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1791294959226559"
-    },
-    {
-      "id": "graphic-portfolio-review-2026-10-12",
-      "title": "مراجعة 20 ملف أعمال لوظيفة جرافيك ديزاين، وإعداد ترتيب أولي وملخص لكل مرشح يشمل نقاط القوة والجوانب المطلوب التحقق منها وأسئلة المقابلة، مع حفظ نسخ معاينة لثلاثة ملفات خارجية.",
-      "owner": "هاني",
-      "department": "التوظيف",
-      "status": "تم الإنجاز",
-      "priority": "",
-      "source": "verified-source",
-      "sourceId": "hiring-manual",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "dateBasis": "تاريخ إعداد المراجعة في اللوحة",
-      "note": "إعداد تقييم بصري وترتيب أولي لملفات الأعمال العشرين، مع حفظ نسخ معاينة محلية لثلاثة مواقع.",
-      "evidence": "الملفات المحلية وتقييمات local/hiring-roles.json؛ أُعدت المراجعة بمساعدة Codex.",
-      "url": ""
-    },
-    {
-      "id": "verified-C0C0G8QGBSS:1791804034.076359",
-      "title": "عقد اجتماع لتنظيم عمل المحتوى، واعتماد تخصيص 4 ساعات للتخطيط والكلندر و4 ساعات لإنتاج الفيديوهات، مع تحديد مستهدف فيديوهين نهائيين يوميًا وآلية توثيق مواعيد التسليم.",
-      "department": "التسويق",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "sourceId": "creative-channel",
-      "sourceRecordId": "C0C0G8QGBSS:1791804034.076359",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "بناءً على الاجتماع الذي عُقد اليوم، تم الاتفاق على تنظيم يوم العمل",
-      "url": "",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "verified-C0B0901QXSA:1791795969.449699",
-      "title": "تحديث قسم Media Buyer Tasks لمهام الإعلانات المدفوعة، وتحديد تسجيل وصف المهمة وتاريخ البداية والموعد النهائي والحالة، وآلية التحديث اليومي وتوثيق أسباب التأخير.",
-      "department": "التسويق",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "sourceId": "team-marketing-channel",
-      "sourceRecordId": "C0B0901QXSA:1791795969.449699",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "تم تحديث خانة *Media Buyer Tasks*",
-      "url": "",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "verified-Rec0C1G6TR9PX",
-      "title": "إعداد خطة تصنيف العملاء إلى الفئات البرونزية والفضية والذهبية.",
-      "department": "التسويق",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "sourceId": "marketing",
-      "sourceRecordId": "Rec0C1G6TR9PX",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "خطة لترتيب قائمة العملاء (البرنزي -الفضي -الذهبي )",
-      "url": "",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "flex-docs-2026-10-12",
-      "title": "تجهيز ملف مستقل لشركة فلكس توك، وحفظ بروفايل الشركة وعرض الأسعار، واستخلاص بنود تكلفة التخزين والتجهيز والشحن.",
-      "department": "المشروعات اللوجستية",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "استلام البروفايل وعرض الأسعار",
-      "sourceFile": "task-projects/logistics-flex-toc/project.json",
-      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
-      "url": ""
-    },
-    {
-      "id": "flex-meeting-arranged-2026-10-12",
-      "title": "تنسيق اجتماع الشراكة مع فلكس توك عبر Google Meet واستلام دعوة الاجتماع وإضافتها إلى ملف المشروع.",
-      "department": "المشروعات اللوجستية",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "استلام دعوة اجتماع الشراكة",
-      "sourceFile": "task-projects/logistics-flex-toc/project.json",
-      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
-      "url": ""
-    },
-    {
-      "id": "jeddah-interviews-arranged-2026-10-12",
-      "title": "تنظيم ملفات ثلاثة مرشحين لمندوبي مبيعات جدة وتحديد مواعيد مقابلاتهم لليوم التالي، بفاصل نصف ساعة بين المقابلات.",
-      "department": "التوظيف",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "completionDate": "2026-10-12",
-      "due": "2026-10-12",
-      "evidence": "تحديد مواعيد مقابلات 13 أكتوبر",
-      "sourceFile": "local/hiring-roles.json",
-      "dateBasis": "تحديث المشروع المؤرخ وتأكيد المستخدم؛ الإنجاز هو التجهيز أو التنسيق وليس انعقاد المقابلة.",
-      "url": ""
-    },
-    {
-      "id": "riyadh-cv-review-2026-10-13",
-      "title": "مراجعة خمس سير ذاتية لمندوبي مبيعات الرياض وإعداد ترتيب أولي حسب خبرة الهوريكا وملخصات للإدارة وأسئلة المقابلات.",
-      "department": "التوظيف",
-      "owner": "هاني",
-      "status": "تم الإنجاز",
-      "source": "verified-source",
-      "completionDate": "2026-10-13",
-      "evidence": "السير الخمس المرسلة ومراجعتها المحلية في hiring-roles.json؛ المراجعة بمساعدة Codex.",
-      "url": ""
-    },
-    {
-      "id": "crm-invoice-216-20261014",
-      "department": "مبيعات B2B",
-      "title": "تم تسجيل فاتورة للعميل زاد بقيمة 3,031.86 ريال شامل الضريبة.",
-      "evidence": "SL-20261014-0001 — 2026-10-14 — زاد — 3,031.86",
-      "url": "http://192.168.13.9:8081/SalesAnalyticsReport?preset=today&saleKind=all",
-      "completionDate": "2026-10-14",
-      "source": "verified-source",
-      "sourceFile": "outputs/sial-20261014/crm-today-evidence.json",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "salla-sales-20261014",
-      "department": "مبيعات المتجر",
-      "title": "سجل المتجر 11 طلبًا بإجمالي مبيعات 5,807 ريال حتى وقت إعداد التقرير.",
-      "evidence": "{\"sales.total_tax\": 0, \"sales.total_epayment_fee\": 71, \"sales.orders_count\": 11, \"customer-count\": 11, \"sales.total_sales\": 5807, \"sales.total_discount\": 239, \"sales.total_shipping\": 0, \"order-returned-count\": 0, \"avg-cart-price\": 549}",
-      "url": "",
-      "completionDate": "2026-10-14",
-      "source": "verified-source",
-      "sourceFile": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "eureka-report-20261014",
-      "department": "المشروعات",
-      "title": "تم إعداد الدراسة الشاملة لمشروع استخراج البيانات المالية داخل نظام يوريكا، متضمنة خطة التنفيذ والمتطلبات والاختبارات.",
-      "evidence": "التقرير الإداري المحفوظ من 30 فصلًا بتاريخ 14 أكتوبر 2026",
-      "url": "",
-      "completionDate": "2026-10-14",
-      "source": "verified-source",
-      "sourceFile": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "eureka-format-v2-20261015",
-      "department": "المشروعات",
-      "title": "تم إعادة تنسيق دراسة أتمتة التقارير المالية داخل يوريكا ونشر الإصدار 2.0، مع مذكرة للإدارة وملاحق الدراسة الكاملة.",
-      "evidence": "إعادة تنظيم الدراسة لعرضها على الإدارة — الإصدار 2.0",
-      "sourceFile": "task-projects/eureka-fde/project.json",
-      "completionDate": "2026-10-15",
-      "source": "verified-source",
-      "url": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "flextock-four-hour-enquiry-20261015",
-      "department": "المشروعات",
-      "title": "تم طلب توضيح سعر التوصيل خلال أربع ساعات داخل الرياض من فلكستوك؛ بانتظار رد الشركة.",
-      "evidence": "بخصوص موضوع التوصيل خلال اربع ساعات داخل الرياض\nسعره مش موجود",
-      "sourceFile": "task-projects/logistics-flex-toc/project.json",
-      "completionDate": "2026-10-15",
-      "source": "verified-source",
-      "url": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "salla-sales-snapshot-20261015",
-      "department": "مبيعات المتجر",
-      "title": "سجل المتجر 4 طلبات بإجمالي مبيعات 1,064.00 ريال حتى قراءة الساعة 16:38 بتوقيت الرياض؛ متابعة خلال اليوم.",
-      "evidence": "{\"sales\": 1064, \"orders\": 4, \"average_order_value\": 278, \"customers\": 4, \"returned_orders\": 0, \"units_sold\": 4, \"discount\": 49.9, \"tax\": 0, \"shipping\": 18, \"cod_fees\": 18, \"payment_fees\": 8.37, \"cost_of_goods\": 165}",
-      "sourceFile": "local/b2c-data.json",
-      "completionDate": "2026-10-15",
-      "source": "verified-source",
-      "url": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "crm-sales-snapshot-20261015",
-      "department": "مبيعات B2B",
-      "title": "بلغت مبيعات اليوم 2,636.40 ريال والمردودات 9,577.20 ريال، بصافي -6,940.80 ريال قبل الضريبة حتى قراءة الساعة 16:40؛ ليست إقفالًا نهائيًا.",
-      "evidence": "{\"label\": \"اليوم\", \"fromDate\": \"2026-10-15\", \"toDate\": \"2026-10-15\", \"sales\": 2636.4, \"returns\": 9577.2, \"net\": -6940.8, \"netWithVat\": -7981.92, \"collections\": 0, \"invoices\": 1, \"customers\": 1, \"returnCount\": 3, \"checkedAt\": \"2026-10-15T13:40:33.487752+00:00\", \"target\": 0, \"targetPercent\": null}",
-      "sourceFile": "local/b2b-crm-data.json",
-      "completionDate": "2026-10-15",
-      "source": "verified-source",
-      "url": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
-    },
-    {
-      "id": "eureka-submitted-20261015",
-      "department": "المشروعات",
-      "title": "تم إرسال دراسة يوريكا PDF لأ. مهند الساعة 16:20، وذُكر إرسال نسخة لأ. هيثم الساعة 16:21. يلزم مطابقة النطاق مع توضيح n8n قبل اعتماد التنفيذ.",
-      "completionDate": "2026-10-15",
-      "source": "verified-source",
-      "sourceFile": "task-projects/eureka-fde/project.json",
-      "evidence": "رسالة PDF ظاهرة في محادثة أ. مهند ثم: وارسلت بردو نسخة ل أ هيثم",
-      "url": "",
-      "owner": "هاني",
-      "ownerAssignment": "تعيين المستخدم في الأرشيف المحلي"
     }
   ],
   "hiring": [],
@@ -40505,8 +40505,8 @@
     "error": "صفحة شكاوى سلة أعادت 502 Bad Gateway؛ لم تُقرأ الحالات، وآخر قراءة ناجحة محفوظة."
   },
   "b2bDailyReports": {
-    "checkedAt": "2026-10-07T13:33:03.834589+00:00",
-    "status": "reports_through_2026-10-13_historical_receivables_pending",
+    "checkedAt": "2026-10-17T12:46:09.272465+00:00",
+    "status": "daily_movements_prepared_through_2026-10-16",
     "reports": [
       {
         "date": "2026-10-01",
@@ -44290,15 +44290,116 @@
       },
       {
         "date": "2026-10-13",
-        "sales": 0,
-        "tax": 0,
-        "gross": 0,
+        "sales": 12665.82,
+        "tax": 1899.87,
+        "gross": 14565.69,
         "returns": 0,
         "returnsBeforeTax": 0,
         "returnTax": 0,
-        "invoices": [],
-        "invoiceLines": [],
-        "checkedAt": "2026-10-14T13:54:25+03:00",
+        "invoices": [
+          [
+            "شركة أسواق بواسق للمواد الغذائية",
+            "SL-20261014-0005",
+            "معتز ناصر مصطفى ابراهيم",
+            5580,
+            6417,
+            "غير متحقق",
+            "بيع آجل؛ تاريخ الحركة من رأس الفاتورة"
+          ],
+          [
+            "شركةسمات للخدمات التجارية",
+            "SL-20261014-0002",
+            "محمد السيد علي غانم",
+            4832.82,
+            5557.74,
+            "غير متحقق",
+            "بيع آجل؛ تاريخ الحركة من رأس الفاتورة"
+          ],
+          [
+            "شركة جلف ستار المحدوده",
+            "SL-20261014-0003",
+            "حسام سيد عثمان",
+            2253,
+            2590.95,
+            "غير متحقق",
+            "بيع آجل؛ تاريخ الحركة من رأس الفاتورة"
+          ]
+        ],
+        "invoiceLines": [
+          {
+            "invoice": "SL-20261014-0005",
+            "kind": "بيع",
+            "product": "كلاسيك",
+            "bottles": 24,
+            "cartons": 4.0,
+            "gross": 1849.2
+          },
+          {
+            "invoice": "SL-20261014-0005",
+            "kind": "بيع",
+            "product": "سكري",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 924.6
+          },
+          {
+            "invoice": "SL-20261014-0005",
+            "kind": "بيع",
+            "product": "بريميوم",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1794
+          },
+          {
+            "invoice": "SL-20261014-0005",
+            "kind": "بيع",
+            "product": "رمان",
+            "bottles": 24,
+            "cartons": 4.0,
+            "gross": 1849.2
+          },
+          {
+            "invoice": "SL-20261014-0002",
+            "kind": "بيع",
+            "product": "كلاسيك",
+            "bottles": 18,
+            "cartons": 3.0,
+            "gross": 1273.88
+          },
+          {
+            "invoice": "SL-20261014-0002",
+            "kind": "بيع",
+            "product": "سكري",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1035
+          },
+          {
+            "invoice": "SL-20261014-0002",
+            "kind": "بيع",
+            "product": "بريميوم",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1610.05
+          },
+          {
+            "invoice": "SL-20261014-0002",
+            "kind": "بيع",
+            "product": "رمان",
+            "bottles": 18,
+            "cartons": 3.0,
+            "gross": 1638.82
+          },
+          {
+            "invoice": "SL-20261014-0003",
+            "kind": "بيع",
+            "product": "رمان",
+            "bottles": 30,
+            "cartons": 5.0,
+            "gross": 2590.95
+          }
+        ],
+        "checkedAt": "2026-10-17T12:46:09.272465+00:00",
         "status": "daily_verified_historical_receivables_pending",
         "invoiceLinesComplete": true,
         "collection": 0,
@@ -44310,12 +44411,11 @@
         "holiday": false,
         "collectionNote": "قراءة مباشرة لتفاصيل التحصيل 8–13 أكتوبر: لا عمليات معتمدة أو معلقة في الفترة؛ التحصيل حسب تاريخ قيد النظام المالي وليس قيمة الفواتير.",
         "activityNote": "عدد المناديب النشطة من CRM؛ قد يختلف عن عدد ناشري تقارير سلاك.",
-        "sourceNote": "قراءة مباشرة من CRM بتاريخ 14 أكتوبر 2026. تحقق عدم وجود مبيعات أو مرتجعات من فلتر 9–13 أكتوبر (الكل) وملف JSON المصدر؛ لم يُستنتج الصفر من انعدام الدوام. عدد المناديب النشطة من CRM؛ عدد الزيارات من سلاك حسب الملاحظة أدناه. العينات من القائمة الكاملة (طلبان بتاريخ 3 و6 أكتوبر فقط). الذمم التاريخية بعد الاستبعاد المطلوب غير متحققة؛ تُترك غير متاحة.",
+        "sourceNote": "قراءة CRM بتاريخ 17 أكتوبر 2026: قائمة مبيعات أكتوبر كاملة، ورؤوس وبنود الفواتير والمرتجعات. الوحدة الأصلية حبة والكرتونة 6 حبات؛ لا يعتمد وصف كرتون في قائمة المبيعات. فروق تقريب البنود محفوظة، ورأس الفاتورة مرجع المبلغ. لا عمليات تحصيل 13–16 أكتوبر؛ قائمة العينات الكاملة بها طلبان في 3 و6 أكتوبر فقط. الذمم التاريخية بعد استبعاد العميل غير متحققة. صُحح التقرير لإضافة ثلاث فواتير بتاريخ حركة 13 أكتوبر رغم أن أكوادها تبدأ بتاريخ 14 أكتوبر؛ أُعيد حساب التراكميات.",
         "sourceUrls": [
-          "http://192.168.13.9:8081/Sales",
-          "http://192.168.13.9:8081/RepDayReport?from=2026-10-13&to=2026-10-13&alertsOnly=False",
-          "http://192.168.13.9:8081/CollectionDetailReport?from=2026-10-08&to=2026-10-13",
-          "http://192.168.13.9:8081/SampleRequests"
+          "http://192.168.13.9:8081/Sales/Details/220",
+          "http://192.168.13.9:8081/Sales/Details/217",
+          "http://192.168.13.9:8081/Sales/Details/218"
         ],
         "verification": {
           "sales": true,
@@ -44328,27 +44428,27 @@
         "products": [
           {
             "name": "كلاسيك",
-            "bottles": 0,
+            "bottles": 42,
             "returnBottles": 0,
-            "gross": 0
+            "gross": 3123.08
           },
           {
             "name": "رمان",
-            "bottles": 0,
+            "bottles": 72,
             "returnBottles": 0,
-            "gross": 0
+            "gross": 6078.97
           },
           {
             "name": "سكري",
-            "bottles": 0,
+            "bottles": 24,
             "returnBottles": 0,
-            "gross": 0
+            "gross": 1959.6
           },
           {
             "name": "بريميوم",
-            "bottles": 0,
+            "bottles": 24,
             "returnBottles": 0,
-            "gross": 0
+            "gross": 3404.05
           }
         ],
         "ledger": {
@@ -44358,18 +44458,18 @@
           "metrics": {
             "sales": {
               "previous": 25348.62,
-              "today": 0.0,
-              "closing": 25348.62
+              "today": 12665.82,
+              "closing": 38014.44
             },
             "tax": {
               "previous": 3802.29,
-              "today": 0.0,
-              "closing": 3802.29
+              "today": 1899.87,
+              "closing": 5702.16
             },
             "gross": {
               "previous": 29150.91,
-              "today": 0.0,
-              "closing": 29150.91
+              "today": 14565.69,
+              "closing": 43716.6
             },
             "returns": {
               "previous": 4924.05,
@@ -44408,13 +44508,13 @@
             },
             "bottles": {
               "previous": 300.0,
-              "today": 0.0,
-              "closing": 300.0
+              "today": 162.0,
+              "closing": 462.0
             },
             "cartons": {
               "previous": 50.0,
-              "today": 0.0,
-              "closing": 50.0
+              "today": 27.0,
+              "closing": 77.0
             },
             "returnBottles": {
               "previous": 48.0,
@@ -44428,33 +44528,33 @@
             },
             "netBottles": {
               "previous": 252.0,
-              "today": 0.0,
-              "closing": 252.0
+              "today": 162.0,
+              "closing": 414.0
             },
             "netCartons": {
               "previous": 42.0,
-              "today": 0.0,
-              "closing": 42.0
+              "today": 27.0,
+              "closing": 69.0
             },
             "netSales": {
               "previous": 21066.84,
-              "today": 0.0,
-              "closing": 21066.84
+              "today": 12665.82,
+              "closing": 33732.66
             },
             "netTax": {
               "previous": 3160.02,
-              "today": 0.0,
-              "closing": 3160.02
+              "today": 1899.87,
+              "closing": 5059.89
             },
             "netGross": {
               "previous": 24226.86,
-              "today": 0.0,
-              "closing": 24226.86
+              "today": 14565.69,
+              "closing": 38792.55
             },
             "invoiceCount": {
               "previous": 7.0,
-              "today": 0.0,
-              "closing": 7.0
+              "today": 3.0,
+              "closing": 10.0
             },
             "returnInvoiceCount": {
               "previous": 1.0,
@@ -44463,8 +44563,8 @@
             },
             "كلاسيك:sold": {
               "previous": 108.0,
-              "today": 0.0,
-              "closing": 108.0
+              "today": 42.0,
+              "closing": 150.0
             },
             "كلاسيك:returned": {
               "previous": 18.0,
@@ -44473,13 +44573,13 @@
             },
             "كلاسيك:net": {
               "previous": 90.0,
-              "today": 0.0,
-              "closing": 90.0
+              "today": 42.0,
+              "closing": 132.0
             },
             "رمان:sold": {
               "previous": 132.0,
-              "today": 0.0,
-              "closing": 132.0
+              "today": 72.0,
+              "closing": 204.0
             },
             "رمان:returned": {
               "previous": 18.0,
@@ -44488,13 +44588,13 @@
             },
             "رمان:net": {
               "previous": 114.0,
-              "today": 0.0,
-              "closing": 114.0
+              "today": 72.0,
+              "closing": 186.0
             },
             "سكري:sold": {
               "previous": 6.0,
-              "today": 0.0,
-              "closing": 6.0
+              "today": 24.0,
+              "closing": 30.0
             },
             "سكري:returned": {
               "previous": 0.0,
@@ -44503,13 +44603,13 @@
             },
             "سكري:net": {
               "previous": 6.0,
-              "today": 0.0,
-              "closing": 6.0
+              "today": 24.0,
+              "closing": 30.0
             },
             "بريميوم:sold": {
               "previous": 54.0,
-              "today": 0.0,
-              "closing": 54.0
+              "today": 24.0,
+              "closing": 78.0
             },
             "بريميوم:returned": {
               "previous": 12.0,
@@ -44518,32 +44618,32 @@
             },
             "بريميوم:net": {
               "previous": 42.0,
-              "today": 0.0,
-              "closing": 42.0
+              "today": 24.0,
+              "closing": 66.0
             }
           },
           "averagePrice": {
             "previous": 84.4954,
-            "today": null,
-            "closing": 84.4954
+            "today": 78.184074,
+            "closing": 82.282338
           },
           "averageGrossPrice": {
             "previous": 97.1697,
-            "today": null,
-            "closing": 97.1697
+            "today": 89.911667,
+            "closing": 94.624675
           }
         },
         "overallLedger": {
           "metrics": {
             "netBottles": {
               "previous": 8233.0,
-              "today": 0.0,
-              "closing": 8233.0
+              "today": 162.0,
+              "closing": 8395.0
             },
             "gross": {
               "previous": 891212.84,
-              "today": 0.0,
-              "closing": 891212.84
+              "today": 14565.69,
+              "closing": 905778.53
             },
             "collection": {
               "previous": 88432.02,
@@ -44557,19 +44657,19 @@
             },
             "netCartons": {
               "previous": 1372.166667,
-              "today": 0.0,
-              "closing": 1372.166667
+              "today": 27.0,
+              "closing": 1399.166667
             }
           },
           "openingAsOf": "2026-09-30",
           "averageGrossPrice": {
             "previous": 108.248857,
-            "closing": 108.248857
+            "closing": 107.895001
           },
           "complete": false
         },
-        "monthBottles": 300.0,
-        "monthSales": 25348.62,
+        "monthBottles": 462.0,
+        "monthSales": 38014.44,
         "previousVisitsSource": {
           "value": 5,
           "source": "CRM",
@@ -44615,6 +44715,1050 @@
         "visitsCheckedAt": "2026-10-14T11:06:34.938525+00:00",
         "visitsDateBasis": "posted_date_proxy",
         "visitsNote": "عدد الزيارات المبلغ عنها في تقارير سلاك المنشورة بهذا التاريخ بتوقيت الرياض؛ تاريخ التنفيذ غير مذكور بصورة مستقلة. العدد يمثل التقارير المتاحة ولا يثبت اكتمال تقارير جميع المناديب."
+      },
+      {
+        "date": "2026-10-14",
+        "sales": 1254,
+        "tax": 188.1,
+        "gross": 1442.1,
+        "returns": 0,
+        "returnsBeforeTax": 0,
+        "returnTax": 0,
+        "invoices": [
+          [
+            "شركة حصن القلعة لتقديم المشروبات",
+            "SL-20261014-0004",
+            "عمرو مصطفى الشراكي دحدوح",
+            1254,
+            1442.1,
+            "غير متحقق",
+            "بيع آجل؛ تاريخ الحركة من رأس الفاتورة"
+          ]
+        ],
+        "invoiceLines": [
+          {
+            "invoice": "SL-20261014-0004",
+            "kind": "بيع",
+            "product": "كلاسيك",
+            "bottles": 6,
+            "cartons": 1.0,
+            "gross": 393.3
+          },
+          {
+            "invoice": "SL-20261014-0004",
+            "kind": "بيع",
+            "product": "بريميوم",
+            "bottles": 6,
+            "cartons": 1.0,
+            "gross": 655.5
+          },
+          {
+            "invoice": "SL-20261014-0004",
+            "kind": "بيع",
+            "product": "رمان",
+            "bottles": 6,
+            "cartons": 1.0,
+            "gross": 393.3
+          }
+        ],
+        "sourceUrls": [
+          "http://192.168.13.9:8081/Sales/Details/219"
+        ],
+        "checkedAt": "2026-10-17T12:46:09.272465+00:00",
+        "invoiceLinesComplete": true,
+        "collection": 0,
+        "sampleRequests": 0,
+        "sampleBottles": 0,
+        "samples": "0 طلبات عينات / 0 حبات مطلوبة",
+        "holiday": false,
+        "status": "daily_verified_historical_receivables_pending",
+        "sourceNote": "قراءة CRM بتاريخ 17 أكتوبر 2026: قائمة مبيعات أكتوبر كاملة، ورؤوس وبنود الفواتير والمرتجعات. الوحدة الأصلية حبة والكرتونة 6 حبات؛ لا يعتمد وصف كرتون في قائمة المبيعات. فروق تقريب البنود محفوظة، ورأس الفاتورة مرجع المبلغ. لا عمليات تحصيل 13–16 أكتوبر؛ قائمة العينات الكاملة بها طلبان في 3 و6 أكتوبر فقط. الذمم التاريخية بعد استبعاد العميل غير متحققة.",
+        "activeReps": 3,
+        "visits": 17,
+        "visitDetails": [
+          {
+            "date": "2026-10-14",
+            "dateBasis": "posted_date_proxy",
+            "rep": "AMR ELSHORAKY",
+            "count": 3,
+            "countBasis": "زيارتان واجتماع عميل منفذ؛ الصور اللاحقة غير مضافة",
+            "messageTs": "1792005705.338809",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792005705338809",
+            "body": "زياره شركه انترشنوال فود وتم  إرسال طلب شراء لكن مصورتش مقر الشركه \nأجتماع مع شركه Gss التركيه مع أستاذ هيثم وأستاذ هشام وعمل برزنتيشن للاتفاق المستقبلي  وتم الاتفاق علي إرسال عقد للاطلاع عرالتفاصيل\n زياره شركه فروزن لارسال العقد للتوريد"
+          },
+          {
+            "date": "2026-10-14",
+            "dateBasis": "posted_date_proxy",
+            "rep": "Moutaz",
+            "count": 7,
+            "countBasis": "إجمالي صريح؛ المنافذ لا تضاف",
+            "messageTs": "1792001788.843959",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792001788843959",
+            "body": "الزيارات 7\nالمنافذ الجديدة 3\nالملاحظات\n1-تم عمل تذوق في أسواق بواسق \n2-تم زياره ماركت كيو ومقابله مسؤل المشتريات وتم عرض المنتج وتسليمه عينات كلاسيك و رمان وتم عرض السعر وتفاصيل المنتج وسيتم زيارته مره اخري يوم السبت لمعرفه الرد"
+          },
+          {
+            "date": "2026-10-14",
+            "dateBasis": "posted_date_proxy",
+            "rep": "Ahmed Kamel",
+            "count": 7,
+            "countBasis": "إجمالي صريح",
+            "messageTs": "1791972348.194019",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1791972348194019",
+            "body": "ملخص الزيارات ٧ زيارات \nالملاحظات \nتم الاجتماع مع مسؤل مشتريات شركه الفاً الغرب وتم عرض المنتج وف انتظار معرفه مطلب الاداره لادخال الصنف عند العميل \nتم مقابله مدير الصاله لدى كافيه ولاونج اتنشن روز وعرض المنتج وعمل الحاسبه الربحيه للعميل وسيتم تسليم العميل عينه غدا ف وجود الاونر"
+          }
+        ],
+        "visitsCheckedAt": "2026-10-17T12:45:08.841Z",
+        "visitsSource": "sales-b2b-visits (Slack)",
+        "visitsDateBasis": "posted_date_proxy",
+        "visitsNote": "العدد حسب تاريخ نشر تقارير سلاك بتوقيت الرياض، وليس إثباتًا لتاريخ التنفيذ أو اكتمال جميع المناديب؛ الصور والمتابعات والمنافذ لا تضاف مجددًا.",
+        "activityNote": "عدد المناديب الذين عملوا كما يظهر في RepDayReport؛ مستقل عن عدد الزيارات المبلغ عنها في Slack.",
+        "verification": {
+          "sales": true,
+          "invoiceLines": true,
+          "collections": true,
+          "recordedActivity": true,
+          "sampleRequests": true,
+          "historicalReceivables": false
+        },
+        "products": [
+          {
+            "name": "كلاسيك",
+            "bottles": 6,
+            "returnBottles": 0,
+            "gross": 393.3
+          },
+          {
+            "name": "رمان",
+            "bottles": 6,
+            "returnBottles": 0,
+            "gross": 393.3
+          },
+          {
+            "name": "سكري",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          },
+          {
+            "name": "بريميوم",
+            "bottles": 6,
+            "returnBottles": 0,
+            "gross": 655.5
+          }
+        ],
+        "ledger": {
+          "periodStart": "2026-10-01",
+          "previousDate": "2026-10-13",
+          "continuous": true,
+          "metrics": {
+            "sales": {
+              "previous": 38014.44,
+              "today": 1254.0,
+              "closing": 39268.44
+            },
+            "tax": {
+              "previous": 5702.16,
+              "today": 188.1,
+              "closing": 5890.26
+            },
+            "gross": {
+              "previous": 43716.6,
+              "today": 1442.1,
+              "closing": 45158.7
+            },
+            "returns": {
+              "previous": 4924.05,
+              "today": 0.0,
+              "closing": 4924.05
+            },
+            "returnsBeforeTax": {
+              "previous": 4281.78,
+              "today": 0.0,
+              "closing": 4281.78
+            },
+            "returnTax": {
+              "previous": 642.27,
+              "today": 0.0,
+              "closing": 642.27
+            },
+            "collection": {
+              "previous": 250.0,
+              "today": 0.0,
+              "closing": 250.0
+            },
+            "visits": {
+              "previous": null,
+              "today": 17.0,
+              "closing": null
+            },
+            "sampleRequests": {
+              "previous": 2.0,
+              "today": 0.0,
+              "closing": 2.0
+            },
+            "sampleBottles": {
+              "previous": 4.0,
+              "today": 0.0,
+              "closing": 4.0
+            },
+            "bottles": {
+              "previous": 462.0,
+              "today": 18.0,
+              "closing": 480.0
+            },
+            "cartons": {
+              "previous": 77.0,
+              "today": 3.0,
+              "closing": 80.0
+            },
+            "returnBottles": {
+              "previous": 48.0,
+              "today": 0.0,
+              "closing": 48.0
+            },
+            "returnCartons": {
+              "previous": 8.0,
+              "today": 0.0,
+              "closing": 8.0
+            },
+            "netBottles": {
+              "previous": 414.0,
+              "today": 18.0,
+              "closing": 432.0
+            },
+            "netCartons": {
+              "previous": 69.0,
+              "today": 3.0,
+              "closing": 72.0
+            },
+            "netSales": {
+              "previous": 33732.66,
+              "today": 1254.0,
+              "closing": 34986.66
+            },
+            "netTax": {
+              "previous": 5059.89,
+              "today": 188.1,
+              "closing": 5247.99
+            },
+            "netGross": {
+              "previous": 38792.55,
+              "today": 1442.1,
+              "closing": 40234.65
+            },
+            "invoiceCount": {
+              "previous": 10.0,
+              "today": 1.0,
+              "closing": 11.0
+            },
+            "returnInvoiceCount": {
+              "previous": 1.0,
+              "today": 0.0,
+              "closing": 1.0
+            },
+            "كلاسيك:sold": {
+              "previous": 150.0,
+              "today": 6.0,
+              "closing": 156.0
+            },
+            "كلاسيك:returned": {
+              "previous": 18.0,
+              "today": 0.0,
+              "closing": 18.0
+            },
+            "كلاسيك:net": {
+              "previous": 132.0,
+              "today": 6.0,
+              "closing": 138.0
+            },
+            "رمان:sold": {
+              "previous": 204.0,
+              "today": 6.0,
+              "closing": 210.0
+            },
+            "رمان:returned": {
+              "previous": 18.0,
+              "today": 0.0,
+              "closing": 18.0
+            },
+            "رمان:net": {
+              "previous": 186.0,
+              "today": 6.0,
+              "closing": 192.0
+            },
+            "سكري:sold": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "سكري:returned": {
+              "previous": 0.0,
+              "today": 0.0,
+              "closing": 0.0
+            },
+            "سكري:net": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "بريميوم:sold": {
+              "previous": 78.0,
+              "today": 6.0,
+              "closing": 84.0
+            },
+            "بريميوم:returned": {
+              "previous": 12.0,
+              "today": 0.0,
+              "closing": 12.0
+            },
+            "بريميوم:net": {
+              "previous": 66.0,
+              "today": 6.0,
+              "closing": 72.0
+            }
+          },
+          "averagePrice": {
+            "previous": 82.282338,
+            "today": 69.666667,
+            "closing": 81.80925
+          },
+          "averageGrossPrice": {
+            "previous": 94.624675,
+            "today": 80.116667,
+            "closing": 94.080625
+          }
+        },
+        "overallLedger": {
+          "metrics": {
+            "netBottles": {
+              "previous": 8395.0,
+              "today": 18.0,
+              "closing": 8413.0
+            },
+            "gross": {
+              "previous": 905778.53,
+              "today": 1442.1,
+              "closing": 907220.63
+            },
+            "collection": {
+              "previous": 88432.02,
+              "today": 0.0,
+              "closing": 88432.02
+            },
+            "receivables": {
+              "previous": null,
+              "today": null,
+              "closing": null
+            },
+            "netCartons": {
+              "previous": 1399.166667,
+              "today": 3.0,
+              "closing": 1402.166667
+            }
+          },
+          "openingAsOf": "2026-09-30",
+          "averageGrossPrice": {
+            "previous": 107.895001,
+            "closing": 107.835568
+          },
+          "complete": false
+        },
+        "monthBottles": 480.0,
+        "monthSales": 39268.44
+      },
+      {
+        "date": "2026-10-15",
+        "sales": 2636.4,
+        "tax": 395.46,
+        "gross": 3031.86,
+        "returns": 11013.78,
+        "returnsBeforeTax": 9577.2,
+        "returnTax": 1436.58,
+        "invoices": [
+          [
+            "شركة زاد المسافرين الرائدة للمواد الغذائية",
+            "SL-20261015-0004",
+            "معتز ناصر مصطفى ابراهيم",
+            2636.4,
+            3031.86,
+            "غير متحقق",
+            "بيع آجل؛ تاريخ الحركة من رأس الفاتورة"
+          ]
+        ],
+        "invoiceLines": [
+          {
+            "invoice": "SL-20261015-0004",
+            "kind": "بيع",
+            "product": "كلاسيك",
+            "bottles": 24,
+            "cartons": 4.0,
+            "gross": 1840.09
+          },
+          {
+            "invoice": "SL-20261015-0004",
+            "kind": "بيع",
+            "product": "رمان",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1191.77
+          },
+          {
+            "invoice": "SL-20261015-0001",
+            "kind": "مرتجع",
+            "product": "كلاسيك",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 920.05
+          },
+          {
+            "invoice": "SL-20261015-0001",
+            "kind": "مرتجع",
+            "product": "بريميوم",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1756.33
+          },
+          {
+            "invoice": "SL-20261015-0001",
+            "kind": "مرتجع",
+            "product": "رمان",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1191.77
+          },
+          {
+            "invoice": "SL-20261015-0002",
+            "kind": "مرتجع",
+            "product": "كلاسيك",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 920.05
+          },
+          {
+            "invoice": "SL-20261015-0002",
+            "kind": "مرتجع",
+            "product": "بريميوم",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1756.33
+          },
+          {
+            "invoice": "SL-20261015-0002",
+            "kind": "مرتجع",
+            "product": "رمان",
+            "bottles": 12,
+            "cartons": 2.0,
+            "gross": 1191.77
+          },
+          {
+            "invoice": "SL-20261015-0003",
+            "kind": "مرتجع",
+            "product": "رمان",
+            "bottles": 30,
+            "cartons": 5.0,
+            "gross": 3277.5
+          }
+        ],
+        "sourceUrls": [
+          "http://192.168.13.9:8081/Sales/Details/224",
+          "http://192.168.13.9:8081/Sales/Details/221",
+          "http://192.168.13.9:8081/Sales/Details/222",
+          "http://192.168.13.9:8081/Sales/Details/223"
+        ],
+        "checkedAt": "2026-10-17T12:46:09.272465+00:00",
+        "invoiceLinesComplete": true,
+        "collection": 0,
+        "sampleRequests": 0,
+        "sampleBottles": 0,
+        "samples": "0 طلبات عينات / 0 حبات مطلوبة",
+        "holiday": false,
+        "status": "daily_verified_historical_receivables_pending",
+        "sourceNote": "قراءة CRM بتاريخ 17 أكتوبر 2026: قائمة مبيعات أكتوبر كاملة، ورؤوس وبنود الفواتير والمرتجعات. الوحدة الأصلية حبة والكرتونة 6 حبات؛ لا يعتمد وصف كرتون في قائمة المبيعات. فروق تقريب البنود محفوظة، ورأس الفاتورة مرجع المبلغ. لا عمليات تحصيل 13–16 أكتوبر؛ قائمة العينات الكاملة بها طلبان في 3 و6 أكتوبر فقط. الذمم التاريخية بعد استبعاد العميل غير متحققة.",
+        "activeReps": 2,
+        "visits": 8,
+        "visitDetails": [
+          {
+            "date": "2026-10-15",
+            "dateBasis": "posted_date_proxy",
+            "rep": "Ahmed Kamel",
+            "count": 8,
+            "countBasis": "إجمالي صريح",
+            "messageTs": "1792020336.728149",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792020336728149",
+            "body": "زيارات ٨ \nزياره شركه فهد الرشيد العميل ابلغنى انه لايوجد فعاليات الان لدى الشركه ولكن سيتم المتابعه مع العميل فيما بعد \nزياره شركه طلحه للاعاشه المسؤل لم يكن موجود \nزياره مطعم ذا شيفز وتقديم عينه للمشتريات وبانتظار تجربه الشيف للمنتج \nزياره مطعم سوسايتى الاداره كامله لم تداوم اليوم سيتم التواصل غدا مع السى او للشركه \nزياره مطعم اوليف جاردن وترك عينه للعميل للتذوق \nزياره لاونج دار ورد وأخذ رقم المسؤل وارسال البروفايل لمعرفه رأى العميل \nزياره لاونج الو كافيه وتقديم تجربه تذوق العميل ابلغنى انه يريد كرتونين ولكن بدون فاتوره او سعر حتى يعرف الفيد باك من عملاء المكان"
+          }
+        ],
+        "visitsCheckedAt": "2026-10-17T12:45:08.841Z",
+        "visitsSource": "sales-b2b-visits (Slack)",
+        "visitsDateBasis": "posted_date_proxy",
+        "visitsNote": "العدد حسب تاريخ نشر تقارير سلاك بتوقيت الرياض، وليس إثباتًا لتاريخ التنفيذ أو اكتمال جميع المناديب؛ الصور والمتابعات والمنافذ لا تضاف مجددًا.",
+        "activityNote": "عدد المناديب الذين عملوا كما يظهر في RepDayReport؛ مستقل عن عدد الزيارات المبلغ عنها في Slack.",
+        "verification": {
+          "sales": true,
+          "invoiceLines": true,
+          "collections": true,
+          "recordedActivity": true,
+          "sampleRequests": true,
+          "historicalReceivables": false
+        },
+        "products": [
+          {
+            "name": "كلاسيك",
+            "bottles": 24,
+            "returnBottles": 24,
+            "gross": 1840.09
+          },
+          {
+            "name": "رمان",
+            "bottles": 12,
+            "returnBottles": 54,
+            "gross": 1191.77
+          },
+          {
+            "name": "سكري",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          },
+          {
+            "name": "بريميوم",
+            "bottles": 0,
+            "returnBottles": 24,
+            "gross": 0
+          }
+        ],
+        "ledger": {
+          "periodStart": "2026-10-01",
+          "previousDate": "2026-10-14",
+          "continuous": true,
+          "metrics": {
+            "sales": {
+              "previous": 39268.44,
+              "today": 2636.4,
+              "closing": 41904.84
+            },
+            "tax": {
+              "previous": 5890.26,
+              "today": 395.46,
+              "closing": 6285.72
+            },
+            "gross": {
+              "previous": 45158.7,
+              "today": 3031.86,
+              "closing": 48190.56
+            },
+            "returns": {
+              "previous": 4924.05,
+              "today": 11013.78,
+              "closing": 15937.83
+            },
+            "returnsBeforeTax": {
+              "previous": 4281.78,
+              "today": 9577.2,
+              "closing": 13858.98
+            },
+            "returnTax": {
+              "previous": 642.27,
+              "today": 1436.58,
+              "closing": 2078.85
+            },
+            "collection": {
+              "previous": 250.0,
+              "today": 0.0,
+              "closing": 250.0
+            },
+            "visits": {
+              "previous": null,
+              "today": 8.0,
+              "closing": null
+            },
+            "sampleRequests": {
+              "previous": 2.0,
+              "today": 0.0,
+              "closing": 2.0
+            },
+            "sampleBottles": {
+              "previous": 4.0,
+              "today": 0.0,
+              "closing": 4.0
+            },
+            "bottles": {
+              "previous": 480.0,
+              "today": 36.0,
+              "closing": 516.0
+            },
+            "cartons": {
+              "previous": 80.0,
+              "today": 6.0,
+              "closing": 86.0
+            },
+            "returnBottles": {
+              "previous": 48.0,
+              "today": 102.0,
+              "closing": 150.0
+            },
+            "returnCartons": {
+              "previous": 8.0,
+              "today": 17.0,
+              "closing": 25.0
+            },
+            "netBottles": {
+              "previous": 432.0,
+              "today": -66.0,
+              "closing": 366.0
+            },
+            "netCartons": {
+              "previous": 72.0,
+              "today": -11.0,
+              "closing": 61.0
+            },
+            "netSales": {
+              "previous": 34986.66,
+              "today": -6940.8,
+              "closing": 28045.86
+            },
+            "netTax": {
+              "previous": 5247.99,
+              "today": -1041.12,
+              "closing": 4206.87
+            },
+            "netGross": {
+              "previous": 40234.65,
+              "today": -7981.92,
+              "closing": 32252.73
+            },
+            "invoiceCount": {
+              "previous": 11.0,
+              "today": 1.0,
+              "closing": 12.0
+            },
+            "returnInvoiceCount": {
+              "previous": 1.0,
+              "today": 3.0,
+              "closing": 4.0
+            },
+            "كلاسيك:sold": {
+              "previous": 156.0,
+              "today": 24.0,
+              "closing": 180.0
+            },
+            "كلاسيك:returned": {
+              "previous": 18.0,
+              "today": 24.0,
+              "closing": 42.0
+            },
+            "كلاسيك:net": {
+              "previous": 138.0,
+              "today": 0.0,
+              "closing": 138.0
+            },
+            "رمان:sold": {
+              "previous": 210.0,
+              "today": 12.0,
+              "closing": 222.0
+            },
+            "رمان:returned": {
+              "previous": 18.0,
+              "today": 54.0,
+              "closing": 72.0
+            },
+            "رمان:net": {
+              "previous": 192.0,
+              "today": -42.0,
+              "closing": 150.0
+            },
+            "سكري:sold": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "سكري:returned": {
+              "previous": 0.0,
+              "today": 0.0,
+              "closing": 0.0
+            },
+            "سكري:net": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "بريميوم:sold": {
+              "previous": 84.0,
+              "today": 0.0,
+              "closing": 84.0
+            },
+            "بريميوم:returned": {
+              "previous": 12.0,
+              "today": 24.0,
+              "closing": 36.0
+            },
+            "بريميوم:net": {
+              "previous": 72.0,
+              "today": -24.0,
+              "closing": 48.0
+            }
+          },
+          "averagePrice": {
+            "previous": 81.80925,
+            "today": 73.233333,
+            "closing": 81.21093
+          },
+          "averageGrossPrice": {
+            "previous": 94.080625,
+            "today": 84.218333,
+            "closing": 93.392558
+          }
+        },
+        "overallLedger": {
+          "metrics": {
+            "netBottles": {
+              "previous": 8413.0,
+              "today": -66.0,
+              "closing": 8347.0
+            },
+            "gross": {
+              "previous": 907220.63,
+              "today": 3031.86,
+              "closing": 910252.49
+            },
+            "collection": {
+              "previous": 88432.02,
+              "today": 0.0,
+              "closing": 88432.02
+            },
+            "receivables": {
+              "previous": null,
+              "today": null,
+              "closing": null
+            },
+            "netCartons": {
+              "previous": 1402.166667,
+              "today": -11.0,
+              "closing": 1391.166667
+            }
+          },
+          "openingAsOf": "2026-09-30",
+          "averageGrossPrice": {
+            "previous": 107.835568,
+            "closing": 109.051454
+          },
+          "complete": false
+        },
+        "monthBottles": 516.0,
+        "monthSales": 41904.84
+      },
+      {
+        "date": "2026-10-16",
+        "sales": 0,
+        "tax": 0,
+        "gross": 0,
+        "returns": 0,
+        "returnsBeforeTax": 0,
+        "returnTax": 0,
+        "invoices": [],
+        "invoiceLines": [],
+        "sourceUrls": [],
+        "checkedAt": "2026-10-17T12:46:09.272465+00:00",
+        "invoiceLinesComplete": true,
+        "collection": 0,
+        "sampleRequests": 0,
+        "sampleBottles": 0,
+        "samples": "0 طلبات عينات / 0 حبات مطلوبة",
+        "holiday": true,
+        "status": "daily_verified_historical_receivables_pending",
+        "sourceNote": "قراءة CRM بتاريخ 17 أكتوبر 2026: قائمة مبيعات أكتوبر كاملة، ورؤوس وبنود الفواتير والمرتجعات. الوحدة الأصلية حبة والكرتونة 6 حبات؛ لا يعتمد وصف كرتون في قائمة المبيعات. فروق تقريب البنود محفوظة، ورأس الفاتورة مرجع المبلغ. لا عمليات تحصيل 13–16 أكتوبر؛ قائمة العينات الكاملة بها طلبان في 3 و6 أكتوبر فقط. الذمم التاريخية بعد استبعاد العميل غير متحققة. الجمعة إجازة أسبوعية بتأكيد المستخدم. CRM يثبت صفر مبيعات ومرتجعات وتحصيل. يظهر في يوم المندوب 45 زيارة مسجلة مع استبعاد يوم الإجازة من عداد المناديب؛ لا تُعامل هذه كزيارات منفذة يوم الجمعة.",
+        "activeReps": 0,
+        "visits": 19,
+        "visitDetails": [
+          {
+            "date": "2026-10-16",
+            "dateBasis": "posted_date_proxy",
+            "rep": "AMR ELSHORAKY",
+            "count": 5,
+            "countBasis": "أربعة بنود زيارات وبند تذوق لدى عميل",
+            "messageTs": "1792167031.205499",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792167031205499",
+            "body": "زياره  اوكسجين جيم والعميل يحتاج الي حمله تسويق للمنتج \nزياره شركة كول ان والاجتماع مع مدير الشركه ومدير المشتريات وسوف يتم الرد الأحد القادم \nزياره شركة gss التركيه وتم إرسال العقد عن طريق الإيميل الرجاء الاطلاع ع العقد والرد <@U0B4BFMBSSU|Hisham Helal> <@U0BBAKCRZ4H|HANY SALAMA> \nتم زياره كرون بلازا التخصصي وأخذ موعد لتجربه العينه \nتم عمل تذوق لروتو الملقا وتم بيع ٤ زجاجات"
+          },
+          {
+            "date": "2026-10-16",
+            "dateBasis": "posted_date_proxy",
+            "rep": "mohamed.alsayed",
+            "count": 7,
+            "countBasis": "سبعة بنود؛ لا تضاف الفروع",
+            "messageTs": "1792147039.152229",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792147039152229",
+            "body": "1- تم زياره شركه سمات ل تسليم الطلبيه وترتيب المنتج \n2-تم زياره شركه انن التجاريه ل ترتيب الطلبيه وتنزيل في فرعين الخبر والدمام وفي انتظار اصدار الفاتوره من قبل الاداره \n3-تم زياره مطعم محرم بيك وعرض المنتج وفي انتظار رد الاداره \n4-تم زياره اسواق المخيزيم ل متابعه حركه المنتج وترتيب الرف \n5- تم زياره لاونج ديوان للتحصيل والمتابعه ولكن العميل يحتاج تسوق برموتر للاهميه ل عرض المنتج بسبب عدم تحريك البضاعه \n6- تم زياره لاونج قمه الصالحيه ولكن العميل يعمل مع شركه اخر ارخص في السعر وعدم موافقه صاحب الاونج علي المنتج \n7- تم زياره لاونج لي روز وسيم باقي في انتظار المالك علي المنتج"
+          },
+          {
+            "date": "2026-10-16",
+            "dateBasis": "posted_date_proxy",
+            "rep": "Moutaz",
+            "count": 7,
+            "countBasis": "إجمالي صريح",
+            "messageTs": "1792098145.412819",
+            "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1792098145412819",
+            "body": "الزيارات 7\nالملاحظات\n1-تم زياره اورجانيك ستور وتسليمهم العقد للختم والتوثيق لتوريد الاوردر الجديد\n2-تم زياره اداره ماركت غزال لأخذ العقد للتوريد ولكن لم يتم ختمه الي الآن لعدم تواجد مدير الفروع\n3-تم زياره اسواق فوق الوصف وعمل تذوق مع العملاء ومسؤلي المشتريات لتعريفهم بالمنتج\n2عينه كلاسيك+1 رمان\n4-تم زياره متجر بواسق لاستلام Promotional table وتم تسليمهم للشركه"
+          }
+        ],
+        "visitsCheckedAt": "2026-10-17T12:45:08.841Z",
+        "visitsSource": "sales-b2b-visits (Slack)",
+        "visitsDateBasis": "posted_date_proxy",
+        "visitsNote": "العدد حسب تاريخ نشر تقارير سلاك بتوقيت الرياض، وليس إثباتًا لتاريخ التنفيذ أو اكتمال جميع المناديب؛ الصور والمتابعات والمنافذ لا تضاف مجددًا. نُشرت تقارير مجموعها 19 يوم الإجازة؛ تاريخ التنفيذ يحتاج تأكيدًا ولم تُنقل إلى 15 أكتوبر. ذكر بيع 4 زجاجات في إحدى الرسائل لا يضاف للمبيعات دون فاتورة CRM.",
+        "activityNote": "عدد المناديب الذين عملوا كما يظهر في RepDayReport؛ مستقل عن عدد الزيارات المبلغ عنها في Slack.",
+        "verification": {
+          "sales": true,
+          "invoiceLines": true,
+          "collections": true,
+          "recordedActivity": true,
+          "sampleRequests": true,
+          "historicalReceivables": false
+        },
+        "products": [
+          {
+            "name": "كلاسيك",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          },
+          {
+            "name": "رمان",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          },
+          {
+            "name": "سكري",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          },
+          {
+            "name": "بريميوم",
+            "bottles": 0,
+            "returnBottles": 0,
+            "gross": 0
+          }
+        ],
+        "ledger": {
+          "periodStart": "2026-10-01",
+          "previousDate": "2026-10-15",
+          "continuous": true,
+          "metrics": {
+            "sales": {
+              "previous": 41904.84,
+              "today": 0.0,
+              "closing": 41904.84
+            },
+            "tax": {
+              "previous": 6285.72,
+              "today": 0.0,
+              "closing": 6285.72
+            },
+            "gross": {
+              "previous": 48190.56,
+              "today": 0.0,
+              "closing": 48190.56
+            },
+            "returns": {
+              "previous": 15937.83,
+              "today": 0.0,
+              "closing": 15937.83
+            },
+            "returnsBeforeTax": {
+              "previous": 13858.98,
+              "today": 0.0,
+              "closing": 13858.98
+            },
+            "returnTax": {
+              "previous": 2078.85,
+              "today": 0.0,
+              "closing": 2078.85
+            },
+            "collection": {
+              "previous": 250.0,
+              "today": 0.0,
+              "closing": 250.0
+            },
+            "visits": {
+              "previous": null,
+              "today": 19.0,
+              "closing": null
+            },
+            "sampleRequests": {
+              "previous": 2.0,
+              "today": 0.0,
+              "closing": 2.0
+            },
+            "sampleBottles": {
+              "previous": 4.0,
+              "today": 0.0,
+              "closing": 4.0
+            },
+            "bottles": {
+              "previous": 516.0,
+              "today": 0.0,
+              "closing": 516.0
+            },
+            "cartons": {
+              "previous": 86.0,
+              "today": 0.0,
+              "closing": 86.0
+            },
+            "returnBottles": {
+              "previous": 150.0,
+              "today": 0.0,
+              "closing": 150.0
+            },
+            "returnCartons": {
+              "previous": 25.0,
+              "today": 0.0,
+              "closing": 25.0
+            },
+            "netBottles": {
+              "previous": 366.0,
+              "today": 0.0,
+              "closing": 366.0
+            },
+            "netCartons": {
+              "previous": 61.0,
+              "today": 0.0,
+              "closing": 61.0
+            },
+            "netSales": {
+              "previous": 28045.86,
+              "today": 0.0,
+              "closing": 28045.86
+            },
+            "netTax": {
+              "previous": 4206.87,
+              "today": 0.0,
+              "closing": 4206.87
+            },
+            "netGross": {
+              "previous": 32252.73,
+              "today": 0.0,
+              "closing": 32252.73
+            },
+            "invoiceCount": {
+              "previous": 12.0,
+              "today": 0.0,
+              "closing": 12.0
+            },
+            "returnInvoiceCount": {
+              "previous": 4.0,
+              "today": 0.0,
+              "closing": 4.0
+            },
+            "كلاسيك:sold": {
+              "previous": 180.0,
+              "today": 0.0,
+              "closing": 180.0
+            },
+            "كلاسيك:returned": {
+              "previous": 42.0,
+              "today": 0.0,
+              "closing": 42.0
+            },
+            "كلاسيك:net": {
+              "previous": 138.0,
+              "today": 0.0,
+              "closing": 138.0
+            },
+            "رمان:sold": {
+              "previous": 222.0,
+              "today": 0.0,
+              "closing": 222.0
+            },
+            "رمان:returned": {
+              "previous": 72.0,
+              "today": 0.0,
+              "closing": 72.0
+            },
+            "رمان:net": {
+              "previous": 150.0,
+              "today": 0.0,
+              "closing": 150.0
+            },
+            "سكري:sold": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "سكري:returned": {
+              "previous": 0.0,
+              "today": 0.0,
+              "closing": 0.0
+            },
+            "سكري:net": {
+              "previous": 30.0,
+              "today": 0.0,
+              "closing": 30.0
+            },
+            "بريميوم:sold": {
+              "previous": 84.0,
+              "today": 0.0,
+              "closing": 84.0
+            },
+            "بريميوم:returned": {
+              "previous": 36.0,
+              "today": 0.0,
+              "closing": 36.0
+            },
+            "بريميوم:net": {
+              "previous": 48.0,
+              "today": 0.0,
+              "closing": 48.0
+            }
+          },
+          "averagePrice": {
+            "previous": 81.21093,
+            "today": null,
+            "closing": 81.21093
+          },
+          "averageGrossPrice": {
+            "previous": 93.392558,
+            "today": null,
+            "closing": 93.392558
+          }
+        },
+        "overallLedger": {
+          "metrics": {
+            "netBottles": {
+              "previous": 8347.0,
+              "today": 0.0,
+              "closing": 8347.0
+            },
+            "gross": {
+              "previous": 910252.49,
+              "today": 0.0,
+              "closing": 910252.49
+            },
+            "collection": {
+              "previous": 88432.02,
+              "today": 0.0,
+              "closing": 88432.02
+            },
+            "receivables": {
+              "previous": null,
+              "today": null,
+              "closing": null
+            },
+            "netCartons": {
+              "previous": 1391.166667,
+              "today": 0.0,
+              "closing": 1391.166667
+            }
+          },
+          "openingAsOf": "2026-09-30",
+          "averageGrossPrice": {
+            "previous": 109.051454,
+            "closing": 109.051454
+          },
+          "complete": false
+        },
+        "monthBottles": 516.0,
+        "monthSales": 41904.84
       }
     ],
     "notes": [
@@ -44626,8 +45770,8 @@
       "اكتملت حركات الأيام حتى 13 أكتوبر؛ الأرصدة الافتتاحية العامة السابقة محفوظة بمصدرها. الذمم التاريخية بعد الاستبعاد غير متاحة. قراءة نشاط 8–13 أكتوبر تعتمد وقت التسجيل الفعلي؛ لا تخلط مع الزيارات المؤرخة يدويًا."
     ],
     "ledgerVersion": 2,
-    "reportRevision": "cd548a07646a7683",
-    "latestImportAt": "2026-10-14T13:54:25+03:00",
+    "reportRevision": "7ccfd979a745fd83",
+    "latestImportAt": "2026-10-17T12:46:09.272465+00:00",
     "openingBalances": {
       "verified": true,
       "sourceSystem": "CRM",
