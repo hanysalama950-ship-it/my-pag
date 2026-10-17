@@ -6,10 +6,10 @@
   "owner": "وفق مسؤول كل مهمة في سلاك",
   "phone": "غير منطبق",
   "status": "أرشفة جارية — 325 من 394 ملفًا محفوظًا",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-17",
   "objective": "ملفات ورسائل لا يكفي اسمها وسياقها لتصنيفها بثقة.",
   "summary": "ملفات ورسائل لا يكفي اسمها وسياقها لتصنيفها بثقة.",
-  "outcome": "137 مهمة و394 ملفًا موثقًا مع روابط المصدر.",
+  "outcome": "141 مهمة و394 ملفًا موثقًا مع روابط المصدر.",
   "linkedTaskTitle": "مشروع التسويق والإبداع",
   "facts": [
     [
@@ -22,13 +22,33 @@
     ],
     [
       "التحديثات والرسائل",
-      "1132"
+      "1136"
     ]
   ],
   "decisions": [
     "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
   ],
   "updates": [
+    {
+      "date": "2026-10-15 19:53",
+      "title": "Jihen Remili — marketing",
+      "detail": "بزنس كارت أ مهند بعد التعديل \nFiles: IMG_6696.jpg (ID: F0C9HT1S31C, image/jpeg, 2.6 MB)"
+    },
+    {
+      "date": "2026-10-15 19:25",
+      "title": "Jihen Remili — marketing",
+      "detail": "مهند بن سعد الرصيّص Main host emiz"
+    },
+    {
+      "date": "2026-10-15 19:25",
+      "title": "Jihen Remili — marketing",
+      "detail": "linktr.ee/MADA_KSA (https://linktr.ee/MADA_KSA)"
+    },
+    {
+      "date": "2026-10-15 18:09",
+      "title": "Ahmed Taher — team-marketing",
+      "detail": "تم"
+    },
     {
       "date": "2026-10-15 16:24",
       "title": "Jihen Remili — team-marketing",
@@ -133,40 +153,20 @@
       "date": "2026-10-10 10:56",
       "title": "Jihen Remili — team-marketing",
       "detail": "للترويج بهدف المبيعات على كل المنصات \nAhmed Taher \nFiles: IMG_7906.MP4 (ID: F0C88BNU3C2, video/mp4, 9.9 MB)"
-    },
-    {
-      "date": "2026-10-10 10:35",
-      "title": "Ahmed Taher — team-marketing",
-      "detail": "صباح الخير\nكل ما سبق تم مساء الخميس\nThread: 1 replies (latest: 2026-10-10 10:57:22 +03)"
-    },
-    {
-      "date": "2026-10-08 19:23",
-      "title": "Jihen Remili — team-marketing",
-      "detail": "https://www.instagram.com/p/DePQvFiDYrl/?cplk=MXdkMXpoamVkbjZ0Yg== (https://www.instagram.com/p/DePQvFiDYrl/?cplk=MXdkMXpoamVkbjZ0Yg==) \nللترويج  بهدف الوعي \nAhmed Taher"
-    },
-    {
-      "date": "2026-10-08 16:54",
-      "title": "Jihen Remili — team-marketing",
-      "detail": "Ahmed Taher صور عرضَي *499* و*199* بمقاسَي البوست والستوري، وهي جاهزة للترويج على كل المنصات."
-    },
-    {
-      "date": "2026-10-08 16:50",
-      "title": "Jihen Remili — team-marketing",
-      "detail": "Files: إعلان إيميز بريميوم بالعنب.png (ID: F0C7U5CEZKK, image/png, 1.8 MB)"
     }
   ],
   "attachments": [
     {
       "name": "فهرس الملفات والمهام والتحديثات",
       "file": "attachments/catalog.html",
-      "date": "2026-10-15",
-      "bytes": 831095,
+      "date": "2026-10-17",
+      "bytes": 833622,
       "category": "أرشيف المشروع"
     }
   ],
-  "documentsNote": "الملفات المتاحة لها أزرار تنزيل مباشر دون سلاك. العناصر التي لم يكتمل تنزيلها مميزة بوضوح؛ رابط سلاك متاح كمرجع للمصدر.",
+  "documentsNote": "الملفات المنشورة لها أزرار تنزيل مباشر. العناصر التي لم يكتمل تنزيلها مميزة بوضوح؛ روابط سلاك مراجع للمصدر.",
   "nextSteps": [
-    "استكمال تنزيل الأصول المتبقية وربطها بالفهرس.",
-    "مراجعة تصنيف الملفات غير المحسومة."
+    "استكمال الملفات التي لم تُحفظ بعد.",
+    "مراجعة العناصر ذات التصنيف غير المحسوم."
   ]
 }
