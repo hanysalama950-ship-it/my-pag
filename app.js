@@ -8,6 +8,21 @@ function projectAttachment(p,a){
 }
 
 let selectedProject=null;
+let selectedProjectFolder=null;
+const projectFolders=[
+ {id:'logistics',title:'المستودعات واللوجستيات',description:'المستودعات والشحن والتوصيل ومقارنة مقدمي الخدمات'},
+ {id:'marketing',title:'التسويق والمعارض',description:'التصاميم والمحتوى والحملات والتغليف والمعارض'},
+ {id:'finance',title:'الأنظمة المالية والمصروفات',description:'يوريكا وأتمتة التقارير ومنصة المصروفات'},
+ {id:'insurance',title:'التأمين',description:'التأمين الطبي وتأمين السيارات وعروض التجديد'},
+ {id:'other',title:'مشروعات أخرى',description:'المشروعات غير المصنفة بعد'}
+];
+function projectFolder(p){
+ if(/^(warehouse-|logistics-)/.test(p.id))return 'logistics';
+ if(p.id.startsWith('marketing-')||p.id==='sial-exhibition')return 'marketing';
+ if(['darb-expenses','eureka-fde'].includes(p.id))return 'finance';
+ if(p.id.endsWith('-insurance'))return 'insurance';
+ return 'other';
+}
 let projectSection='overview';
 function renderProjects(){
  const projects=D.taskProjects||[];
@@ -15,7 +30,17 @@ function renderProjects(){
  const saved=p=>p.attachments.filter(a=>a.file);
  const children=projects.filter(c=>c.parentId===p?.id);
  if(!p){
- content.innerHTML=`<div class="project-grid">${projects.filter(p=>!p.parentId && p.id!=='field-collections-followup').map(p=>`<article class="panel project-card"><span class="tag">${E(p.status)}</span><h2>${E(p.displayName||p.title)}</h2><p>${E(p.outcome||p.summary)}</p><div class="project-meta"><span>المسؤول: ${E(p.owner)}</span><span>${saved(p).length} مستندات</span><span>آخر تحديث: ${E(p.updatedAt?.slice(0,10)||'غير مسجل')}</span></div><button class="button" data-project="${E(p.id)}">فتح المشروع ←</button></article>`).join('')}</div>`;
+ const topProjects=projects.filter(x=>!x.parentId && x.id!=='field-collections-followup');
+ if(!selectedProjectFolder){
+ content.innerHTML=`<div class="project-grid">${projectFolders.map(folder=>{
+ const rows=topProjects.filter(x=>projectFolder(x)===folder.id);if(!rows.length)return '';
+ return `<article class="panel project-card"><span class="tag">مجلد · ${N(rows.length)} مشروعات رئيسية</span><h2>${E(folder.title)}</h2><p>${E(folder.description)}</p><p class="scope-note">${rows.map(x=>E(x.displayName||x.title)).join(' · ')}</p><button class="button" data-project-folder="${folder.id}">فتح المجلد ←</button></article>`;
+ }).join('')}</div>`;
+ content.querySelectorAll('[data-project-folder]').forEach(b=>b.addEventListener('click',()=>{selectedProjectFolder=b.dataset.projectFolder;renderProjects();}));return;
+ }
+ const folder=projectFolders.find(x=>x.id===selectedProjectFolder);
+ content.innerHTML=`<button class="button" id="projectFoldersBack">→ كل المجلدات</button><h2>${E(folder.title)}</h2><div class="project-grid">${topProjects.filter(p=>projectFolder(p)===selectedProjectFolder).map(p=>`<article class="panel project-card"><span class="tag">${E(p.status)}</span><h2>${E(p.displayName||p.title)}</h2><p>${E(p.outcome||p.summary)}</p><div class="project-meta"><span>المسؤول: ${E(p.owner)}</span><span>${saved(p).length} مستندات</span><span>آخر تحديث: ${E(p.updatedAt?.slice(0,10)||'غير مسجل')}</span></div><button class="button" data-project="${E(p.id)}">فتح المشروع ←</button></article>`).join('')}</div>`;
+ content.querySelector('#projectFoldersBack').addEventListener('click',()=>{selectedProjectFolder=null;renderProjects();});
  content.querySelectorAll('[data-project]').forEach(b=>b.addEventListener('click',()=>{selectedProject=b.dataset.project;projectSection='overview';renderProjects();}));return;
  }
  const meeting=p.meeting;
@@ -35,7 +60,7 @@ function renderProjects(){
  if(projectSection==='next')body=`<p class="scope-note">المسؤول عن المتابعة: ${E(p.owner)}</p><ol class="project-actions">${p.nextSteps.map(x=>`<li><span class="tag">قيد المتابعة</span><p>${E(x)}</p></li>`).join('')}</ol>`;
  if(p.parentId==='marketing-hub' && ['overview','documents'].includes(projectSection))body=`<section class="marketing-inline-files"><p>الملفات بأسمائها وروابط تنزيلها؛ العناصر غير المتاحة موضحة داخل الفهرس.</p><a class="button" href="task-projects/${E(p.id)}/attachments/catalog.html" target="_blank" rel="noopener">فتح الملفات والمهام في صفحة كاملة ↗</a><iframe title="ملفات ${E(p.displayName||p.title)}" src="task-projects/${E(p.id)}/attachments/catalog.html" style="width:100%;height:75vh;border:1px solid #dce5eb;margin-top:16px"></iframe></section>`;
  if(p.id==='marketing-hub' && projectSection==='overview')body=`<h3>اختر المشروع لعرض الملفات والمهام</h3><div class="project-grid">${children.map(c=>`<article class="panel project-card"><h3>${E(c.displayName||c.title)}</h3><p>${E(c.outcome)}</p><button class="button" data-project="${E(c.id)}">عرض الملفات والمهام ←</button></article>`).join('')}</div>`;
- content.innerHTML=`<button class="button project-back">→ ${p.parentId?'المشروع الرئيسي':'كل المشروعات'}</button><article class="panel"><header class="panelhead"><div><h2>${E(p.displayName||p.title)}</h2><p>${E(p.status)}</p></div><span class="tag">المسؤول: ${E(p.owner)}</span></header>${meetingPanel}<nav class="project-tabs" aria-label="أقسام المشروع">${Object.entries(sections).map(([id,title])=>`<button class="button" data-section="${id}" aria-pressed="${id===projectSection}">${title}${id==='documents'?' · '+saved(p).length:''}</button>`).join('')}</nav><div class="panelbody project-body"><h2>${sections[projectSection]}</h2>${body}</div></article>`;
+ content.innerHTML=`<button class="button project-back">→ ${p.parentId?'المشروع الرئيسي':'العودة إلى المجلد'}</button><article class="panel"><header class="panelhead"><div><h2>${E(p.displayName||p.title)}</h2><p>${E(p.status)}</p></div><span class="tag">المسؤول: ${E(p.owner)}</span></header>${meetingPanel}<nav class="project-tabs" aria-label="أقسام المشروع">${Object.entries(sections).map(([id,title])=>`<button class="button" data-section="${id}" aria-pressed="${id===projectSection}">${title}${id==='documents'?' · '+saved(p).length:''}</button>`).join('')}</nav><div class="panelbody project-body"><h2>${sections[projectSection]}</h2>${body}</div></article>`;
  content.querySelector('.project-back').addEventListener('click',()=>{selectedProject=p.parentId||null;projectSection=p.parentId?'subprojects':'overview';renderProjects();});
  content.querySelectorAll('[data-project]').forEach(b=>b.addEventListener('click',()=>{selectedProject=b.dataset.project;projectSection='overview';renderProjects();}));
  content.querySelectorAll('[data-section]').forEach(b=>b.addEventListener('click',()=>{projectSection=b.dataset.section;renderProjects();}));
