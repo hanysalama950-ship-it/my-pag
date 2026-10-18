@@ -15,7 +15,7 @@ function renderProjects(){
  const saved=p=>p.attachments.filter(a=>a.file);
  const children=projects.filter(c=>c.parentId===p?.id);
  if(!p){
- content.innerHTML=`<div class="project-grid">${projects.filter(p=>!p.parentId).map(p=>`<article class="panel project-card"><span class="tag">${E(p.status)}</span><h2>${E(p.displayName||p.title)}</h2><p>${E(p.outcome||p.summary)}</p><div class="project-meta"><span>المسؤول: ${E(p.owner)}</span><span>${saved(p).length} مستندات</span><span>آخر تحديث: ${E(p.updatedAt?.slice(0,10)||'غير مسجل')}</span></div><button class="button" data-project="${E(p.id)}">فتح المشروع ←</button></article>`).join('')}</div>`;
+ content.innerHTML=`<div class="project-grid">${projects.filter(p=>!p.parentId && p.id!=='field-collections-followup').map(p=>`<article class="panel project-card"><span class="tag">${E(p.status)}</span><h2>${E(p.displayName||p.title)}</h2><p>${E(p.outcome||p.summary)}</p><div class="project-meta"><span>المسؤول: ${E(p.owner)}</span><span>${saved(p).length} مستندات</span><span>آخر تحديث: ${E(p.updatedAt?.slice(0,10)||'غير مسجل')}</span></div><button class="button" data-project="${E(p.id)}">فتح المشروع ←</button></article>`).join('')}</div>`;
  content.querySelectorAll('[data-project]').forEach(b=>b.addEventListener('click',()=>{selectedProject=b.dataset.project;projectSection='overview';renderProjects();}));return;
  }
  const meeting=p.meeting;
@@ -66,6 +66,7 @@ views.salesDaily=['التقرير اليومي للمبيعات','تقارير �
 views.sales[1]='بيانات EMIZ Field Sales CRM · المبيعات والعملاء والمناديب والمردودات والتحصيل';
 views.b2c=['مبيعات B2C','متجر EMIZ · تقارير سلة اليومية'];
 views.projects=['مشروعات المهام','ملف لكل مهمة: المعلومات والإجراءات والمرفقات والخطوة التالية'];
+views.fieldFollowup=['متابعة ميدانية للتحصيل والمتابعة','حالات العملاء · التحصيل المنتظر · المتابعات والمرفقات'];
 views.whatsappVisits=['واتساب الزيارات','ملخص الإدارة · الزيارات الميدانية · الرياض والخرج · المتابعات والقرارات'];
 views.daily=['التقرير اليومي','تقرير مقسم حسب الأقسام وجاهز للنسخ والإرسال · الموعد اليومي ٦ مساءً بتوقيت الرياض.'];
 views.meetings=['محاضر الاجتماعات','ملخصات الاجتماعات والقرارات والإجراءات المطلوبة · المصدر Pocket'];
@@ -87,7 +88,7 @@ function render(){
   document.getElementById('navSources').textContent=N(D.sources.length);
   document.getElementById('pageTitle').textContent=views[state.view][0];document.getElementById('pageSubtitle').textContent=views[state.view][1];
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===state.view);if(b.dataset.view===state.view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});
-  if(state.view==='meetings')renderMeetingMinutes();else if(state.view==='whatsappVisits')renderWhatsAppVisits();else if(state.view==='social')renderSocial();else if(state.view==='b2c')renderB2C();else if(state.view==='projects')renderProjects();else if(state.view==='overview')renderOverview();else if(state.view==='tasks'||state.view==='archive')renderTasks();else if(state.view==='hiring')renderHiring();else if(state.view==='sales')renderCRMSales();else if(state.view==='salesDaily')renderCRMDaily();else if(state.view==='collection')renderCollection();else if(state.view==='teams')renderTeams();else if(state.view==='reports')renderReports();else if(state.view==='whatsapp')renderWhatsApp();else if(state.view==='linkedin')renderLinkedin();else if(state.view==='daily')renderDaily();else renderSources();
+  if(state.view==='fieldFollowup')renderFieldFollowup();else if(state.view==='meetings')renderMeetingMinutes();else if(state.view==='whatsappVisits')renderWhatsAppVisits();else if(state.view==='social')renderSocial();else if(state.view==='b2c')renderB2C();else if(state.view==='projects')renderProjects();else if(state.view==='overview')renderOverview();else if(state.view==='tasks'||state.view==='archive')renderTasks();else if(state.view==='hiring')renderHiring();else if(state.view==='sales')renderCRMSales();else if(state.view==='salesDaily')renderCRMDaily();else if(state.view==='collection')renderCollection();else if(state.view==='teams')renderTeams();else if(state.view==='reports')renderReports();else if(state.view==='whatsapp')renderWhatsApp();else if(state.view==='linkedin')renderLinkedin();else if(state.view==='daily')renderDaily();else renderSources();
 }
 function renderOverview(){
  const ready=D.sources.filter(s=>s.status==='read'&&s.syncStatus!=='error'&&s.lastSuccessAt&&(Date.now()-Date.parse(s.lastSuccessAt))/60000<=60).length;
@@ -237,4 +238,9 @@ function renderMeetingMinutes(){
  const rows=[...items].sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
  const fileLink=(path,label)=>typeof path==='string'&&/^reports\/meetings\/[a-zA-Z0-9_.-]+\.(pdf|html)$/.test(path)?`<a class="button" href="${E(path)}" target="_blank" rel="noopener">${E(label)}</a>`:'';
  content.innerHTML=`<section class="panel"><div class="panelhead"><div><h2>سجل محاضر الاجتماعات</h2><p>نقاط الاجتماع والتوجيهات وبنود المتابعة.</p></div><span class="tag">${N(rows.length)} محاضر</span></div><div class="panelbody"><p>${E(minutes.statusText||'لم يُربط مصدر الاجتماعات بعد.')}</p>${minutes.lastSuccessAt?`<p class="meta">آخر سحب ناجح: ${E(minutes.lastSuccessAt)}</p>`:''}</div></section>${rows.length?rows.map(m=>`<article class="panel"><div class="panelhead"><div><h2>${E(m.title)}</h2><p>${E(m.date)} · ${E(m.status||'مسودة للمراجعة')}</p></div></div><div class="panelbody"><p>${E(m.summary||'')}</p><h3>أهم النقاط</h3><ul>${(m.points||[]).map(x=>`<li>${E(x)}</li>`).join('')}</ul><h3>التوجيهات العامة</h3>${(m.decisions||[]).length?`<ol>${m.decisions.map(x=>`<li>${E(x)}</li>`).join('')}</ol>`:'<p>لم يُوثق قرار صريح في المصدر.</p>'}<h3>الإجراءات المطلوبة</h3>${(m.actions||[]).map(a=>`<p><strong>${E(a.task)}</strong></p>`).join('')||'<p>لم تُوثق تكليفات محددة.</p>'}${fileLink(m.pdf,'تحميل المحضر PDF')}${fileLink(m.html,'فتح المحضر الكامل')}</div></article>`).join(''):'<section class="panel"><div class="panelbody"><h2>بانتظار أول محضر</h2><p>ستظهر هنا المحاضر بعد قراءة الاجتماع من Pocket وتنسيقه. لم يُستورد اجتماع 17 أكتوبر 2026 حتى الآن.</p></div></section>'}`;
+}
+
+function renderFieldFollowup(){
+ const path='task-projects/field-collections-followup/attachments/index.html';
+ content.innerHTML=`<section class="panel"><div class="panelbody"><a class="button" href="${path}" target="_blank" rel="noopener">فتح سجل المتابعة والمرفقات ↗</a><iframe title="متابعة ميدانية للتحصيل والمتابعة" src="${path}" style="width:100%;height:78vh;border:0;margin-top:16px"></iframe></div></section>`;
 }
