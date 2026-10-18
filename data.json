@@ -21841,6 +21841,16 @@
   "reports": {
     "orders": [
       {
+        "date": "2026-08-18",
+        "total": 9,
+        "riyadh": 2,
+        "other": 7,
+        "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1792330015264249",
+        "messageDate": "2026-10-18",
+        "validationStatus": "needs-review",
+        "validationNote": "تاريخ الرسالة 18 أكتوبر 2026 بينما التاريخ المكتوب داخل التقرير 18 أغسطس 2026؛ يلزم تأكيد تاريخ الشحن. الإجمالي 9 = 2 داخل الرياض + 7 خارجها."
+      },
+      {
         "date": "2026-10-15",
         "total": 8,
         "riyadh": 3,
@@ -24432,10 +24442,20 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "marketing-master-task-list",
-      "lastSuccessAt": "2026-10-18T10:59:25.926Z"
+      "lastSuccessAt": "2026-10-18T10:59:25.926Z",
+      "lastCheckedAt": "2026-10-18T15:16:03.687Z"
     },
     "C0C0G8QGBSS": {
       "messages": [
+        {
+          "id": "C0C0G8QGBSS:1792323286.519349",
+          "channelId": "C0C0G8QGBSS",
+          "author": "aya wael",
+          "userId": "U0BARNC0FD2",
+          "date": "2026-10-18",
+          "body": "تم رفع الكومباني بروفايل في قسم \"التصاميم\" مع الرقم الموحد المعتمد.",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0C0G8QGBSS/p1792323286519349"
+        },
         {
           "id": "C0C0G8QGBSS:1792064901.476579",
           "channelId": "C0C0G8QGBSS",
@@ -24659,7 +24679,8 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "creative-team",
-      "lastSuccessAt": "2026-10-18T10:59:25.926Z"
+      "lastSuccessAt": "2026-10-18T10:59:25.926Z",
+      "lastCheckedAt": "2026-10-18T15:16:03.687Z"
     },
     "C0B0901QXSA": {
       "messages": [
@@ -25769,7 +25790,8 @@
       ],
       "coverage": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة",
       "name": "team-marketing",
-      "lastSuccessAt": "2026-10-18T10:59:25.926Z"
+      "lastSuccessAt": "2026-10-18T10:59:25.926Z",
+      "lastCheckedAt": "2026-10-18T15:16:03.687Z"
     }
   },
   "automationHealth": {
