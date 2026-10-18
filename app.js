@@ -11,14 +11,16 @@ let selectedProject=null;
 let selectedProjectFolder=null;
 const projectFolders=[
  {id:'logistics',title:'المستودعات واللوجستيات',description:'المستودعات والشحن والتوصيل ومقارنة مقدمي الخدمات'},
- {id:'marketing',title:'التسويق والمعارض',description:'التصاميم والمحتوى والحملات والتغليف والمعارض'},
+ {id:'marketing',title:'التسويق والإبداع',description:'التصاميم والمحتوى والحملات والتغليف'},
+ {id:'exhibitions',title:'المعارض',description:'المعارض والشركات المشاركة والدعوات وملفات التواصل'},
  {id:'finance',title:'الأنظمة المالية والمصروفات',description:'يوريكا وأتمتة التقارير ومنصة المصروفات'},
  {id:'insurance',title:'التأمين',description:'التأمين الطبي وتأمين السيارات وعروض التجديد'},
  {id:'other',title:'مشروعات أخرى',description:'المشروعات غير المصنفة بعد'}
 ];
 function projectFolder(p){
  if(/^(warehouse-|logistics-)/.test(p.id))return 'logistics';
- if(p.id.startsWith('marketing-')||p.id==='sial-exhibition')return 'marketing';
+ if(p.id==='sial-exhibition')return 'exhibitions';
+ if(p.id.startsWith('marketing-'))return 'marketing';
  if(['darb-expenses','eureka-fde'].includes(p.id))return 'finance';
  if(p.id.endsWith('-insurance'))return 'insurance';
  return 'other';
