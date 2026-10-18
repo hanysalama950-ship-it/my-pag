@@ -672,7 +672,7 @@
     {
       "id": "tribe",
       "name": "TRIBE",
-      "category": "وجبات خفيفة",
+      "category": "ألواح بروتين ووجبات خفيفة",
       "photos": [
         37
       ],
@@ -711,7 +711,11 @@
           "note": "",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "officialProducts": [
+        "Protein Flapjacks — ألواح شوفان بروتينية؛ من مجموعة المنتجات الرسمية."
+      ],
+      "productSource": "https://wearetribe.co/collections/all"
     },
     {
       "id": "superfoodio",
@@ -761,7 +765,7 @@
     {
       "id": "trash",
       "name": "trash",
-      "category": "مياه/مشروبات فواكه",
+      "category": "مشروبات فاكهة الكاكاو",
       "photos": [
         1,
         36
@@ -817,7 +821,11 @@
           "note": "",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "officialProducts": [
+        "مشروب ماء فاكهة الكاكاو المعصورة؛ بحسب صفحة الشركة الرسمية."
+      ],
+      "productSource": "https://www.linkedin.com/company/trashdrinks"
     },
     {
       "id": "fdea",
@@ -881,7 +889,7 @@
     {
       "id": "elixir",
       "name": "ELIXIR LTD",
-      "category": "اجتماع معرض",
+      "category": "مشروبات LIXR الوظيفية",
       "photos": [
         43,
         46
@@ -923,12 +931,16 @@
           "note": "من سياسة الخصوصية الرسمية؛ يحتفظ الملف أيضًا برقم بطاقة المعرض المختلف.",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "officialProducts": [
+        "مشروب LIXR بنكهة الكيوي والفراولة؛ معلومات من متجر الشركة وليست من صور المعرض."
+      ],
+      "productSource": "https://shop.lixrdrink.com/store"
     },
     {
       "id": "now-juice",
       "name": "Now Juice Limited",
-      "category": "اجتماع معرض",
+      "category": "مياه جوز الهند الفوارة وعصائر الفاكهة",
       "photos": [
         43
       ],
@@ -964,12 +976,19 @@
           "note": "البريد منشور للاستفسارات عن الشروط؛ نموذج الاتصال متاح للاستفسار التجاري. لا يوجد هاتف مؤكد.",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "officialProducts": [
+        "Now Coco Pure",
+        "Now Coco Watermelon — بطيخ",
+        "Now Coco Strawberry & Kiwi — فراولة وكيوي",
+        "Now Coco Peach and Mango — خوخ ومانجو"
+      ],
+      "productSource": "https://www.sialparis.com/en/exhibitors-2026/exhibitor/Now-Juice-Limited"
     },
     {
       "id": "wana",
       "name": "WANA BEVERAGE JSC",
-      "category": "اجتماع معرض",
+      "category": "تصنيع مشروبات والتصنيع للغير والعلامات الخاصة",
       "photos": [
         44,
         46
@@ -1031,7 +1050,14 @@
           "note": "تحويلة 3 للاستيراد والتصدير.",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "officialProducts": [
+        "ماء جوز الهند وعصائر الفاكهة والألوفيرا",
+        "الشاي والشاي الفوار ومشروبات القهوة والطاقة",
+        "مشروبات الحليب ومشروبات بذور الريحان والشيا",
+        "خدمات OEM وODM والعلامات الخاصة؛ الأصناف من الموقع وليست صورًا للمعرض."
+      ],
+      "productSource": "https://wanabeverage.com/"
     },
     {
       "id": "picks",
