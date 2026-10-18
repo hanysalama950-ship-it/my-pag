@@ -888,14 +888,19 @@
     },
     {
       "id": "elixir",
-      "name": "ELIXIR LTD",
-      "category": "مشروبات LIXR الوظيفية",
+      "name": "ELIXIR LTD / LIXR",
+      "category": "مشروبات وظيفية",
       "photos": [
         43,
-        46
+        46,
+        63,
+        64,
+        65,
+        66
       ],
       "products": [
-        "لم تظهر صور منتجات لهذه الشركة ضمن الدفعة المفحوصة"
+        "مشروبات LIXR في علب بنكهات مختلفة",
+        "المنشور يذكر 115 mg كافيين و150 mg L-Theanine؛ معلومات تسويقية واردة بالنشرة"
       ],
       "contacts": [
         {
@@ -908,14 +913,24 @@
           "website": "",
           "social": "",
           "source": "صورة جدول التواصل المرسلة من المستخدم 12:32"
+        },
+        {
+          "name": "Hristo Vatashki",
+          "role": "Co-Founder",
+          "email": "office@lixrdrink.com",
+          "phones": [
+            "+359888153624"
+          ],
+          "website": "https://lixrdrink.com",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
         }
       ],
-      "notes": "اجتماع مدرج 17 أكتوبر 2026 من 14:00 إلى 14:25 حسب صورة الجدول. المنطقة الزمنية غير مكتوبة؛ ظهور الموعد لا يثبت انعقاد الاجتماع.",
+      "notes": "تحديث للملف الموجود وليس شركة مكررة. الأسعار لكل علبة، EXW Sofia Bulgaria، دون VAT، كما ورد في بطاقة المعرض؛ لا تشمل تكلفة الوصول للسعودية.",
       "booth": "5A ST065",
       "address": "",
       "sources": [],
-      "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد",
       "contactReviewAt": "2026-10-18",
       "verifiedPublicContacts": [
         {
@@ -935,7 +950,30 @@
       "officialProducts": [
         "مشروب LIXR بنكهة الكيوي والفراولة؛ معلومات من متجر الشركة وليست من صور المعرض."
       ],
-      "productSource": "https://shop.lixrdrink.com/store"
+      "productSource": "https://shop.lixrdrink.com/store",
+      "priceSheet": {
+        "currency": "EUR",
+        "per": "علبة واحدة",
+        "incoterm": "EXW Sofia Bulgaria",
+        "vatIncluded": false,
+        "retailRecommended": 2.45,
+        "tiers": [
+          {
+            "pallets": "1+",
+            "price": 1.15
+          },
+          {
+            "pallets": "10+",
+            "price": 0.99
+          },
+          {
+            "pallets": "24+",
+            "price": 0.9
+          }
+        ],
+        "sourceDate": "2026-10-18",
+        "validUntil": null
+      }
     },
     {
       "id": "now-juice",
@@ -1205,6 +1243,212 @@
           "verifiedAt": "2026-10-18"
         }
       ]
+    },
+    {
+      "id": "labo-dumoulin",
+      "name": "Le Labo Dumoulin",
+      "photos": [
+        53,
+        54,
+        55
+      ],
+      "contacts": [
+        {
+          "name": "Aurélien Fabas",
+          "role": "Co-Founder",
+          "email": "aurelien@lelabodumoulin.fr",
+          "phones": [
+            "+33615302011"
+          ],
+          "website": "https://www.lelabodumoulin.fr",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "مشروبات مخمرة وكفير",
+      "products": [
+        "مشروبات Kefir بنكهات متعددة في علب وزجاجات",
+        "Tepache بالأناناس ومشروبات Ginger ظاهرة في الصور"
+      ],
+      "notes": "بيانات المنتجات من الصور؛ العبارات الصحية على المنشور ادعاءات تسويقية غير متحقق منها.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "buddy",
+      "name": "BUDDY",
+      "photos": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "contacts": [
+        {
+          "name": "Oscar van der Rest",
+          "role": "Co-Founder",
+          "email": "oscar@buddydrink.be",
+          "phones": [
+            "+32472488678"
+          ],
+          "website": "https://www.buddydrink.be",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "مشروبات ترطيب وطاقة وإلكتروليتات",
+      "products": [
+        "Hydration بنكهات الزنجبيل والليمون والخوخ والتوت الظاهرة",
+        "Natural Energy في علب",
+        "Electrolytes — Peach Citrus في كيس"
+      ],
+      "notes": "لا توجد أسعار أو شروط توريد ضمن الصور.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "kult-kefir",
+      "name": "KULT Kefir",
+      "photos": [
+        60,
+        61,
+        62
+      ],
+      "contacts": [
+        {
+          "name": "Dorian Lefèvre",
+          "role": "Head of Sales",
+          "email": "sales@kultkefir.com",
+          "phones": [
+            "+32498774231"
+          ],
+          "website": "https://kultkefir.com",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "كفير مائي ومشروبات مخمرة",
+      "products": [
+        "Water Kefir — Ginger & Lemon",
+        "Water Kefir — Raspberry & Mint",
+        "نكهات إضافية وعينات تذوق ظاهرة؛ لا تُستنتج التركيبة الكاملة من الصورة"
+      ],
+      "notes": "مطابق لاسم KULT KEFIR بقائمة الدعوات؛ الجناح 5A ST089 وفق قائمة المستخدم السابقة. العنوان بالبطاقة: Chaussée de la Hulpe 150, 1170 Brussels.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "anj-gams",
+      "name": "ANJ Nutrition Group / Gams",
+      "photos": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "contacts": [
+        {
+          "name": "Ing. Gabriela Klčová",
+          "role": "Business Development Manager",
+          "email": "gabriela.klcova@anj.group",
+          "phones": [
+            "+421948002899"
+          ],
+          "website": "https://www.anj.group",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "تصنيع بعلامة خاصة ومشروبات وسناكات",
+      "products": [
+        "Gams Lentil Chips — Sea Salt وSour Cream & Onion؛ 65g ظاهر",
+        "مشروبات Gams PREBIO وشوتات ظاهرة",
+        "البطاقة تعرض Protein Bars وFunctional Drinks وSupplements وProtein Chips ضمن التصنيع للغير"
+      ],
+      "notes": "قيم 15g و16g Protein و50% less fat من الملصق وليست تحققًا مخبريًا. العنوان: Diakovská 9, 927 01 Šaľa, Slovakia.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "uff",
+      "name": "UFF+",
+      "photos": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "contacts": [
+        {
+          "name": "Mia Krasić",
+          "role": "Head of Purchasing",
+          "email": "mia.krasic@uff.hr",
+          "phones": [
+            "+38598261751"
+          ],
+          "website": "https://www.uff.hr",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "مشروبات وظيفية",
+      "products": [
+        "سلسلة UFF+ PROTEIN وCOLLAGEN",
+        "WATER + OXYGEN — 250 ml ظاهر",
+        "منتجات باسم FAT BURN وHANGOVER كما على العبوات؛ الأسماء لا تثبت الفوائد الصحية"
+      ],
+      "notes": "اسم Uff doo موجود بقائمة الدعوات السابقة في 7 K384؛ ربط الاسم القانوني بالعلامة يحتاج تأكيدًا. عنوان البطاقة Pavla Hatza 14, 10000 Zagreb.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "nutridream",
+      "name": "NutriDream / Be More",
+      "photos": [
+        83,
+        84,
+        85
+      ],
+      "contacts": [
+        {
+          "name": "Kirti Kooser",
+          "role": "CEO",
+          "email": "kirti@bemore.ee",
+          "phones": [
+            "+37253472337"
+          ],
+          "website": "https://nutridream.eu",
+          "source": "بطاقة الأعمال المصورة في المعرض بتاريخ 18 أكتوبر 2026"
+        }
+      ],
+      "category": "مكملات وتغذية رياضية",
+      "products": [
+        "Creatine Monohydrate بنكهات مختلفة",
+        "NutriFiber Complex وJoint Formula",
+        "Be More High-Biotin Gummy Bears؛ 60 gummies وفق الملصق"
+      ],
+      "notes": "البطاقة تذكر أيضًا bemore.ee والعنوان Lõõtsa 8a, 11415 Tallinn, Estonia. لا يُستنتج اعتماد المنتج أو ملاءمته الصحية من الصورة.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "qnt-liife",
+      "name": "QNT / LIIFE",
+      "photos": [
+        86
+      ],
+      "contacts": [],
+      "category": "مشروبات بروتين وماتشا وكولاجين",
+      "products": [
+        "LIIFE Protein Water — 12g Protein مع Collagen كما على العبوة",
+        "LIIFE Matcha + Collagen — Lemon Mint وRaspberry؛ Zero Sugar مكتوب على العبوات"
+      ],
+      "notes": "صورة منتجات فقط؛ لم تظهر بطاقة اتصال أو بريد أو هاتف في الدفعة. يلزم استكمال جهة التواصل ولا تُنسب بيانات شركة أخرى إليها.",
+      "updatedAt": "2026-10-18",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
     }
   ],
   "images": [
@@ -1675,7 +1919,313 @@
       "sha256": "2ed5ae2c35c7c45f41ca72b4089920e166f11593d01b1367ab87895b6602953a",
       "source": "محادثة أ. مهند الرصيص ١ — واتساب — 18 أكتوبر 2026، 11:48",
       "direction": "incoming"
+    },
+    {
+      "n": 53,
+      "file": "WhatsApp Image 2026-10-18 at 2.47.55 PM (1).jpeg",
+      "path": "sial-images/sial-053.jpg",
+      "bytes": 179912,
+      "sha256": "c33a33fd6647b6e69711b7452d4c4d4637bd9f4175e970826a4f204b6bae368d",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.47.55 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 54,
+      "file": "WhatsApp Image 2026-10-18 at 2.47.55 PM (2).jpeg",
+      "path": "sial-images/sial-054.jpg",
+      "bytes": 191325,
+      "sha256": "ca4a5904a25ed7360fc66196a280b3abb0de653c938b291b7be97258d961951a",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.47.55 PM (2)",
+      "direction": "incoming"
+    },
+    {
+      "n": 55,
+      "file": "WhatsApp Image 2026-10-18 at 2.47.55 PM.jpeg",
+      "path": "sial-images/sial-055.jpg",
+      "bytes": 189513,
+      "sha256": "25780a13a7e47b9d7405df649ae1d12913620f84e73df1cce7fb8ecac0982053",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.47.55 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 56,
+      "file": "WhatsApp Image 2026-10-18 at 2.56.31 PM.jpeg",
+      "path": "sial-images/sial-056.jpg",
+      "bytes": 165266,
+      "sha256": "969a646b5454a881ed155644ef0de6925b02bc819b69d416ad480237c09cf87c",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.56.31 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 57,
+      "file": "WhatsApp Image 2026-10-18 at 2.58.04 PM.jpeg",
+      "path": "sial-images/sial-057.jpg",
+      "bytes": 95016,
+      "sha256": "0f046a4d980570ea59d771f7e9e2eafa7195048251f5e0180e2daed1814ca35c",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.58.04 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 58,
+      "file": "WhatsApp Image 2026-10-18 at 2.59.24 PM.jpeg",
+      "path": "sial-images/sial-058.jpg",
+      "bytes": 159922,
+      "sha256": "10c860133f99b73c000cb4dfbb9ca67742dc1ac400df92cd73584b9dfd9141e0",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.59.24 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 59,
+      "file": "WhatsApp Image 2026-10-18 at 2.59.25 PM.jpeg",
+      "path": "sial-images/sial-059.jpg",
+      "bytes": 135639,
+      "sha256": "98c39fe6a952bedb75e7b75e00fa54c9ca448fffcc8aa1055fb2b76a1a7010a3",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 2.59.25 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 60,
+      "file": "WhatsApp Image 2026-10-18 at 3.03.42 PM (1).jpeg",
+      "path": "sial-images/sial-060.jpg",
+      "bytes": 177116,
+      "sha256": "ea3d6518e52cef5d1ba1d5a30972ee4c7e1a12826afdfd8afc821796178835d8",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.03.42 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 61,
+      "file": "WhatsApp Image 2026-10-18 at 3.03.42 PM.jpeg",
+      "path": "sial-images/sial-061.jpg",
+      "bytes": 144531,
+      "sha256": "a10043ade69238c4532d561ec65dbf31c04ddc6b012809874acd6d9c41c0d8cb",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.03.42 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 62,
+      "file": "WhatsApp Image 2026-10-18 at 3.04.05 PM.jpeg",
+      "path": "sial-images/sial-062.jpg",
+      "bytes": 133571,
+      "sha256": "01bc8acd7a642f0486a01c38bfb40b8f8fd793aeaeec8d238794474df793b1dd",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.04.05 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 63,
+      "file": "WhatsApp Image 2026-10-18 at 3.41.17 PM (1).jpeg",
+      "path": "sial-images/sial-063.jpg",
+      "bytes": 192246,
+      "sha256": "3c50b0624ac0d10fdd59ec369c1a58435b7b888b87ce7c40adf77d37e3b54c89",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.41.17 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 64,
+      "file": "WhatsApp Image 2026-10-18 at 3.41.17 PM.jpeg",
+      "path": "sial-images/sial-064.jpg",
+      "bytes": 189066,
+      "sha256": "32e646bf3aebe676d8aa97ea9a228f9dd846defe3b98cdc1947a0421097da425",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.41.17 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 65,
+      "file": "WhatsApp Image 2026-10-18 at 3.41.18 PM (1).jpeg",
+      "path": "sial-images/sial-065.jpg",
+      "bytes": 233447,
+      "sha256": "42ddef53d53370c8f27c7b902d00b63cf61dacce6f72646c4564dca7ad43e1f8",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.41.18 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 66,
+      "file": "WhatsApp Image 2026-10-18 at 3.41.18 PM.jpeg",
+      "path": "sial-images/sial-066.jpg",
+      "bytes": 190004,
+      "sha256": "64e54b6acd52818e736d83682daca37690266c2bd5d52765c105e7b1da5405b4",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 3.41.18 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 67,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.38 PM (1).jpeg",
+      "path": "sial-images/sial-067.jpg",
+      "bytes": 228617,
+      "sha256": "59aa50efb770017c30c91f701f9e08b7bfc8d8716a4d64ca08d586f6a27b0add",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.38 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 68,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.38 PM.jpeg",
+      "path": "sial-images/sial-068.jpg",
+      "bytes": 152231,
+      "sha256": "49422767e11026ab83621931c4efc62a981793ecc5950a3a8d451636e63f6f34",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.38 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 69,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.39 PM (1).jpeg",
+      "path": "sial-images/sial-069.jpg",
+      "bytes": 225952,
+      "sha256": "db797fd447901e200a3b3d0d5b9fc6a0d8d6f7de84095a48b00077b13df78050",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.39 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 70,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.39 PM (2).jpeg",
+      "path": "sial-images/sial-070.jpg",
+      "bytes": 258964,
+      "sha256": "099fe48482059771a562920da52d1c847409a48b2bbab72e28200621e666b7c7",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.39 PM (2)",
+      "direction": "incoming"
+    },
+    {
+      "n": 71,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.39 PM.jpeg",
+      "path": "sial-images/sial-071.jpg",
+      "bytes": 259827,
+      "sha256": "22775379c1f7af580b66dfb5f8485c8df1c59e9f195f24f85d99cb5285e3959c",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.39 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 72,
+      "file": "WhatsApp Image 2026-10-18 at 4.21.40 PM.jpeg",
+      "path": "sial-images/sial-072.jpg",
+      "bytes": 287058,
+      "sha256": "59a07d79c455c26b2c07da612e739ee7420d17b9f93e28e14cfbccf08cc02a73",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.21.40 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 73,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.06 PM (1).jpeg",
+      "path": "sial-images/sial-073.jpg",
+      "bytes": 234017,
+      "sha256": "c355733aaa3b6f7dfb82fd4141070ca44a32d9b8a95f611fed5b1102a883edb4",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.06 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 74,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.06 PM (2).jpeg",
+      "path": "sial-images/sial-074.jpg",
+      "bytes": 229058,
+      "sha256": "5a3bf9356e2731c2414bc3f3f059ddec11748187a0d8ffe58e4bcbe20a685ad2",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.06 PM (2)",
+      "direction": "incoming"
+    },
+    {
+      "n": 75,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.06 PM.jpeg",
+      "path": "sial-images/sial-075.jpg",
+      "bytes": 152995,
+      "sha256": "ef3fb33d4cae17b4f73b117a78fa8eba447c557d187e0c8ac7aafbe786c7255d",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.06 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 76,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.07 PM (1).jpeg",
+      "path": "sial-images/sial-076.jpg",
+      "bytes": 130355,
+      "sha256": "a7dfcfc82e8d2c2f66a556dcd5b134c7e2e80536bc82d3f504ae9c93515c9240",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.07 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 77,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.07 PM.jpeg",
+      "path": "sial-images/sial-077.jpg",
+      "bytes": 148740,
+      "sha256": "756762d30ea14df98250cb64b59d5f9ac377a51cbd4ed632194d6c5571880a7d",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.07 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 78,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.08 PM (1).jpeg",
+      "path": "sial-images/sial-078.jpg",
+      "bytes": 192352,
+      "sha256": "5b55f1e0c7c9023dc9588f83182ce0e4e25fb213775091cc98fd3aa4f64b5fc8",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.08 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 79,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.08 PM (2).jpeg",
+      "path": "sial-images/sial-079.jpg",
+      "bytes": 189628,
+      "sha256": "b6830031504186ab4fd5ac0924b3d87963928b12d6fa26633010bd6d4d7099a6",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.08 PM (2)",
+      "direction": "incoming"
+    },
+    {
+      "n": 80,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.08 PM.jpeg",
+      "path": "sial-images/sial-080.jpg",
+      "bytes": 184627,
+      "sha256": "c8629d82301ebe6c513f2fe4292c8fe33616b0de904420f6db5a8475cfc77165",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.08 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 81,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.09 PM (1).jpeg",
+      "path": "sial-images/sial-081.jpg",
+      "bytes": 136850,
+      "sha256": "9595a1999ed437a91dd318b996be997ab20e81eac10f7c40f4e93cf8e759b2f0",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.09 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 82,
+      "file": "WhatsApp Image 2026-10-18 at 4.54.09 PM.jpeg",
+      "path": "sial-images/sial-082.jpg",
+      "bytes": 220362,
+      "sha256": "70a0199ede95a08c4c7a1af173760785254ca8ee24599e9def0d845cd72664ad",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 4.54.09 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 83,
+      "file": "WhatsApp Image 2026-10-18 at 5.03.19 PM.jpeg",
+      "path": "sial-images/sial-083.jpg",
+      "bytes": 267478,
+      "sha256": "3955623d0fbf996af2e299007bc2fb72bdc6e1e822fd4c5546a8636bc475dba6",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 5.03.19 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 84,
+      "file": "WhatsApp Image 2026-10-18 at 5.03.20 PM (1).jpeg",
+      "path": "sial-images/sial-084.jpg",
+      "bytes": 253092,
+      "sha256": "6c040d0cf55b412475c7e1bd03240033d8111856da0608ea6e76d7a72bffc5be",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 5.03.20 PM (1)",
+      "direction": "incoming"
+    },
+    {
+      "n": 85,
+      "file": "WhatsApp Image 2026-10-18 at 5.03.20 PM.jpeg",
+      "path": "sial-images/sial-085.jpg",
+      "bytes": 218984,
+      "sha256": "31484b36b4a78980fdf9dc014ec149f82fe81bfd2ff53a5c49e48224f3fdd051",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 5.03.20 PM",
+      "direction": "incoming"
+    },
+    {
+      "n": 86,
+      "file": "WhatsApp Image 2026-10-18 at 5.03.25 PM.jpeg",
+      "path": "sial-images/sial-086.jpg",
+      "bytes": 229469,
+      "sha256": "1e1500219e9970e5040ded089b8649bef3e01515d10dbe22d603426ba7f55b66",
+      "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 5.03.25 PM",
+      "direction": "incoming"
     }
   ],
-  "lastAdditionAt": "2026-10-18T11:48:00+03:00"
+  "lastAdditionAt": "2026-10-18T17:03:00+03:00"
 }
