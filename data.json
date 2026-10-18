@@ -38468,7 +38468,7 @@
             "publishedAt": null,
             "firstSeenAt": "2026-10-15T12:50:56.023062+00:00",
             "baseline": false,
-            "lastSeenAt": "2026-10-15T12:50:56.023062+00:00"
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00"
           },
           {
             "url": "https://www.tiktok.com/@emizksa/video/7696826592911265032",
@@ -38477,7 +38477,7 @@
             "publishedAt": null,
             "firstSeenAt": "2026-10-15T12:50:56.023062+00:00",
             "baseline": false,
-            "lastSeenAt": "2026-10-15T12:50:56.023062+00:00"
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00"
           },
           {
             "url": "https://www.tiktok.com/@emizksa/video/7695329438535322881",
@@ -38766,11 +38766,29 @@
             "firstSeenAt": "2026-10-15T07:46:59.725511+00:00",
             "lastSeenAt": "2026-10-15T07:46:59.725511+00:00",
             "baseline": false
+          },
+          {
+            "url": "https://www.tiktok.com/@emizksa/video/7697620537555684626",
+            "title": "محتوى مرصود من حساب إيميز",
+            "type": "فيديو",
+            "publishedAt": null,
+            "firstSeenAt": "2026-10-18T07:30:27.002854+00:00",
+            "baseline": false,
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00"
+          },
+          {
+            "url": "https://www.tiktok.com/@emizksa/video/7696885238810594578",
+            "title": "محتوى مرصود من حساب إيميز",
+            "type": "فيديو",
+            "publishedAt": null,
+            "firstSeenAt": "2026-10-18T07:30:27.002854+00:00",
+            "baseline": false,
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00"
           }
         ],
-        "contentCheckedAt": "2026-10-17T07:19:46.997786+00:00",
-        "contentStatus": "error",
-        "contentNote": "انتهت مهلة أداة المتصفح أثناء محاولة فتح الحسابات؛ المحتوى السابق محفوظ دون تحقق جديد.",
+        "contentCheckedAt": "2026-10-18T07:30:27.002854+00:00",
+        "contentStatus": "partial",
+        "contentNote": "قراءة جزئية للشبكة العامة؛ تعذر فتح تفاصيل تيك توك، وانقطع اتصال المتصفح أثناء فحص سناب. لم يستنتج تاريخ نشر من تاريخ الرصد.",
         "contentChecks": [
           {
             "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -38867,6 +38885,12 @@
             "status": "error",
             "observedCount": null,
             "newCount": null
+          },
+          {
+            "checkedAt": "2026-10-18T07:30:27.002854+00:00",
+            "status": "partial",
+            "observedCount": 4,
+            "newCount": 2
           }
         ]
       },
@@ -39210,11 +39234,20 @@
             "firstSeenAt": "2026-10-07T13:39:42.226947+00:00",
             "lastSeenAt": "2026-10-07T13:39:42.226947+00:00",
             "baseline": false
+          },
+          {
+            "url": "https://www.snapchat.com/@emizksa/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbnFhZmlwc3NmAaFKDNUgAaFJ-kwvAAAAAQ",
+            "title": "محتوى مرصود من حساب إيميز",
+            "type": "فيديو",
+            "publishedAt": null,
+            "firstSeenAt": "2026-10-18T07:30:27.002854+00:00",
+            "baseline": false,
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00"
           }
         ],
-        "contentCheckedAt": "2026-10-17T07:19:46.997786+00:00",
-        "contentStatus": "error",
-        "contentNote": "انتهت مهلة أداة المتصفح أثناء محاولة فتح الحسابات؛ المحتوى السابق محفوظ دون تحقق جديد.",
+        "contentCheckedAt": "2026-10-18T07:30:27.002854+00:00",
+        "contentStatus": "partial",
+        "contentNote": "قراءة جزئية للشبكة العامة؛ تعذر فتح تفاصيل تيك توك، وانقطع اتصال المتصفح أثناء فحص سناب. لم يستنتج تاريخ نشر من تاريخ الرصد.",
         "contentChecks": [
           {
             "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -39311,6 +39344,12 @@
             "status": "error",
             "observedCount": null,
             "newCount": null
+          },
+          {
+            "checkedAt": "2026-10-18T07:30:27.002854+00:00",
+            "status": "partial",
+            "observedCount": 1,
+            "newCount": 1
           }
         ]
       },
@@ -39341,12 +39380,13 @@
           },
           {
             "url": "https://www.instagram.com/emizksa/reel/DeguHzRty92/",
-            "title": "منشور مرصود من الحساب العام",
+            "title": "The wait is almost over ..",
             "type": "ريلز",
-            "publishedAt": null,
+            "publishedAt": "2026-10-15",
             "firstSeenAt": "2026-10-15T12:50:56.023062+00:00",
             "baseline": false,
-            "lastSeenAt": "2026-10-15T12:50:56.023062+00:00"
+            "lastSeenAt": "2026-10-18T07:30:27.002854+00:00",
+            "publicationEvidence": "تاريخ ظاهر في وصف الفيديو بالصفحة"
           },
           {
             "url": "https://www.instagram.com/emizksa/p/DePQvFiDYrl/",
@@ -39640,9 +39680,9 @@
             "baseline": false
           }
         ],
-        "contentCheckedAt": "2026-10-17T07:19:46.997786+00:00",
-        "contentStatus": "error",
-        "contentNote": "انتهت مهلة أداة المتصفح أثناء محاولة فتح الحسابات؛ المحتوى السابق محفوظ دون تحقق جديد.",
+        "contentCheckedAt": "2026-10-18T07:30:27.002854+00:00",
+        "contentStatus": "partial",
+        "contentNote": "قراءة جزئية للشبكة العامة؛ تعذر فتح تفاصيل تيك توك، وانقطع اتصال المتصفح أثناء فحص سناب. لم يستنتج تاريخ نشر من تاريخ الرصد.",
         "contentChecks": [
           {
             "checkedAt": "2026-10-04T08:47:01.486512+00:00",
@@ -39739,6 +39779,12 @@
             "status": "error",
             "observedCount": null,
             "newCount": null
+          },
+          {
+            "checkedAt": "2026-10-18T07:30:27.002854+00:00",
+            "status": "partial",
+            "observedCount": 1,
+            "newCount": 0
           }
         ]
       }
@@ -40757,7 +40803,7 @@
   },
   "sallaComplaints": {
     "status": "error",
-    "checkedAt": "2026-10-17T07:19:46.997786+00:00",
+    "checkedAt": "2026-10-18T07:30:27.002854+00:00",
     "lastSuccessAt": "2026-10-15T13:46:06.648654+00:00",
     "open": 0,
     "resolved": null,
@@ -40817,7 +40863,7 @@
         "message": "أول قراءة ناجحة: 7 شكاوى مغلقة ولا توجد شكاوى مفتوحة. أحدث شكوى مغلقة آخر تحديث لها 7 أكتوبر الساعة 14:30؛ لم تُرصد حالة سابقة تؤكد وقت انتقالها إلى الإغلاق."
       }
     ],
-    "error": "صفحة شكاوى سلة أعادت 502 Bad Gateway؛ لم تُقرأ الحالات، وآخر قراءة ناجحة محفوظة."
+    "error": "تعذر فحص صفحة الشكاوى لانقطاع اتصال Chrome؛ آخر بيانات ناجحة محفوظة."
   },
   "b2bDailyReports": {
     "checkedAt": "2026-10-17T12:46:09.272465+00:00",
@@ -48143,5 +48189,12 @@
     "sourceSnapshotAt": "2026-10-17T07:19:40.184Z",
     "partial": true,
     "crmCheckedAt": "2026-10-17T07:35:36.183307+00:00"
+  },
+  "meetingMinutes": {
+    "source": "Pocket",
+    "status": "awaiting-login",
+    "statusText": "بانتظار تسجيل الدخول إلى Pocket لاستيراد أول محضر. لم تُفعّل المزامنة التلقائية بعد.",
+    "lastSuccessAt": null,
+    "items": []
   }
 }

@@ -68,6 +68,7 @@ views.b2c=['مبيعات B2C','متجر EMIZ · تقارير سلة اليومي
 views.projects=['مشروعات المهام','ملف لكل مهمة: المعلومات والإجراءات والمرفقات والخطوة التالية'];
 views.whatsappVisits=['واتساب الزيارات','ملخص الإدارة · الزيارات الميدانية · الرياض والخرج · المتابعات والقرارات'];
 views.daily=['التقرير اليومي','تقرير مقسم حسب الأقسام وجاهز للنسخ والإرسال · الموعد اليومي ٦ مساءً بتوقيت الرياض.'];
+views.meetings=['محاضر الاجتماعات','ملخصات الاجتماعات والقرارات والإجراءات المطلوبة · المصدر Pocket'];
 let teamKey='marketing';
 let teamPage=1;
 let teamStatus='open';
@@ -86,7 +87,7 @@ function render(){
   document.getElementById('navSources').textContent=N(D.sources.length);
   document.getElementById('pageTitle').textContent=views[state.view][0];document.getElementById('pageSubtitle').textContent=views[state.view][1];
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===state.view);if(b.dataset.view===state.view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});
-  if(state.view==='whatsappVisits')renderWhatsAppVisits();else if(state.view==='social')renderSocial();else if(state.view==='b2c')renderB2C();else if(state.view==='projects')renderProjects();else if(state.view==='overview')renderOverview();else if(state.view==='tasks'||state.view==='archive')renderTasks();else if(state.view==='hiring')renderHiring();else if(state.view==='sales')renderCRMSales();else if(state.view==='salesDaily')renderCRMDaily();else if(state.view==='collection')renderCollection();else if(state.view==='teams')renderTeams();else if(state.view==='reports')renderReports();else if(state.view==='whatsapp')renderWhatsApp();else if(state.view==='linkedin')renderLinkedin();else if(state.view==='daily')renderDaily();else renderSources();
+  if(state.view==='meetings')renderMeetingMinutes();else if(state.view==='whatsappVisits')renderWhatsAppVisits();else if(state.view==='social')renderSocial();else if(state.view==='b2c')renderB2C();else if(state.view==='projects')renderProjects();else if(state.view==='overview')renderOverview();else if(state.view==='tasks'||state.view==='archive')renderTasks();else if(state.view==='hiring')renderHiring();else if(state.view==='sales')renderCRMSales();else if(state.view==='salesDaily')renderCRMDaily();else if(state.view==='collection')renderCollection();else if(state.view==='teams')renderTeams();else if(state.view==='reports')renderReports();else if(state.view==='whatsapp')renderWhatsApp();else if(state.view==='linkedin')renderLinkedin();else if(state.view==='daily')renderDaily();else renderSources();
 }
 function renderOverview(){
  const ready=D.sources.filter(s=>s.status==='read'&&s.syncStatus!=='error'&&s.lastSuccessAt&&(Date.now()-Date.parse(s.lastSuccessAt))/60000<=60).length;
@@ -227,4 +228,13 @@ function renderWhatsAppVisits(){
  function draw(){const g=document.getElementById('wvGroup').value,filter=a=>(a||[]).filter(x=>g==='all'||x.groupId===g);const table=(title,heads,rows)=>`<section class="panel"><div class="panelhead"><h2>${E(title)}</h2></div><div class="tablewrap"><table><thead><tr>${heads.map(x=>`<th>${E(x)}</th>`).join('')}</tr></thead><tbody>${rows.length?rows.map(row=>`<tr>${row.map(x=>`<td>${E(x||'غير مسجل')}</td>`).join('')}</tr>`).join(''):`<tr><td colspan="${heads.length}">بانتظار قراءة رسائل المجموعتين وتوثيق البيانات.</td></tr>`}</tbody></table></div></section>`;
  document.getElementById('wvBody').innerHTML=table('سجل الزيارات',['تاريخ الزيارة','المندوب','العميل / الموقع','المدينة','الهدف','النتيجة','الخطوة التالية'],filter(w.visits).map(x=>[x.visitDate,x.rep,x.customer,x.city,x.purpose,x.result,x.nextStep]))+table('المتابعات المطلوبة',['المهمة','المسؤول','الموعد','الحالة','آخر تحديث'],filter(w.actions).map(x=>[x.title,x.owner,x.due,({pending:'بانتظار المتابعة',completed:'مكتمل',in_progress:'قيد التنفيذ'}[x.status]||x.status),x.note]))+table('قرارات ونقاشات العمل',['التاريخ','الموضوع','القرار / الملخص','المسؤول'],filter(w.decisions).map(x=>[x.date,x.topic,x.summary,x.owner]))+'<p class="scope-note">يُفصل تاريخ الزيارة عن تاريخ الرسالة. لا تُحتسب الزيارة المخططة كزيارة منفذة، ولا تُستنتج مبيعات أو تحصيل من النقاش وحده.</p>';}
  document.getElementById('wvGroup').addEventListener('change',draw);draw();
+}
+
+
+function renderMeetingMinutes(){
+ const minutes=D.meetingMinutes||{};
+ const items=Array.isArray(minutes.items)?minutes.items:[];
+ const rows=[...items].sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
+ const fileLink=(path,label)=>typeof path==='string'&&/^reports\/meetings\/[a-zA-Z0-9_.-]+\.(pdf|html)$/.test(path)?`<a class="button" href="${E(path)}" target="_blank" rel="noopener">${E(label)}</a>`:'';
+ content.innerHTML=`<section class="panel"><div class="panelhead"><div><h2>سجل محاضر الاجتماعات</h2><p>ملخص الاجتماع، القرارات، والمسؤوليات ومواعيد التنفيذ.</p></div><span class="tag">${N(rows.length)} محاضر</span></div><div class="panelbody"><p>${E(minutes.statusText||'لم يُربط مصدر الاجتماعات بعد.')}</p>${minutes.lastSuccessAt?`<p class="meta">آخر سحب ناجح: ${E(minutes.lastSuccessAt)}</p>`:''}</div></section>${rows.length?rows.map(m=>`<article class="panel"><div class="panelhead"><div><h2>${E(m.title)}</h2><p>${E(m.date)} · ${E(m.status||'مسودة للمراجعة')}</p></div></div><div class="panelbody"><p>${E(m.summary||'')}</p><h3>أهم النقاط</h3><ul>${(m.points||[]).map(x=>`<li>${E(x)}</li>`).join('')}</ul><h3>القرارات</h3>${(m.decisions||[]).length?`<ol>${m.decisions.map(x=>`<li>${E(x)}</li>`).join('')}</ol>`:'<p>لم يُوثق قرار صريح في المصدر.</p>'}<h3>الإجراءات المطلوبة</h3>${(m.actions||[]).map(a=>`<p><strong>${E(a.task)}</strong><br>المسؤول: ${E(a.owner||'غير محدد')} · الموعد: ${E(a.due||'غير محدد')}</p>`).join('')||'<p>لم تُوثق تكليفات محددة.</p>'}${fileLink(m.pdf,'تحميل المحضر PDF')}${fileLink(m.html,'فتح المحضر الكامل')}</div></article>`).join(''):'<section class="panel"><div class="panelbody"><h2>بانتظار أول محضر</h2><p>ستظهر هنا المحاضر بعد قراءة الاجتماع من Pocket وتنسيقه. لم يُستورد اجتماع 17 أكتوبر 2026 حتى الآن.</p></div></section>'}`;
 }
