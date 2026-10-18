@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-18",
   "companies": [
     {
       "id": "mokate",
@@ -49,7 +49,49 @@
       "address": "MOKATE Sp. z o.o. — 48 Strażacka Str., 44-240 Żory, Poland",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "المكتب الرئيسي — بولندا",
+          "role": "المكتب الرئيسي — بولندا",
+          "email": "mokate@mokate.com.pl",
+          "phones": [
+            "+48324349700"
+          ],
+          "website": "https://mokate.com/kontakt/",
+          "source": "https://mokate.com/kontakt/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "مكتب المملكة المتحدة",
+          "role": "مكتب المملكة المتحدة",
+          "email": "cs@mokate.uk",
+          "phones": [
+            "+441313386760"
+          ],
+          "website": "https://mokate.com/kontakt/",
+          "source": "https://mokate.com/kontakt/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "التسويق — أوسترون",
+          "role": "التسويق — أوسترون",
+          "email": "marketing@mokate.com.pl",
+          "phones": [
+            "+48338549100"
+          ],
+          "website": "https://mokate.com/kontakt/",
+          "source": "https://mokate.com/kontakt/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "actiph",
@@ -84,7 +126,21 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "التواصل العام",
+          "role": "التواصل العام",
+          "email": "hello@actiphwater.com",
+          "phones": [],
+          "website": "https://www.actiphwater.com/pages/contact",
+          "source": "https://www.actiphwater.com/pages/contact",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "xoxo",
@@ -119,7 +175,21 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "التواصل المباشر",
+          "role": "التواصل المباشر",
+          "email": "eloisa@moodfoods.io",
+          "phones": [],
+          "website": "https://drinkxoxo.com/pages/contact-us",
+          "source": "https://drinkxoxo.com/pages/contact-us",
+          "links": [],
+          "note": "الموقع يذكر تعطل النموذج مؤقتًا ويوجه للبريد.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "forever-young",
@@ -151,7 +221,28 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "مبيعات التجزئة",
+          "role": "مبيعات التجزئة",
+          "email": "retail@fyk.bar",
+          "phones": [
+            "+48571098995"
+          ],
+          "website": "https://fyk.bar/",
+          "source": "https://fyk.bar/",
+          "links": [
+            [
+              "Instagram",
+              "https://www.instagram.com/fyk.kombucha/"
+            ]
+          ],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "cruz-group",
@@ -189,7 +280,23 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "مكتب الشركة",
+          "role": "مكتب الشركة",
+          "email": "office@cruzgroup.pl",
+          "phones": [
+            "+48783761791"
+          ],
+          "website": "https://cruzgroup.pl/kontakt/",
+          "source": "https://cruzgroup.pl/kontakt/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "goyn",
@@ -219,7 +326,30 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "الموقع وحسابات الكتيب",
+          "role": "الموقع وحسابات الكتيب",
+          "email": "",
+          "phones": [],
+          "website": "https://goyn.it",
+          "source": "https://goyn.it",
+          "links": [
+            [
+              "Instagram — كما بالكتيب",
+              "https://www.instagram.com/thegoyn/"
+            ],
+            [
+              "Facebook — كما بالكتيب",
+              "https://www.facebook.com/TheGOYN/"
+            ]
+          ],
+          "note": "الموقع والحسابات من الكتيب المصور؛ تعذر التحقق المباشر من الموقع. لم يثبت بريد أو هاتف.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "tonon",
@@ -266,7 +396,23 @@
       "address": "Via Carpesica, 1 — 31029 Vittorio Veneto (TV), Italy",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "المكتب الرئيسي",
+          "role": "المكتب الرئيسي",
+          "email": "info@vinitonon.com",
+          "phones": [
+            "+390438920004"
+          ],
+          "website": "https://vinitonon.it/",
+          "source": "https://vinitonon.it/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "diablo",
@@ -303,7 +449,34 @@
       "address": "B Healthy Ltd — Head office, 155 Golders Green Road, London NW11 9BX",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "خدمة العملاء",
+          "role": "خدمة العملاء",
+          "email": "customerservices@DiabloSugarFree.com",
+          "phones": [
+            "+442072225222"
+          ],
+          "website": "https://www.diablosugarfree.com/pages/frequently-asked-questions",
+          "source": "https://www.diablosugarfree.com/pages/frequently-asked-questions",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "بريد التواصل المعلن",
+          "role": "بريد التواصل المعلن",
+          "email": "SUK@DiabloSugarFree.com",
+          "phones": [],
+          "website": "https://www.diablosugarfree.com/pages/frequently-asked-questions",
+          "source": "https://www.diablosugarfree.com/pages/frequently-asked-questions",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "trip",
@@ -338,7 +511,56 @@
         ]
       ],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "التواصل العام والرسائل النصية",
+          "role": "التواصل العام والرسائل النصية",
+          "email": "hello@drink-trip.com",
+          "phones": [
+            "+447862126624"
+          ],
+          "website": "https://fr.drink-trip.com/pages/contact-us",
+          "source": "https://fr.drink-trip.com/pages/contact-us",
+          "links": [],
+          "note": "الرقم معلن للرسائل النصية SMS؛ لا يوجد تأكيد أنه واتساب.",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "شراكات",
+          "role": "شراكات",
+          "email": "partnerships@drink-trip.com",
+          "phones": [],
+          "website": "https://us.drink-trip.com/pages/contact-us",
+          "source": "https://us.drink-trip.com/pages/contact-us",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "الإعلام",
+          "role": "الإعلام",
+          "email": "press@drink-trip.com",
+          "phones": [],
+          "website": "https://us.drink-trip.com/pages/contact-us",
+          "source": "https://us.drink-trip.com/pages/contact-us",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "موزعون — الولايات المتحدة",
+          "role": "موزعون — الولايات المتحدة",
+          "email": "usa@drink-trip.com",
+          "phones": [],
+          "website": "https://us.drink-trip.com/pages/contact-us",
+          "source": "https://us.drink-trip.com/pages/contact-us",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "rheal",
@@ -374,7 +596,26 @@
         ]
       ],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "خدمة العملاء",
+          "role": "خدمة العملاء",
+          "email": "support@rhealsuperfoods.com",
+          "phones": [],
+          "website": "https://rhealsuperfoods.com/pages/faq",
+          "source": "https://rhealsuperfoods.com/pages/faq",
+          "links": [
+            [
+              "مركز المساعدة",
+              "https://help.rhealsuperfoods.com"
+            ]
+          ],
+          "note": "ليس بريد تصدير مؤكدًا؛ لم يتأكد هاتف تجاري.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "citizens-of-soil",
@@ -407,7 +648,26 @@
         ]
       ],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "خدمة العملاء",
+          "role": "خدمة العملاء",
+          "email": "olivehelp@citizensofsoil.com",
+          "phones": [],
+          "website": "https://us.citizensofsoil.com/pages/contact",
+          "source": "https://us.citizensofsoil.com/pages/contact",
+          "links": [
+            [
+              "طلب الجملة",
+              "https://www.citizensofsoil.com/pages/wholesale-olive-oil-enquiry"
+            ]
+          ],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "tribe",
@@ -437,7 +697,21 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "التواصل المباشر وطلبات التوزيع",
+          "role": "التواصل المباشر وطلبات التوزيع",
+          "email": "hello@wearetribe.co",
+          "phones": [],
+          "website": "https://wearetribe.co/pages/contact",
+          "source": "https://wearetribe.co/pages/contact",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "superfoodio",
@@ -468,7 +742,21 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "التواصل والتعاون",
+          "role": "التواصل والتعاون",
+          "email": "hello@superfoodio.com",
+          "phones": [],
+          "website": "https://www.superfoodio.com/pages/frequently-asked-questions",
+          "source": "https://www.superfoodio.com/pages/frequently-asked-questions",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "trash",
@@ -499,7 +787,37 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "استفسارات تجارية",
+          "role": "استفسارات تجارية",
+          "email": "info@trashdrinks.com",
+          "phones": [],
+          "website": "https://www.linkedin.com/company/trashdrinks",
+          "source": "https://www.linkedin.com/company/trashdrinks",
+          "links": [
+            [
+              "طلب تجاري",
+              "https://trashdrinks.com/trade"
+            ]
+          ],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "طلبات التوزيع",
+          "role": "طلبات التوزيع",
+          "email": "hello@trashdrinks.com",
+          "phones": [],
+          "website": "https://www.linkedin.com/company/trashdrinks",
+          "source": "https://www.linkedin.com/company/trashdrinks",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "fdea",
@@ -533,7 +851,32 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "فريق FDEA",
+          "role": "فريق FDEA",
+          "email": "team@fdea.org.uk",
+          "phones": [],
+          "website": "https://www.futureoffood.org.uk/export",
+          "source": "https://www.futureoffood.org.uk/export",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "شراكات FDEA",
+          "role": "شراكات FDEA",
+          "email": "barney@fdea.org.uk",
+          "phones": [],
+          "website": "https://www.futureoffood.org.uk/export",
+          "source": "https://www.futureoffood.org.uk/export",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "elixir",
@@ -564,7 +907,23 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "Hristo Vatashki — جهة الاتصال بسياسة الخصوصية",
+          "role": "Hristo Vatashki — جهة الاتصال بسياسة الخصوصية",
+          "email": "h.vatashki@lixrdrink.com",
+          "phones": [
+            "+359898362288"
+          ],
+          "website": "https://lixrdrink.com/privacy-policy",
+          "source": "https://lixrdrink.com/privacy-policy",
+          "links": [],
+          "note": "من سياسة الخصوصية الرسمية؛ يحتفظ الملف أيضًا برقم بطاقة المعرض المختلف.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "now-juice",
@@ -582,7 +941,30 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "جهة الاتصال الواردة بالشروط",
+          "role": "جهة الاتصال الواردة بالشروط",
+          "email": "marti@nowjuice.ie",
+          "phones": [],
+          "website": "https://www.drinknowcoco.com/terms-and-conditions",
+          "source": "https://www.drinknowcoco.com/terms-and-conditions",
+          "links": [
+            [
+              "نموذج الاتصال",
+              "https://www.drinknowcoco.com/contact"
+            ],
+            [
+              "LinkedIn",
+              "https://www.linkedin.com/company/now-coco"
+            ]
+          ],
+          "note": "البريد منشور للاستفسارات عن الشروط؛ نموذج الاتصال متاح للاستفسار التجاري. لا يوجد هاتف مؤكد.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "wana",
@@ -611,7 +993,45 @@
       "address": "",
       "sources": [],
       "updatedAt": "2026-10-17",
-      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف"
+      "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "المبيعات والمنتجات",
+          "role": "المبيعات والمنتجات",
+          "email": "inquiry@wana.com.vn",
+          "phones": [
+            "+84365135789"
+          ],
+          "website": "https://wanabeverage.com/contact/",
+          "source": "https://wanabeverage.com/contact/",
+          "links": [
+            [
+              "WhatsApp المبيعات الرسمي",
+              "https://wa.me/84365135789"
+            ],
+            [
+              "LinkedIn",
+              "https://www.linkedin.com/company/wanabeverage/"
+            ]
+          ],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "السنترال — الاستيراد والتصدير",
+          "role": "السنترال — الاستيراد والتصدير",
+          "email": "",
+          "phones": [
+            "+842873005789"
+          ],
+          "website": "https://wanabeverage.com/contact/",
+          "source": "https://wanabeverage.com/contact/",
+          "links": [],
+          "note": "تحويلة 3 للاستيراد والتصدير.",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     },
     {
       "id": "picks",
@@ -661,7 +1081,104 @@
         ]
       ],
       "updatedAt": "2026-10-17",
-      "status": "صور جديدة محفوظة — التواصل التجاري لم يُنفذ"
+      "status": "صور جديدة محفوظة — التواصل التجاري لم يُنفذ",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "المكتب الرئيسي PERGALĖ",
+          "role": "المكتب الرئيسي PERGALĖ",
+          "email": "info@pergale.lt",
+          "phones": [
+            "+37052751311"
+          ],
+          "website": "https://www.pergale.lt/contacts/",
+          "source": "https://www.pergale.lt/contacts/",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": "thai-coco",
+      "name": "Thai Coco / Thai Coconut Public Company Limited",
+      "category": "ماء جوز الهند ومشروبات Hydration",
+      "photos": [
+        51,
+        52
+      ],
+      "products": [
+        "ماء جوز الهند 100% — عبوة لتر واحدة ظاهرة",
+        "Hydration Drink + Vitality — نكهة الليتشي والخوخ",
+        "Hydration Drink + Fiber — نكهة المانجو والخوخ"
+      ],
+      "contacts": [
+        {
+          "name": "Shisa Malingam — Ou-Ae",
+          "role": "Export Sales",
+          "email": "export5@thaicoconut.com",
+          "phones": [],
+          "website": "https://www.thaicoconut.com",
+          "source": "بطاقة الأعمال الظاهرة في الصورة؛ أرقام الهاتف تحتاج نسخة أوضح"
+        }
+      ],
+      "notes": "صورتان واردتان اليوم. لم يرد عرض سعر أو حد أدنى للطلب أو شروط توريد. أرقام الهاتف غير منسوخة لعدم وضوحها الكافي.",
+      "booth": "غير ظاهر في الصور",
+      "updatedAt": "2026-10-18",
+      "status": "الصور محفوظة — بانتظار التواصل التجاري",
+      "contactReviewAt": "2026-10-18",
+      "verifiedPublicContacts": [
+        {
+          "name": "مبيعات التصدير",
+          "role": "مبيعات التصدير",
+          "email": "export@thaicoconut.com",
+          "phones": [
+            "+6625841777"
+          ],
+          "website": "https://thaicoconut.com/contact",
+          "source": "https://thaicoconut.com/contact",
+          "links": [],
+          "note": "تحويلة 1610 للتصدير.",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "القطاع الصناعي",
+          "role": "القطاع الصناعي",
+          "email": "industrial@thaicoconut.com",
+          "phones": [
+            "+6625841777"
+          ],
+          "website": "https://thaicoconut.com/contact",
+          "source": "https://thaicoconut.com/contact",
+          "links": [],
+          "note": "تحويلة 1512.",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "العلامات التجارية",
+          "role": "العلامات التجارية",
+          "email": "itthipol@thaicoconut.com",
+          "phones": [
+            "+6625841777"
+          ],
+          "website": "https://thaicoconut.com/contact",
+          "source": "https://thaicoconut.com/contact",
+          "links": [],
+          "note": "تحويلة 1520.",
+          "verifiedAt": "2026-10-18"
+        },
+        {
+          "name": "التواصل بالولايات المتحدة",
+          "role": "التواصل بالولايات المتحدة",
+          "email": "jenique@thaicoconut.com",
+          "phones": [],
+          "website": "https://thaicoconut.com/contact",
+          "source": "https://thaicoconut.com/contact",
+          "links": [],
+          "note": "",
+          "verifiedAt": "2026-10-18"
+        }
+      ]
     }
   ],
   "images": [
@@ -1114,7 +1631,25 @@
       "sha256": "08e121753d59fa14bfae0111417a99474bd9dc20782254348fcb230a46301b26",
       "source": "محادثة أ. مهند الرصيص ١ — واتساب — 17 أكتوبر 2026، 17:01",
       "direction": "incoming"
+    },
+    {
+      "n": 51,
+      "file": "WhatsApp Image 2026-10-18 at 11.48.52 AM (1).jpeg",
+      "path": "sial-images/sial-051.jpg",
+      "bytes": 138608,
+      "sha256": "e425b38b0c4380cd2bbf8d6ee0166b9dfa4a4eff44ae0640b6bebc21ac3af70c",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 18 أكتوبر 2026، 11:48",
+      "direction": "incoming"
+    },
+    {
+      "n": 52,
+      "file": "WhatsApp Image 2026-10-18 at 11.48.52 AM.jpeg",
+      "path": "sial-images/sial-052.jpg",
+      "bytes": 172916,
+      "sha256": "2ed5ae2c35c7c45f41ca72b4089920e166f11593d01b1367ab87895b6602953a",
+      "source": "محادثة أ. مهند الرصيص ١ — واتساب — 18 أكتوبر 2026، 11:48",
+      "direction": "incoming"
     }
   ],
-  "lastAdditionAt": "2026-10-17T17:01:00+03:00"
+  "lastAdditionAt": "2026-10-18T11:48:00+03:00"
 }

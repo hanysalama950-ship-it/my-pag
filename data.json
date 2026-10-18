@@ -37477,11 +37477,11 @@
       "company": "شركات معرض سيال",
       "owner": "غير محدد",
       "phone": "غير منطبق",
-      "status": "19 ملف شركة وعلامة وجهة اتصال — صور سيال محفوظة",
+      "status": "20 ملف شركة وعلامة وجهة اتصال — صور سيال محفوظة",
       "updatedAt": "2026-10-17",
       "objective": "تنظيم شركات معرض سيال وصورها ومنتجاتها ووسائل التواصل ومتابعة اجتماعاتها.",
-      "summary": "تم فرز 46 صورة شركات و4 صور متابعة من محادثة أ. مهند بتاريخ 17 أكتوبر، وإعداد 19 ملفًا مستقلًا مع دليل شامل. قائمة الدعوات السابقة محفوظة.",
-      "outcome": "19 ملفًا جاهزًا للعرض؛ 50 صورة محفوظة. آخر صورة تظهر 3 اجتماعات مخططة وطلبين مرفوضين و9 معلقة. لا يوجد إثبات إرسال متابعة تجارية أو انعقاد الاجتماعات.",
+      "summary": "تم فرز 48 صورة شركات و4 صور متابعة من محادثة أ. مهند بتاريخ 17 أكتوبر، وإعداد 20 ملفًا مستقلًا مع دليل شامل. قائمة الدعوات السابقة محفوظة.",
+      "outcome": "20 ملفًا جاهزًا للعرض؛ 52 صورة محفوظة. آخر صورة تظهر 3 اجتماعات مخططة وطلبين مرفوضين و9 معلقة. لا يوجد إثبات إرسال متابعة تجارية أو انعقاد الاجتماعات.",
       "facts": [
         [
           "دعوات حضور المعرض",
@@ -37505,11 +37505,11 @@
         ],
         [
           "ملفات الشركات الجديدة",
-          "19 ملفًا: شركات وعلامات وجهة الجناح؛ مستقلة عن عدد الدعوات القديمة"
+          "20 ملفًا: شركات وعلامات وجهة الجناح؛ مستقلة عن عدد الدعوات القديمة"
         ],
         [
           "الصور المحفوظة",
-          "46 صورة شركات + 4 صور اجتماعات وبيانات اتصال"
+          "48 صورة شركات + 4 صور اجتماعات وبيانات اتصال"
         ],
         [
           "آخر حالات الدعوات",
@@ -37518,6 +37518,16 @@
       ],
       "decisions": [],
       "updates": [
+        {
+          "date": "2026-10-18",
+          "title": "مراجعة التواصل لجميع الشركات العشرين",
+          "detail": "إضافة دليل موحد وقنوات التواصل الرسمية لكل ملف، مع حفظ جهات المعرض وبيان البيانات غير المؤكدة. لم تُرسل رسائل للشركات."
+        },
+        {
+          "date": "2026-10-18",
+          "title": "إضافة Thai Coco — صور اليوم 11:48",
+          "detail": "حفظ صورتين أصليتين وإضافة ملف المنتجات وبريد مبيعات التصدير من البطاقة. الإجمالي 20 ملف شركة و52 صورة. الأسعار وشروط التوريد غير واردة."
+        },
         {
           "date": "2026-10-17",
           "title": "إضافة PICKS / PERGALĖ — صور الساعة 17:01",
@@ -37553,8 +37563,8 @@
           "name": "دليل شركات سيال — افتح الملفات والصور والتواصل",
           "file": "attachments/SIAL-Companies.html",
           "date": "2026-10-17",
-          "bytes": 12443,
-          "sha256": "81380c444d2bd2de05918b512683a95e465014b17613098a354fb3f535fc9fa2",
+          "bytes": 12909,
+          "sha256": "337c58442b34bfa71e73379c4a1e8ebfd771c01dbe921fd9c05dd2963d695933",
           "status": "جاهز للعرض",
           "category": "دليل المعرض"
         },
@@ -37562,8 +37572,8 @@
           "name": "MOKATE / LOYD — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-mokate.html",
           "date": "2026-10-17",
-          "bytes": 7792,
-          "sha256": "1aa7d8d92589bbca32d1b6da1a2ce23de5d84b86bf53b7eaba5ab463cfb212aa",
+          "bytes": 9426,
+          "sha256": "d6684980596b6ca9a9588d968a4d5f498cd364ed98427d874228e0eb69ac4072",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37571,8 +37581,8 @@
           "name": "ACTIPH / activit / ACTI+ — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-actiph.html",
           "date": "2026-10-17",
-          "bytes": 6554,
-          "sha256": "978135d8fe00e23a4621103dfeae39680baeb6fa75ff023e4eba5e9162a17013",
+          "bytes": 7262,
+          "sha256": "2bb8ec82320b55915e399572da203dc6a5e1316b497e54a45715fbe22fccc4d7",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37580,8 +37590,8 @@
           "name": "XOXO / Mood Foods — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-xoxo.html",
           "date": "2026-10-17",
-          "bytes": 7049,
-          "sha256": "3c3d38f9609ca3fd95262f55b92df940bb041dfa95cfcc66817b2deb2b199ae3",
+          "bytes": 7838,
+          "sha256": "c7a7a41971279e8fc9dc58d81e9c870c98428b2703a1e35860c01091975899dc",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37589,8 +37599,8 @@
           "name": "Forever Young / FYK / Wanty / teamo — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-forever-young.html",
           "date": "2026-10-17",
-          "bytes": 5536,
-          "sha256": "3ea72c34af97d18195fde20b0dcc5f69bd894a70fcba4d1cad15a4f53c5361c7",
+          "bytes": 6316,
+          "sha256": "c04e5e755931a6bb1885985adb1e716ceca99b2aa7da6e2d946c133561496db1",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37598,8 +37608,8 @@
           "name": "Cruz Group / VIGO / YOKO / Fresh Presso — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-cruz-group.html",
           "date": "2026-10-17",
-          "bytes": 7457,
-          "sha256": "7bc4b29b98fb7838fc874c035fd268ce2602ebdbe1a148b39051f733493e9df3",
+          "bytes": 8191,
+          "sha256": "0ef0844e34b8738f6199d91ca38d23712874aff745611f7d6b38370c48a67a81",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37607,8 +37617,8 @@
           "name": "GOYN — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-goyn.html",
           "date": "2026-10-17",
-          "bytes": 5680,
-          "sha256": "2775ba2f149a49f3669383f52c7c58d3ef49c10fe4ef877802afda5a978a1cab",
+          "bytes": 6621,
+          "sha256": "7034f6f8a7feb81aeef4054c64b9d024f29363bb10aacca2a5fefb9517c5b93f",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37616,8 +37626,8 @@
           "name": "Vini Tonon / Torresino — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-tonon.html",
           "date": "2026-10-17",
-          "bytes": 7067,
-          "sha256": "44bcfdb64defd04228cdbb3c2abcb4e58303f2093a95027b32cd2c76ed303562",
+          "bytes": 7797,
+          "sha256": "29890d8c6bbc96bb4b71ac6874f574538f8a70243e05a5e16e4e4adb5173d191",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37625,8 +37635,8 @@
           "name": "Diablo Sugar Free / B Healthy Ltd — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-diablo.html",
           "date": "2026-10-17",
-          "bytes": 7605,
-          "sha256": "71df97e9a8b0ef8ed9549b5370caa70422468a9e90e3648d17af05960635d664",
+          "bytes": 8900,
+          "sha256": "98b1a9fbb2c13e8f5aab688256d5a0b3d78ada3f9a42686545950652940a53b0",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37634,8 +37644,8 @@
           "name": "TRIP — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-trip.html",
           "date": "2026-10-17",
-          "bytes": 5962,
-          "sha256": "d9ab896a5cd4f717d32ef4bd74598eb86b14a72a29374408585f1c7bb5a7b50b",
+          "bytes": 8038,
+          "sha256": "94003295441892199e23605fba47bc9483093f9aaf4f2e9e586ff9d1c302ffa7",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37643,8 +37653,8 @@
           "name": "Rheal — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-rheal.html",
           "date": "2026-10-17",
-          "bytes": 5649,
-          "sha256": "95767355aacd8a8994de430c7af1bb61939c99d70673a050ab8adee6d1af342c",
+          "bytes": 6514,
+          "sha256": "e5de4749a54b929c10176a94b1f58ab51a0a775bfb009982898b47d707934ca9",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37652,8 +37662,8 @@
           "name": "Citizens of Soil — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-citizens-of-soil.html",
           "date": "2026-10-17",
-          "bytes": 5585,
-          "sha256": "55471d608ccba8c330bec373180631de63b9b2892d7a865f774ab2be3122da42",
+          "bytes": 6412,
+          "sha256": "27d3fb58789014c7eae599fa9ed9c63931a0f8e45b01c52da73a7b081b6cb5fc",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37661,8 +37671,8 @@
           "name": "TRIBE — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-tribe.html",
           "date": "2026-10-17",
-          "bytes": 5515,
-          "sha256": "542b71e364b188c929404189203f64d571a313bf661e66b108b9148b2ceffc86",
+          "bytes": 6271,
+          "sha256": "668ba16c10478bbbc19e119502cf27d0531323f612ec7374b5110031195e7fde",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37670,8 +37680,8 @@
           "name": "Superfoodio — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-superfoodio.html",
           "date": "2026-10-17",
-          "bytes": 5553,
-          "sha256": "9af7fdfbc98547c63cfc417310ab79dab19b031b62260b25cf5705666e8fafa0",
+          "bytes": 6311,
+          "sha256": "f49a492f35669b98a46a1aca38d7b38e96cc995d35919ac0cd6c90d42fe3d452",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37679,8 +37689,8 @@
           "name": "trash — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-trash.html",
           "date": "2026-10-17",
-          "bytes": 5885,
-          "sha256": "3dd86636392b278bedb4ce1ee2ab5ba087f72eec331eeb47d0d42f7621c72239",
+          "bytes": 7062,
+          "sha256": "bf9bfa00a90e07bd32895245003622e5787e4e3e9de439c0154f0446686d265e",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37688,8 +37698,8 @@
           "name": "FDEA / UK Food Collaborative — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-fdea.html",
           "date": "2026-10-17",
-          "bytes": 6773,
-          "sha256": "0cdbe8a7a61ae4c43a68790912c8298c7123250be27fba20b6b5ba831d3cf4f9",
+          "bytes": 7792,
+          "sha256": "2371070ac0d2cc61ccb69c39015d22a0275a70da79ccc46fca67a9f452cc69ac",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37697,8 +37707,8 @@
           "name": "ELIXIR LTD — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-elixir.html",
           "date": "2026-10-17",
-          "bytes": 5595,
-          "sha256": "2d7a66128fce527d7442f5c095644cf4d64982f9d7c3833e65ce92c5980b4730",
+          "bytes": 6586,
+          "sha256": "b537337b478659063998d424ba4d3137c56670b530cb6d70af8492d25498af4b",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37706,8 +37716,8 @@
           "name": "Now Juice Limited — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-now-juice.html",
           "date": "2026-10-17",
-          "bytes": 5145,
-          "sha256": "9234afbf85961827cec1673dbad62e185d0cd128006cde807d736fe19ce28692",
+          "bytes": 6236,
+          "sha256": "36e4f07c80901c3dc7854ea9be2c2bd9da68170fbd413a7c6bce544c6adb458e",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37715,8 +37725,8 @@
           "name": "WANA BEVERAGE JSC — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-wana.html",
           "date": "2026-10-17",
-          "bytes": 5629,
-          "sha256": "a3487feb44ed17fa5daa8c5142338e47cbaa19e15d220b816170905af5b1d076",
+          "bytes": 7017,
+          "sha256": "5ae916f02a2f79edb5b59e47b501964db3a5bd80d1d78a0fbffc266edaeedc1f",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -37735,8 +37745,26 @@
           "date": "2026-10-17",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات",
-          "bytes": 5907,
-          "sha256": "bea71c596683d91d79b69b5728c725242a711741e3d66d2a68ebfe5d6032bfba"
+          "bytes": 6669,
+          "sha256": "96aee97df39a70d342f105ec8f09b3939bdd75b982332b34a5ed567e0c205537"
+        },
+        {
+          "name": "Thai Coco — المنتجات والصور والتواصل",
+          "file": "attachments/SIAL-thai-coco.html",
+          "date": "2026-10-18",
+          "status": "جاهز للعرض",
+          "category": "ملفات الشركات",
+          "bytes": 6217,
+          "sha256": "2db4b58c9f67bd4b5348eee43dde8ad2cf59fc302d6f5a5e8cb07a2d58e4df64"
+        },
+        {
+          "name": "دليل التواصل المحدث — جميع شركات سيال",
+          "file": "attachments/SIAL-Contacts.html",
+          "date": "2026-10-18",
+          "status": "جاهز للعرض",
+          "category": "ملفات الشركات",
+          "bytes": 32197,
+          "sha256": "23421783dd0515a658ffa1bc05325a88e622d686c5eb673c4beff4906ac1554e"
         }
       ],
       "documentsNote": "ابدأ بدليل الشركات. كل ملف يعرض بيانات التواصل ومصادرها والصور الأصلية. ملف Excel القديم مؤرخ 14 أكتوبر؛ حالات اليوم في صفحة الاجتماعات. يمكن تنزيل حزمة كاملة من الدليل.",
