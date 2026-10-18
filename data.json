@@ -46611,9 +46611,321 @@
       {
         "id": "content-creator",
         "title": "صانعة محتوى",
-        "status": "بانتظار التحديثات",
-        "updates": [],
-        "candidates": []
+        "status": "14 ملف مرشحة — السير وبروفايلات الأعمال قيد المراجعة",
+        "updates": [
+          {
+            "date": "2026-10-18",
+            "detail": "فهرسة 15 ملفًا ضمن 14 سجلًا؛ ربط سيرة رزان بملف أعمالها، واستخراج روابط الأعمال المتاحة مع توضيح الروابط الناقصة."
+          }
+        ],
+        "candidates": [
+          {
+            "id": "content-alaa",
+            "name": "آلاء الصمد",
+            "cv": "content-alaa.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [
+              {
+                "url": "https://alaasamad.myportfolio.com/",
+                "page": 1,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              }
+            ],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-hala-abdulla",
+            "name": "هلا العبدالله",
+            "cv": "content-hala-abdulla.pdf",
+            "attachmentLabel": "بروفايل الأعمال",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [
+              {
+                "url": "https://www.instagram.com/reel/C3fQczzs1Ev/?igsh=bWU1bG1kYnlmMmR6",
+                "page": 8,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.instagram.com/reel/DN8RCrOCR44/?igsh=MWJreHh2azgxdW1qdQ==",
+                "page": 8,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.instagram.com/reel/C2e_nUWo8Gu/?igsh=MWdkOXA1aTI5MDk4Zg==",
+                "page": 8,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.instagram.com/reel/DS5IoRBDIWP/?igsh=MWhvbnF0NDE4dWlqMw==",
+                "page": 8,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://taglimeagency.com/ar/what-are-the-different-saudi-dialects-2-ar/",
+                "page": 9,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://taglimeagency.com/ar/saudi-gen-z-marketing-strategy-ar/",
+                "page": 9,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://thehemam.com/",
+                "page": 10,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://force.sa/",
+                "page": 10,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "http://www.linkedin.com/in/hala-alabdulla-6b1309204",
+                "page": 11,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              }
+            ],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "ملف أعمال مرفق.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-maria",
+            "name": "Maria Albuhaijan",
+            "cv": "content-maria.pdf",
+            "attachmentLabel": "بروفايل الأعمال",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "ملف أعمال مرفق. نسخة عرض مخففة؛ الأصل الكامل محفوظ محليًا.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-nermin",
+            "name": "نرمين جمال",
+            "cv": "content-nermin.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-reem",
+            "name": "Reem Alhadhariti",
+            "cv": "content-reem.pdf",
+            "attachmentLabel": "بروفايل الأعمال",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "ملف أعمال مرفق.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-asrar",
+            "name": "أسرار زيد",
+            "cv": "content-asrar.pdf",
+            "attachmentLabel": "بروفايل الأعمال",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "ملف أعمال مرفق.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-khuzama",
+            "name": "خزامى الخالدي",
+            "cv": "content-khuzama.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-razan",
+            "name": "رزان وائل مصطفى",
+            "cv": "content-razan.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [
+              {
+                "url": "https://www.tiktok.com/@grmoffices?_r=1&_t=ZS-975O5q2ADLw",
+                "page": 5,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.tiktok.com/@qamrasa?_r=1&_t=ZS-975ONZV5u8S",
+                "page": 6,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.tiktok.com/@raghed_sa?_r=1&_t=ZS-975OOhLGd8O",
+                "page": 7,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.linkedin.com/posts/razan-m-4005b6339_aehaeyaexaeraetabraetaeqaepaezaer-aehaeyaexabraepaesaepaefaez-activity-7312513022973857793-14Wm?utm_source=share&utm_medium=member_ios&rcm=ACoAAFT78cABVcry2amrVdqiEUDUXnNubBGa3hs",
+                "page": 11,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://www.linkedin.com/posts/razan-m-4005b6339_aepaesaeyaewaetabraepaesaehaepaesaetaeyabraesaesaenaeyaepaehaer-activity-7295810671198228481-dM26?utm_source=share&utm_medium=member_ios&rcm=ACoAAFT78cABVcry2amrVdqiEUDUXnNubBGa3hs",
+                "page": 11,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://x.com/ksu_mediaclub/status/1765421138841080125?s=61&t=BnfsLxUzBTCOnHF-ue3-gA",
+                "page": 11,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1p02hAL6vXm3DsRwgVNa1SIaaLKrL6t7Q/view?usp=drivesdk",
+                "page": 11,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1fosE0-hcpBpVlx0wzHEkiNLdiv1_9pH-/view?usp=drivesdk",
+                "page": 16,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1KB_iIcaZ4yD_zGGLdGUzoGLHJmyrvan1/view?usp=drivesdk",
+                "page": 18,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1lhsCUbqz5hZPu8dCK5x4VIMcG7-PLNr4/view?usp=drivesdk",
+                "page": 18,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              }
+            ],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. تم ربط بروفايل الأعمال المطابق للاسم داخل الملف.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            },
+            "portfolioFile": "content-razan-portfolio.pdf"
+          },
+          {
+            "id": "content-rahaf",
+            "name": "رهف شيخ",
+            "cv": "content-rahaf.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-abeer",
+            "name": "عبير الإبراهيم",
+            "cv": "content-abeer.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-fatimah",
+            "name": "فاطمة التميمي",
+            "cv": "content-fatimah.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [
+              {
+                "url": "https://heyzine.com/flip-book/5546274927.html",
+                "page": 1,
+                "status": "مستخرج من الملف؛ لم يُتحقق من فتحه خارجيًا"
+              }
+            ],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-fajer",
+            "name": "فجر القحطاني",
+            "cv": "content-fajer.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-hala-alarifi",
+            "name": "هلا الرفيعي (Hala Alarifi بالملف)",
+            "cv": "content-hala-alarifi.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          },
+          {
+            "id": "content-walla",
+            "name": "ولا العتيبي",
+            "cv": "content-walla.pdf",
+            "attachmentLabel": "السيرة الذاتية",
+            "status": "ملف مستلم — بانتظار المراجعة",
+            "result": "لم تُسجل نتيجة مقابلة",
+            "portfolioLinks": [],
+            "review": {
+              "basis": "فهرسة الملفات المحلية بتاريخ 18 أكتوبر 2026؛ دون تقييم أو ترتيب للمرشحات.",
+              "summary": "سيرة ذاتية مرفقة. لم يُستخرج رابط أعمال صالح؛ يلزم استكمال الرابط. يوجد رمز QR لبروفايل الأعمال في الصفحة الأولى ولم يُفك بعد.",
+              "assessment": "بانتظار مراجعة الأعمال والمقابلة؛ لا يوجد قرار قبول أو رفض."
+            }
+          }
+        ]
       },
       {
         "id": "sales-riyadh",
