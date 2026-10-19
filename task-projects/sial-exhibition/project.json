@@ -469,8 +469,8 @@
       "date": "2026-10-19",
       "category": "شركة شورتوك",
       "status": "جاهز للعرض",
-      "bytes": 5751,
-      "sha256": "1ce9bb44d523ce44b7a7bcbad3107d61d636752775c7d1f0418f95e20a7ca9d7"
+      "bytes": 5864,
+      "sha256": "fdddb1a0b85ee44fc68a51bf60ae9d7bb8c6c684b2a9d3f24b4612aba9ad6119"
     },
     {
       "name": "شركة شورتوك — صورة توزيع الحاويتين",
@@ -489,6 +489,15 @@
       "status": "جاهز للعرض",
       "bytes": 154580,
       "sha256": "014e83845b135c52a094aec76872829b2a01758c02f9bdab1a9d9b861f39adab"
+    },
+    {
+      "name": "شركة شورتوك — تحميل تقرير المطابقة PDF",
+      "file": "attachments/شركة شورتوك/Chortoq-Comparison-Report.pdf",
+      "date": "2026-10-19",
+      "category": "شركة شورتوك",
+      "status": "جاهز للتحميل",
+      "bytes": 419354,
+      "sha256": "24972975589b64630f61706cd46b6f24039667805fd14ed0157b9781456cc8ff"
     }
   ],
   "documentsNote": "33 ملفًا و104 صور أصلية، مع قائمة الدعوات ودليل التواصل وكتالوج UFF وExcel الشركات الصحية.",
