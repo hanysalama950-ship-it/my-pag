@@ -1449,6 +1449,167 @@
       "notes": "صورة منتجات فقط؛ لم تظهر بطاقة اتصال أو بريد أو هاتف في الدفعة. يلزم استكمال جهة التواصل ولا تُنسب بيانات شركة أخرى إليها.",
       "updatedAt": "2026-10-18",
       "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "peridot",
+      "name": "PERIDOT / Peridot Aqua Ltd.",
+      "photos": [
+        87,
+        88,
+        89
+      ],
+      "contacts": [
+        {
+          "name": "Gergely Marton",
+          "role": "جهة اتصال المعرض",
+          "email": "gergely.marton@peridotwater.com",
+          "phones": [
+            "+36309388378"
+          ],
+          "website": "https://peridotwater.com",
+          "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        }
+      ],
+      "category": "مياه معدنية",
+      "products": [
+        "مياه PERIDOT المعدنية؛ عبوة 0.5 لتر ظاهرة؛ وصف القلوية وارد على الملصق."
+      ],
+      "notes": "بريد عام إضافي: hello@peridotwater.com. العنوان بالبطاقة: Budapest, Hungary. القاعة والجناح غير ظاهرين.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "allegro-iffco",
+      "name": "ALLEGRO / IFFCO Olive Oil",
+      "photos": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "contacts": [
+        {
+          "name": "Rafael Guadix Núñez",
+          "role": "Sales Manager — Olive Oil",
+          "email": "rguadixnu@iffco.com",
+          "phones": [
+            "+34679454462"
+          ],
+          "website": "https://iffco-oliveoil.com",
+          "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        }
+      ],
+      "category": "زيوت زيتون ومنكهات",
+      "products": [
+        "زيت زيتون بكر ممتاز في عبوات رش 200 مل",
+        "نكهات الشطة والكمأة، وصنف Olivenöl الظاهر بالصور"
+      ],
+      "notes": "بطاقة IFFCO تشير إلى كيانات بإسبانيا وتونس. القاعة والجناح غير ظاهرين.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "viver",
+      "name": "VIVER",
+      "photos": [
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "contacts": [
+        {
+          "name": "David Márquez",
+          "role": "Export Manager / Horeca",
+          "email": "david@viverdrinks.com",
+          "phones": [
+            "+34620392051"
+          ],
+          "website": "",
+          "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        }
+      ],
+      "category": "مشروبات مخمرة وكفير وكومبوتشا",
+      "products": [
+        "مشروبات Kefir بنكهات متعددة",
+        "مشروبات Kombucha وعلب وزجاجات VIVER الظاهرة"
+      ],
+      "notes": "الجناح 2 P157 ظاهر على لافتة VIVER. البريد ورقم التواصل من البطاقة المصورة.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "borchers-xucker",
+      "name": "borchers fine food / Xucker",
+      "photos": [
+        99,
+        100
+      ],
+      "contacts": [
+        {
+          "name": "Marc Pehmöller",
+          "role": "Head of Sales",
+          "email": "pehmoeller@borchers-group.de",
+          "phones": [
+            "+49420766627119"
+          ],
+          "website": "https://www.borchers-group.de",
+          "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        }
+      ],
+      "category": "أغذية ومشروبات بدون سكر",
+      "products": [
+        "شاي مثلج Xucker بالليمون والخوخ؛ Sugar Free وفق الملصق",
+        "ألواح شوكولاتة Xucker ظاهرة أسفل الصورة"
+      ],
+      "notes": "بيانات التواصل من بطاقة borchers المصورة بجوار Xucker. القاعة والجناح غير ظاهرين.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "prozis",
+      "name": "PROZIS",
+      "photos": [
+        101
+      ],
+      "contacts": [],
+      "category": "مشروبات بروتين وكولاجين",
+      "products": [
+        "Protein Lemonade بنكهتي Lemon & Lime وWild Berry، 250 مل و9g بروتين وفق العبوة",
+        "مشروب Collagen بنكهة الخوخ"
+      ],
+      "notes": "صورة منتجات فقط؛ لا توجد بطاقة اتصال في هذه الدفعة. فُصلت عن borchers لظهور علامة PROZIS على العبوات.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+    },
+    {
+      "id": "cocomax",
+      "name": "Cocomax / Asiatic Agro Industry",
+      "photos": [
+        102,
+        103,
+        104
+      ],
+      "contacts": [
+        {
+          "name": "Sitthichai Prateepasen",
+          "role": "Director — Export Sales (OEM)",
+          "email": "",
+          "phones": [],
+          "website": "https://www.asiaticagro.com",
+          "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        }
+      ],
+      "category": "مياه جوز هند",
+      "products": [
+        "مياه جوز الهند المحمص العطري",
+        "مياه جوز الهند Mg Plus دون سكر مضاف وفق الملصق",
+        "Cocomax Sparkling في علبة 310 مل"
+      ],
+      "notes": "البطاقة باسم Asiatic Agro Industry Co., Ltd. لم تُنقل أرقام أو بريد غير واضحين؛ البطاقة الأصلية متاحة للتكبير. القاعة والجناح غير ظاهرين.",
+      "updatedAt": "2026-10-19",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
     }
   ],
   "images": [
@@ -2225,7 +2386,169 @@
       "sha256": "1e1500219e9970e5040ded089b8649bef3e01515d10dbe22d603426ba7f55b66",
       "source": "واتساب أ. مهند الرصيص ١ — 18 أكتوبر 2026 — 5.03.25 PM",
       "direction": "incoming"
+    },
+    {
+      "n": 87,
+      "file": "WhatsApp Image 2026-10-19 at 1.24.07 PM.jpeg",
+      "path": "sial-images/sial-087.jpg",
+      "bytes": 314088,
+      "sha256": "83dad238499910a94e6c67f3f701db723eeedcd21230e4967f1fe75e1d8f0464",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.24.07 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 88,
+      "file": "WhatsApp Image 2026-10-19 at 1.24.07 PM (1).jpeg",
+      "path": "sial-images/sial-088.jpg",
+      "bytes": 320862,
+      "sha256": "bda5014254b13d6d0e0ff4e86d0dbda51a7509d2fcf3c16007e15e166e2d0b37",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.24.07 PM (1).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 89,
+      "file": "WhatsApp Image 2026-10-19 at 1.24.08 PM.jpeg",
+      "path": "sial-images/sial-089.jpg",
+      "bytes": 258531,
+      "sha256": "c04bad949dace236c34e52a2db39e8836967b70cc476e770b54c188b658e51f9",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.24.08 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 90,
+      "file": "WhatsApp Image 2026-10-19 at 1.49.30 PM.jpeg",
+      "path": "sial-images/sial-090.jpg",
+      "bytes": 206386,
+      "sha256": "7698a3cf142be278da3ba3a5a4380d7b7580ef018519d32775a81a8a6cff0f1e",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.49.30 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 91,
+      "file": "WhatsApp Image 2026-10-19 at 1.49.30 PM (1).jpeg",
+      "path": "sial-images/sial-091.jpg",
+      "bytes": 211177,
+      "sha256": "33f63c7e29c2d3c571e7c85e748f35e80508b700f6eb422047075169e5c36926",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.49.30 PM (1).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 92,
+      "file": "WhatsApp Image 2026-10-19 at 1.49.30 PM (2).jpeg",
+      "path": "sial-images/sial-092.jpg",
+      "bytes": 176226,
+      "sha256": "92af7632d1c169c39c8b76e7e7d97aab0abf2b1113acda9554829760638a9c70",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.49.30 PM (2).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 93,
+      "file": "WhatsApp Image 2026-10-19 at 1.49.31 PM.jpeg",
+      "path": "sial-images/sial-093.jpg",
+      "bytes": 231183,
+      "sha256": "08d70de7b375363963c8d768cd6ebd5ac7b9fa915be8fb5fe2cf88af2af04287",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.49.31 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 94,
+      "file": "WhatsApp Image 2026-10-19 at 1.58.36 PM.jpeg",
+      "path": "sial-images/sial-094.jpg",
+      "bytes": 189626,
+      "sha256": "f8ca2cac222550e0f9dbc5f46daa0d9ead2d7f864593b0fb7f043cf8570eab4e",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.58.36 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 95,
+      "file": "WhatsApp Image 2026-10-19 at 1.58.36 PM (1).jpeg",
+      "path": "sial-images/sial-095.jpg",
+      "bytes": 320779,
+      "sha256": "e0326ce3866c1e206694d218b02a588868a44ea43879c31e2879759df9a68758",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.58.36 PM (1).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 96,
+      "file": "WhatsApp Image 2026-10-19 at 1.58.36 PM (2).jpeg",
+      "path": "sial-images/sial-096.jpg",
+      "bytes": 303213,
+      "sha256": "19e29921fe80e4be0b25f5bec427181edd780075340f445cb468ad9a4277e7ae",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.58.36 PM (2).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 97,
+      "file": "WhatsApp Image 2026-10-19 at 1.58.37 PM.jpeg",
+      "path": "sial-images/sial-097.jpg",
+      "bytes": 384453,
+      "sha256": "dd23bf827a8056421e8b334d9787d89f5ba7936f98b08b6a4d8f347173962bf8",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.58.37 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 98,
+      "file": "WhatsApp Image 2026-10-19 at 1.58.37 PM (1).jpeg",
+      "path": "sial-images/sial-098.jpg",
+      "bytes": 316202,
+      "sha256": "700ddc315568a8b3839284b1b1a79f719a824c8ed55df7e98a6036c72752fefd",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 1.58.37 PM (1).jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 99,
+      "file": "WhatsApp Image 2026-10-19 at 2.28.03 PM.jpeg",
+      "path": "sial-images/sial-099.jpg",
+      "bytes": 186605,
+      "sha256": "c7ca963f231c584ff661b0b80263f9ef66f470c632f3b630b09858bca3c0b9b5",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.28.03 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 100,
+      "file": "WhatsApp Image 2026-10-19 at 2.28.04 PM.jpeg",
+      "path": "sial-images/sial-100.jpg",
+      "bytes": 191586,
+      "sha256": "955d8b609cd55d479dcbb29a46f6fd0b2c27a9a7ec4e9f98d2fe83902fa25407",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.28.04 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 101,
+      "file": "WhatsApp Image 2026-10-19 at 2.28.05 PM.jpeg",
+      "path": "sial-images/sial-101.jpg",
+      "bytes": 152247,
+      "sha256": "e4b451c261016e1f24975bdb6f0a12a42d19ecb3153dc09ff05f89f95279cb44",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.28.05 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 102,
+      "file": "WhatsApp Image 2026-10-19 at 2.50.49 PM.jpeg",
+      "path": "sial-images/sial-102.jpg",
+      "bytes": 158590,
+      "sha256": "49cfc761ca107680dd0fbb805aeac98f3040ddc6f9e9c75ef0bc3923830f352b",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.50.49 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 103,
+      "file": "WhatsApp Image 2026-10-19 at 2.50.50 PM.jpeg",
+      "path": "sial-images/sial-103.jpg",
+      "bytes": 165448,
+      "sha256": "a365f20092fd479a8691fc63b0ff87b8d022c0a2a8a2716e36de3a3a4b4a03a1",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.50.50 PM.jpeg",
+      "direction": "incoming"
+    },
+    {
+      "n": 104,
+      "file": "WhatsApp Image 2026-10-19 at 2.50.50 PM (1).jpeg",
+      "path": "sial-images/sial-104.jpg",
+      "bytes": 166872,
+      "sha256": "563094a793bbcf46884616dde29307146fbe7864435f267e096379ae06e9602f",
+      "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.50.50 PM (1).jpeg",
+      "direction": "incoming"
     }
   ],
-  "lastAdditionAt": "2026-10-18T17:03:00+03:00"
+  "lastAdditionAt": "2026-10-19T14:50:50+03:00"
 }
