@@ -1,6 +1,6 @@
 {
   "snapshotDate": "2026-10-19",
-  "fetchedAt": "2026-10-19T15:45:36.200Z",
+  "fetchedAt": "2026-10-20T10:03:21.046Z",
   "taskReportDate": "11-10-2026",
   "sources": [
     {
@@ -12,8 +12,8 @@
       "status": "read",
       "details": "قراءة تبويب المتابعة؛ تاريخ التقرير داخل المصدر: 11-10-2026",
       "sourceDate": "11-10-2026",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BFR86EYJY",
       "status": "read",
       "details": "قراءة القائمة كاملة؛ الأرصدة المعروضة تحتاج مطابقة الفواتير.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -62,8 +62,8 @@
       "channelUrl": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
       "status": "read",
       "details": "قراءة قائمة الماركتنج كاملة.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BB6KV7N3U",
       "status": "read",
       "details": "قراءة قائمة المحتوى كاملة.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -86,8 +86,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BD4EG8ZNW",
       "status": "read",
       "details": "قراءة قائمة شكاوى العملاء كاملة.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -99,8 +99,8 @@
       "channelId": "C0B04N23NAX",
       "status": "read",
       "details": "آخر 10 رسائل بالقناة؛ استخراج تقارير الطلبات ذات الأرقام الصريحة.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok"
     },
     {
@@ -112,8 +112,8 @@
       "channelId": "C0C06E5AZ32",
       "status": "read",
       "details": "روابط التقارير في آخر 10 رسائل. أعداد المكالمات داخل المرفقات غير متحققة.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "partial"
     },
     {
@@ -134,10 +134,10 @@
       "name": "marketing-master-task-list",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
       "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -146,10 +146,10 @@
       "name": "creative-team",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C0G8QGBSS",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
       "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -158,10 +158,10 @@
       "name": "team-marketing",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
       "details": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -170,11 +170,11 @@
       "name": "sales-b2b-visits",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
+      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
       "syncStatus": "ok",
       "status": "read",
-      "details": "قناة زيارات مستقلة عن فواتير المبيعات والتحصيل؛ 35 تقارير منشورة."
+      "details": "قناة زيارات مستقلة عن فواتير المبيعات والتحصيل؛ 39 تقارير منشورة."
     }
   ],
   "tasks": [
@@ -22238,7 +22238,7 @@
     "scope": "آخر 10 رسائل في كل قناة. أرقام المكالمات داخل المرفقات غير متحققة؛ يقتصر التحديث على روابط تقاريرها."
   },
   "sync": {
-    "checkedAt": "2026-10-19T15:45:36.200Z",
+    "checkedAt": "2026-10-20T10:03:21.046Z",
     "intervalMinutes": 30,
     "revision": "2026-10-19T15:45:36.200Z",
     "engine": "Codex local heartbeat",
@@ -22246,7 +22246,8 @@
     "enabled": true,
     "automationId": "automation",
     "lastFollowupRefreshAt": "2026-09-30T14:08:10.404Z",
-    "lastSalesRefreshAt": "2026-09-30T14:26:15.891Z"
+    "lastSalesRefreshAt": "2026-09-30T14:26:15.891Z",
+    "lastPartialRefreshScope": "Slack and task sheet; CRM, store, WhatsApp and hiring not read in this cycle"
   },
   "whatsapp": {
     "chatName": "أ مهند الرصيص ١",
@@ -24695,7 +24696,7 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "marketing-master-task-list",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z"
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
     },
     "C0C0G8QGBSS": {
       "messages": [
@@ -24945,10 +24946,37 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "creative-team",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z"
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
     },
     "C0B0901QXSA": {
       "messages": [
+        {
+          "id": "C0B0901QXSA:1792490320.720119",
+          "channelId": "C0B0901QXSA",
+          "author": "Jihen Remili",
+          "userId": "U0BAR93RB7E",
+          "date": "2026-10-20",
+          "body": "<@U0B3344PJ3W|Ahmed Taher> \nFiles: store (1).png (ID: F0CAFNHA91T, image/png, 5.6 MB)",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1792490320720119"
+        },
+        {
+          "id": "C0B0901QXSA:1792487370.512269",
+          "channelId": "C0B0901QXSA",
+          "author": "Ahmed Taher",
+          "userId": "U0B3344PJ3W",
+          "date": "2026-10-20",
+          "body": "الصورة المتوفرة في المتجر لنفس العرض\nبثيم اليوم الوطني وبسعر\n496\nأرجو تصميم صورة مربعة لنفس هذا العرض\nلتكون في صفحة المنتج برابط الواتس والايميل",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1792487370512269"
+        },
+        {
+          "id": "C0B0901QXSA:1792425882.156579",
+          "channelId": "C0B0901QXSA",
+          "author": "Jihen Remili",
+          "userId": "U0BAR93RB7E",
+          "date": "2026-10-19",
+          "body": "رسالة الإمايل\n*العنوان:* الباقة الفاخرة من إيميز بـ 599 ر.س بدل 1,164 ر.س\n\n*Preview text:* 3 بريميوم + 3 كلاسيك، والشحن مجاني\n\nمرحبًا `*|FNAME|*`،\n\nلعملائنا فقط، الأكثر طلبًا من إيميز في باقة واحدة: *فخامة البريميوم وتميّز الكلاسيك.*\n\n• *3 عبوات إيميز بريميوم:* مستخلص من 40 كيلو من بذور وقشور العنب الفاخر.\n• *3 عبوات إيميز كلاسيك:* مستخلص من 10 كيلو من بذور وقشور العنب الفاخر.\n*599 ر.س* بدلًا من 1,164 ر.س، وفّر 565 ر.س\n:truck: الشحن مجاني\n:hourglass_flowing_sand: العرض لفترة محدودة\n\n*[اطلب الباقة الفاخرة الآن]* ← رابط العرض\n\nمع خالص التحية،\nفريق إيميز :white_heart:",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1792425882156579"
+        },
         {
           "id": "C0B0901QXSA:1792424297.376779",
           "channelId": "C0B0901QXSA",
@@ -25812,38 +25840,11 @@
           "date": "2026-09-21",
           "body": "________________________",
           "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789998249596009"
-        },
-        {
-          "id": "C0B0901QXSA:1789996623.958249",
-          "channelId": "C0B0901QXSA",
-          "author": "Jihen Remili",
-          "userId": "U0BAR93RB7E",
-          "date": "2026-09-21",
-          "body": "————\nرسالة الامايل \n<@U0B3344PJ3W|Ahmed Taher>\n\n\n\nمرحبًا،\nالآن هو الوقت الأنسب لطلبك من إميز :flag-sa:\nعروض اليوم الوطني شارفت على الانتهاء، وما زالت أمامك فرصة للاستفادة من أسعار مميزة على اختيارات تستحقها.\nاجعل طلبك اليوم بقيمة أفضل، واكتشف العرض الأنسب لك قبل انتهاء الحملة :green_heart:\nتصفّح جميع عروض اليوم الوطني واطلب الآن:\n[رابط العروض]\nمع تحياتنا،\nفريق إميز",
-          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789996623958249"
-        },
-        {
-          "id": "C0B0901QXSA:1789996293.234909",
-          "channelId": "C0B0901QXSA",
-          "author": "Jihen Remili",
-          "userId": "U0BAR93RB7E",
-          "date": "2026-09-21",
-          "body": "رسالة الواتس <@U0B3344PJ3W|Ahmed Taher>\n\nالآن هو الوقت الأنسب لطلبك من إميز :flag-sa:\nعروض اليوم الوطني شارفت على الانتهاء، وما زالت أمامك فرصة للاستفادة من أسعار مميزة على اختيارات تستحقها.\nاجعل طلبك اليوم بقيمة أفضل، واكتشف العرض الأنسب لك قبل انتهاء الحملة :green_heart:\nتصفّح جميع العروض:\n[رابط العروض]\n\nFiles: whatsapp4 (1).png (ID: F0C39BJQR9C, image/png, 1.4 MB)",
-          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789996293234909"
-        },
-        {
-          "id": "C0B0901QXSA:1789996213.989619",
-          "channelId": "C0B0901QXSA",
-          "author": "Jihen Remili",
-          "userId": "U0BAR93RB7E",
-          "date": "2026-09-21",
-          "body": "بناءً على خطة التسويق  ، سنعتمد خلال الفترة الحالية بشكل أكبر على الواتساب والإيميل ونقاط الولاء والاتصالات المباشرة، بهدف دعم المبيعات وتحقيق العائد المطلوب على الإنفاق الإعلاني (ROAS).\nوعليه، سيتم اليوم إطلاق حملة الواتساب وحملة الإيميل، كما يجب تفعيل خدمة نقاط الولاء اليوم والبدء في الاستفادة منها لدعم المبيعات.\nوبالتوازي، ستتم مراجعة أداء الحملات الإعلانية الحالية ودراسة الآلية الأنسب لتشغيلها بكفاءة أعلى، وتقليل الإنفاق غير المجدي، وتحقيق أفضل عائد ممكن.\n\n<@U0B3344PJ3W|Ahmed Taher>",
-          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789996213989619"
         }
       ],
       "coverage": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة",
       "name": "team-marketing",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z"
+      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
     }
   },
   "automationHealth": {
@@ -47016,8 +47017,28 @@
     "visitsCheckedAt": "2026-10-14T11:06:34.938525+00:00"
   },
   "b2bVisits": {
-    "checkedAt": "2026-10-19T15:45:36.200Z",
+    "checkedAt": "2026-10-20T10:03:21.046Z",
     "messages": [
+      {
+        "postedDate": "2026-10-19",
+        "id": "1792434637.490599",
+        "body": "تم زياره كاندي بلانت ل عرض المنتج وشرح التفاصيل ولكن يوجد اعتراض علي السعر \nتم زياره عميل لاونج السيف ل تحديد موعد التحصيل \nتم زياره انن ماركت ل تسليم الطلبيه الدمام \nتم زياره انن ماركت فرع الخبر ل تسليم الطلبيه الثانيه \nتم زياره لاونج التقينا وعرض المنتج وفي انتظار رد المالك \nتم زياره لاونج غزاله للمتابعه ومعرفه رد الاداره \nتم زياره فندق انتركونتينتنتال ل مقابله مسؤول الحسابات للتحصيل وتم ارسال رقم حساب الشركه \nتم زياره تموينات زادي للمواد الغذائيه وتم تاجيل التنزيل ل دراسه المنتج والاسعار \nملحوظه\n طلب اكثر من مره برموتر ولم يتم ل تحريك المنتج في بعض الاماكن \nتم طلب عرض سعر ل الشركه الوطنيه للبترول ولم يتم الارسال الي الان هذه ادنوك محطات هامه جدا \nتم طلب تحديد موقف  عميل هلا ولم يتم الرد وهذا من اهم العملاء في المنطقه الشرقيه ولديهم ١٣ فرع\nFiles: 1000022238.jpg (ID: F0C9ZN71STZ, image/jpeg, 198.6 KB), 1000022237.jpg (ID: F0CA8SG76CT, image/jpeg, 151.8 KB), 1000022236.jpg (ID: F0CAH0US849, image/jpeg, 165.1 KB), 1000022235.jpg (ID: F0CA9QQ86ER, image/jpeg, 143.0 KB), 1000022232.jpg (ID: F0CB9EUA9SL, image/jpeg, 135.4 KB), 1000022233.jpg (ID: F0CA9QQ73M3, image/jpeg, 117.6 KB), 1000022234.jpg (ID: F0CB9EU6EL8, image/jpeg, 125.6 KB), 1000022231.jpg (ID: F0CAH0UKG81, image/jpeg, 141.9 KB)"
+      },
+      {
+        "postedDate": "2026-10-19",
+        "id": "1792429245.153039",
+        "body": "Forwarded message from Moutaz (https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN/p1791903822273839) — use slack_read_thread or slack_read_channel to read the original message"
+      },
+      {
+        "postedDate": "2026-10-19",
+        "id": "1792428682.341949",
+        "body": "الزيارات 6\nالملاحظات\n1-تم التواصل مع مسؤل مشتريات ماركت نيفال والاتفاق علي سحب المنتج غدا\n2-تم مقابله مسؤل مشتريات ماركت ميني مارت الملقا وشرح المنتج وعمل تذوق للعملاء لتنشيط حركه البيع وتم طلب تنزيل نوعين البريميوم والسكري لتنوع المنتجات علي الاستاند لانه لم يتم تنزيل الا نوعين فقط كلاسيك ورمان\n3-تم مقابله مسؤل مشتريات اسواق سماء الجزيره وتم طلب ستاند وتسجيل اوردر كرتونه رمان وسيتم تنفيذ الاوردر بعد اخذ الفواتير الخاصه بالعميل من أ محمود\nFiles: 1000242983.jpg (ID: F0CAE1WCVHQ, image/jpeg, 336.7 KB), 1000242985.jpg (ID: F0CAHTQRPFE, image/jpeg, 551.4 KB), 1000242974.jpg (ID: F0CAHTSLB3N, image/jpeg, 432.6 KB), 1000242973.jpg (ID: F0CA8U7U02Z, image/jpeg, 918.8 KB), 1000242958.jpg (ID: F0C9YRR6M8F, image/jpeg, 401.7 KB), 1000242920.jpg (ID: F0CB8JBSD8Q, image/jpeg, 715.0 KB), 1000242870.jpg (ID: F0CAHTSFJEQ, image/jpeg, 438.9 KB), 1000242868.jpg (ID: F0CB8JBDKG8, image/jpeg, 488.5 KB), 1000242853.jpg (ID: F0CAHTSTH7E, image/jpeg, 429.3 KB), 1000242854.jpg (ID: F0CB8JBBDDW, image/jpeg, 220.2 KB)"
+      },
+      {
+        "postedDate": "2026-10-19",
+        "id": "1792425739.046099",
+        "body": "تم فتح حساب فندق مشارف المدن وطلب طلبيه غدا \nتم زياره فندق كيمبتون تسليمه عينات رمان وبرميم لانه كان رافض الكلاسك لم يعجبه المذاق \nتم عمل تذوق ل م لونج وسوف يتم التعاقد \nتم زياره كي فود بناء علي اتصال العميل واخبرني ان ا ستاذ محمود لم يتابع  معه ان استاذ محمود لا يعرف موعد افتتاح الفرع \nFiles: TC_00046.jpg (ID: F0CB82X8FAL, image/jpeg, 1.1 MB), TC_00045.jpg (ID: F0C9YABV4BZ, image/jpeg, 1.0 MB), TC_00043.jpg (ID: F0CABNNFR4N, image/jpeg, 1.1 MB), TC_00047.jpg (ID: F0CA8CWS91B, image/jpeg, 1.1 MB)"
+      },
       {
         "postedDate": "2026-10-19",
         "id": "1792365763.778769",
