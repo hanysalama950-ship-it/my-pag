@@ -14,7 +14,7 @@ const projectFolders=[
  {id:'marketing',title:'التسويق والإبداع',description:'التصاميم والمحتوى والحملات والتغليف'},
  {id:'exhibitions',title:'المعارض',description:'المعارض والشركات المشاركة والدعوات وملفات التواصل'},
  {id:'finance',title:'الأنظمة المالية والمصروفات',description:'يوريكا وأتمتة التقارير ومنصة المصروفات'},
- {id:'insurance',title:'التأمين',description:'التأمين الطبي وتأمين السيارات وعروض التجديد'},
+ {id:'insurance',title:'التأمين',description:'التأمين الطبي وتأمين الممتلكات وتأمين السيارات وعروض التجديد'},
  {id:'other',title:'مشروعات أخرى',description:'المشروعات غير المصنفة بعد'}
 ];
 function projectFolder(p){
