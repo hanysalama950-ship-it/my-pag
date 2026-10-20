@@ -1,6 +1,6 @@
 {
-  "snapshotDate": "2026-10-19",
-  "fetchedAt": "2026-10-20T10:03:21.046Z",
+  "snapshotDate": "2026-10-20",
+  "fetchedAt": "2026-10-20T14:55:39.632Z",
   "taskReportDate": "11-10-2026",
   "sources": [
     {
@@ -12,8 +12,8 @@
       "status": "read",
       "details": "قراءة تبويب المتابعة؛ تاريخ التقرير داخل المصدر: 11-10-2026",
       "sourceDate": "11-10-2026",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -24,8 +24,8 @@
       "url": "https://docs.google.com/spreadsheets/d/1cRqADbYSr9xMgs2IXMEPIVj6GokDC8Zt_19uHz_tt1I/edit?gid=281417223#gid=281417223",
       "status": "read",
       "details": "سجلات المهام المسماة؛ التكرارات محفوظة كما في المصدر.",
-      "lastSuccessAt": "2026-10-19T15:45:36.200Z",
-      "lastCheckedAt": "2026-10-19T15:45:36.200Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BFR86EYJY",
       "status": "read",
       "details": "قراءة القائمة كاملة؛ الأرصدة المعروضة تحتاج مطابقة الفواتير.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -62,8 +62,8 @@
       "channelUrl": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
       "status": "read",
       "details": "قراءة قائمة الماركتنج كاملة.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -74,8 +74,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BB6KV7N3U",
       "status": "read",
       "details": "قراءة قائمة المحتوى كاملة.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -86,8 +86,8 @@
       "url": "https://al-rossaisgroup.slack.com/lists/T0AULGV87QB/F0BD4EG8ZNW",
       "status": "read",
       "details": "قراءة قائمة شكاوى العملاء كاملة.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -99,8 +99,8 @@
       "channelId": "C0B04N23NAX",
       "status": "read",
       "details": "آخر 10 رسائل بالقناة؛ استخراج تقارير الطلبات ذات الأرقام الصريحة.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok"
     },
     {
@@ -112,8 +112,8 @@
       "channelId": "C0C06E5AZ32",
       "status": "read",
       "details": "روابط التقارير في آخر 10 رسائل. أعداد المكالمات داخل المرفقات غير متحققة.",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "partial"
     },
     {
@@ -134,10 +134,10 @@
       "name": "marketing-master-task-list",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
       "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -146,10 +146,10 @@
       "name": "creative-team",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C0G8QGBSS",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
       "details": "القناة كاملة وقت القراءة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -158,10 +158,10 @@
       "name": "team-marketing",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
       "status": "read",
       "syncStatus": "ok",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
       "details": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة؛ الرسائل سياق متابعة ولا تضاف تلقائيًا إلى عدد مهام القوائم."
     },
     {
@@ -170,8 +170,8 @@
       "name": "sales-b2b-visits",
       "type": "Slack channel",
       "url": "https://al-rossaisgroup.slack.com/archives/C0C8G6JQ1BN",
-      "lastCheckedAt": "2026-10-20T10:03:21.046Z",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z",
+      "lastCheckedAt": "2026-10-20T14:55:39.632Z",
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z",
       "syncStatus": "ok",
       "status": "read",
       "details": "قناة زيارات مستقلة عن فواتير المبيعات والتحصيل؛ 39 تقارير منشورة."
@@ -17058,11 +17058,88 @@
     ],
     "creative": [
       {
+        "id": "Rec0CAH787TCM",
+        "title": "تصميم صورتين لعرض المتجر",
+        "owner": "aya wael",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CA74BTMPH",
+        "title": "تصوير مقطع نكهات ايميز",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "قيد التنفيذ",
+        "rawStatus": "in progress",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CALGC76CE",
+        "title": "تصميم صور مقطع نكهات ايميز وطبعتها",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CBGRRPC9W",
+        "title": "كتابة محتوى كابشن لـثلاث بوستات على الانستقرام مع نشرها على الستوري",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CAKP6GRQW",
+        "title": "اكمال رفع الفديوهات",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "قيد التنفيذ",
+        "rawStatus": "in progress",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CAGD7DKFF",
+        "title": "كتابة كابشن ونشر مقطع تشيز ايميز",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
+        "start": "2026-10-20",
+        "end": "2026-10-20",
+        "note": "",
+        "issue": ""
+      },
+      {
+        "id": "Rec0CBG36AUF2",
+        "title": "تصوير ومونتاج مقطع تشيز ايميز",
+        "owner": "Raghad mohammed yanbuawi",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
+        "start": "2026-10-19",
+        "end": "2026-10-19",
+        "note": "",
+        "issue": ""
+      },
+      {
         "id": "Rec0CB6G9DY80",
         "title": "تصميم ستيكر تشورتوق الكلاسيك\n٣ ملصقات خلفية\nملصقين بالامام",
         "owner": "aya wael",
-        "status": "قيد التنفيذ",
-        "rawStatus": "in progress",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
         "start": "2026-10-18",
         "end": "2026-10-19",
         "note": "تم طلب نسخ اضافية",
@@ -17072,8 +17149,8 @@
         "id": "Rec0C9VM929GX",
         "title": "كتابة كابشن و نشر مقطع coming soon",
         "owner": "Raghad mohammed yanbuawi",
-        "status": "قيد التنفيذ",
-        "rawStatus": "in progress",
+        "status": "تم الإنجاز",
+        "rawStatus": "DONE",
         "start": "2026-10-19",
         "end": "2026-10-19",
         "note": "",
@@ -22129,14 +22206,21 @@
   "reports": {
     "orders": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-20",
+        "total": 3,
+        "riyadh": 1,
+        "other": 2,
+        "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1792503740331079",
+        "validationStatus": "user-confirmed",
+        "validationNote": "أكد المستخدم أن التقرير يخص 20 أكتوبر: 3 طلبيات، 1 داخل الرياض و2 خارجها.",
+        "sourceDate": "2026-08-20"
+      },
+      {
+        "date": "2026-08-19",
         "total": 8,
         "riyadh": 3,
         "other": 5,
-        "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1792416153918719",
-        "originalSourceDate": "2026-08-19",
-        "dateCorrection": "أكد المستخدم أن المقصود 19 أكتوبر 2026",
-        "dateConfirmedByUser": true
+        "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1792416153918719"
       },
       {
         "date": "2026-08-18",
@@ -22188,13 +22272,6 @@
         "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1791725591044509",
         "correctionSource": "user-confirmation",
         "correctionDate": "2026-10-11"
-      },
-      {
-        "date": "2026-10-10",
-        "total": 19,
-        "riyadh": 10,
-        "other": 9,
-        "url": "https://al-rossaisgroup.slack.com/archives/C0B04N23NAX/p1791639107101949"
       }
     ],
     "calls": [
@@ -22238,9 +22315,9 @@
     "scope": "آخر 10 رسائل في كل قناة. أرقام المكالمات داخل المرفقات غير متحققة؛ يقتصر التحديث على روابط تقاريرها."
   },
   "sync": {
-    "checkedAt": "2026-10-20T10:03:21.046Z",
+    "checkedAt": "2026-10-20T14:55:39.632Z",
     "intervalMinutes": 30,
-    "revision": "2026-10-19T15:45:36.200Z",
+    "revision": "2026-10-20T14:55:39.632Z",
     "engine": "Codex local heartbeat",
     "errors": 0,
     "enabled": true,
@@ -24179,6 +24256,24 @@
     "C0C1KG3UE3B": {
       "messages": [
         {
+          "id": "C0C1KG3UE3B:1792497602.847799",
+          "channelId": "C0C1KG3UE3B",
+          "author": "Jihen Remili",
+          "userId": "U0BAR93RB7E",
+          "date": "2026-10-20",
+          "body": "مرفق ملف ملصق شورتوك الوارد من المصنع، وملف المقترحات الذي أُرسل أمس، وسيُرسَل ملف جديد يتضمن التعديلات المطلوبة اليوم\n <@U0B2W4SBW95|مهند بن سعد الرصيّص> <@U0AUPFV8S4D|Main host emiz>\nFiles: ملصفق المصنع لشورتوك كلاسيك.pdf (ID: F0CARJ4K9NG, application/pdf, 2.0 MB), مقترحات ستكر شورتوك كلاسك.pdf (ID: F0CAKUJNV62, application/pdf, 17.7 MB)",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B/p1792497602847799"
+        },
+        {
+          "id": "C0C1KG3UE3B:1792497226.034969",
+          "channelId": "C0C1KG3UE3B",
+          "author": "Jihen Remili",
+          "userId": "U0BAR93RB7E",
+          "date": "2026-10-20",
+          "body": "وصلتنا التعديلات الآتية من هاني بخصوص ملصق تشورتوق على التصاميم المرسلة أمس:\n\nأولًا: التصميم المعتمد\nتم اعتماد التصميم رقم 2 مع الإطار (الفريم) رقم 3.\n\nثانيًا: جملة المستورد\nحذف جملة المستورد بالكامل.\n\nثالثًا: جملة المُصنِّع\nحذف جملة المُصنِّع مع الإبقاء على «تشورتوق مياه معدنية» فقط، وإضافة كلمة «أوزبكستان»، وحذف باقي الجملة.\n\nرابعًا: المكونات\nالإبقاء على «مياه معدنية + ثاني أكسيد الكربون» فقط، وحذف باقي الجملة.\n\nخامسًا: جملة الصوديوم\nحذف الجملة بالكامل، بدءًا من عبارة «محتوى مرتفع من الصوديوم» إلى آخر الجملة.\n\nسادسًا: وحدة القياس فوق أرقام الجدول\nتغيير عبارة «ملغ/لتر» الموجودة فوق أرقام الجدول إلى «ملغ/750».\nوقد أوضحتُ أن كتابة الوحدة بهذه الطريقة غير ممكنة، لأنها ستغيّر جميع أرقام الجدول أدناه، ولكن سيتم تعديلها حسب\n <@U0B2W4SBW95|مهند بن سعد الرصيّص> <@U0AUPFV8S4D|Main host emiz>",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0C1KG3UE3B/p1792497226034969"
+        },
+        {
           "id": "C0C1KG3UE3B:1792397362.641739",
           "channelId": "C0C1KG3UE3B",
           "author": "Jihen Remili",
@@ -24694,7 +24789,7 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "marketing-master-task-list",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z"
     },
     "C0C0G8QGBSS": {
       "messages": [
@@ -24944,10 +25039,28 @@
       ],
       "coverage": "القناة كاملة وقت القراءة",
       "name": "creative-team",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z"
     },
     "C0B0901QXSA": {
       "messages": [
+        {
+          "id": "C0B0901QXSA:1792506187.131249",
+          "channelId": "C0B0901QXSA",
+          "author": "Ahmed Taher",
+          "userId": "U0B3344PJ3W",
+          "date": "2026-10-20",
+          "body": "تم",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1792506187131249"
+        },
+        {
+          "id": "C0B0901QXSA:1792498911.929359",
+          "channelId": "C0B0901QXSA",
+          "author": "Jihen Remili",
+          "userId": "U0BAR93RB7E",
+          "date": "2026-10-20",
+          "body": "<https://www.instagram.com/p/DetyypbNWtL/?vrfl=MXNtZnNma2p6M2RjMA==|https://www.instagram.com/p/DetyypbNWtL/?vrfl=MXNtZnNma2p6M2RjMA==> \nFor engagement \n<@U0B3344PJ3W|Ahmed Taher>",
+          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1792498911929359"
+        },
         {
           "id": "C0B0901QXSA:1792490320.720119",
           "channelId": "C0B0901QXSA",
@@ -25820,29 +25933,11 @@
           "date": "2026-09-21",
           "body": "#mL0MbL2/kXQ+3zAsXeUJ55WJ7oey+vH/SQw0MIxfsYMRAC7jB6af+iwAGfa7yPU=",
           "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789998281935739"
-        },
-        {
-          "id": "C0B0901QXSA:1789998260.702619",
-          "channelId": "C0B0901QXSA",
-          "author": "Jihen Remili",
-          "userId": "U0BAR93RB7E",
-          "date": "2026-09-21",
-          "body": "<https://vt.tiktok.com/ZSqwYaJwJ/|https://vt.tiktok.com/ZSqwYaJwJ/>",
-          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789998260702619"
-        },
-        {
-          "id": "C0B0901QXSA:1789998249.596009",
-          "channelId": "C0B0901QXSA",
-          "author": "Jihen Remili",
-          "userId": "U0BAR93RB7E",
-          "date": "2026-09-21",
-          "body": "________________________",
-          "url": "https://al-rossaisgroup.slack.com/archives/C0B0901QXSA/p1789998249596009"
         }
       ],
       "coverage": "آخر 100 رسالة؛ المهام في القائمتين تقرأ كاملة",
       "name": "team-marketing",
-      "lastSuccessAt": "2026-10-20T10:03:21.046Z"
+      "lastSuccessAt": "2026-10-20T14:55:39.632Z"
     }
   },
   "automationHealth": {
@@ -36035,21 +36130,26 @@
       "facts": [
         [
           "الملفات",
-          "117"
+          "120"
         ],
         [
           "المجموعات",
-          "2"
+          "3"
         ],
         [
           "المحفوظ محليًا",
-          "77"
+          "80"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -36191,7 +36291,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 202002,
+          "bytes": 204104,
           "category": "أرشيف المشروع"
         }
       ],
@@ -36217,21 +36317,26 @@
       "facts": [
         [
           "الملفات",
-          "57"
+          "137"
         ],
         [
           "المجموعات",
-          "5"
+          "6"
         ],
         [
           "المحفوظ محليًا",
-          "48"
+          "128"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -36373,7 +36478,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 132227,
+          "bytes": 175832,
           "category": "أرشيف المشروع"
         }
       ],
@@ -36399,21 +36504,26 @@
       "facts": [
         [
           "الملفات",
-          "59"
+          "176"
         ],
         [
           "المجموعات",
-          "5"
+          "6"
         ],
         [
           "المحفوظ محليًا",
-          "51"
+          "168"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -36550,7 +36660,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 210476,
+          "bytes": 284721,
           "category": "أرشيف المشروع"
         }
       ],
@@ -36576,21 +36686,26 @@
       "facts": [
         [
           "الملفات",
-          "9"
+          "10"
         ],
         [
           "المجموعات",
-          "2"
+          "3"
         ],
         [
           "المحفوظ محليًا",
-          "8"
+          "9"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -36727,7 +36842,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 66193,
+          "bytes": 67198,
           "category": "أرشيف المشروع"
         }
       ],
@@ -36807,21 +36922,26 @@
       "facts": [
         [
           "الملفات",
-          "14"
+          "28"
         ],
         [
           "المجموعات",
-          "2"
+          "4"
         ],
         [
           "المحفوظ محليًا",
-          "13"
+          "27"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -36958,7 +37078,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 114785,
+          "bytes": 123111,
           "category": "أرشيف المشروع"
         }
       ],
@@ -36984,21 +37104,26 @@
       "facts": [
         [
           "الملفات",
-          "3"
+          "23"
         ],
         [
           "المجموعات",
-          "2"
+          "4"
         ],
         [
           "المحفوظ محليًا",
-          "1"
+          "21"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -37137,7 +37262,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 43859,
+          "bytes": 56059,
           "category": "أرشيف المشروع"
         }
       ],
@@ -37163,7 +37288,7 @@
       "facts": [
         [
           "الملفات",
-          "13"
+          "15"
         ],
         [
           "المجموعات",
@@ -37171,13 +37296,18 @@
         ],
         [
           "المحفوظ محليًا",
-          "11"
+          "13"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -37319,7 +37449,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 69027,
+          "bytes": 70422,
           "category": "أرشيف المشروع"
         }
       ],
@@ -37336,7 +37466,7 @@
       "displayName": "ملفات وتحديثات تحتاج تحديد موضوعها",
       "owner": "وفق مسؤول كل مهمة في سلاك",
       "phone": "غير منطبق",
-      "status": "أرشفة جارية — 325 من 394 ملفًا محفوظًا",
+      "status": "ملفات مفهرسة — مراجعة المحتوى جزئية",
       "updatedAt": "2026-10-20",
       "objective": "ملفات ورسائل لا يكفي اسمها وسياقها لتصنيفها بثقة.",
       "summary": "ملفات ورسائل لا يكفي اسمها وسياقها لتصنيفها بثقة. الملفات مرتبة في مجموعات موضوعية مع إبقاء النسخ الأصلية وسجل المصدر.",
@@ -37345,21 +37475,26 @@
       "facts": [
         [
           "الملفات",
-          "355"
+          "118"
         ],
         [
           "المجموعات",
-          "3"
+          "4"
         ],
         [
           "المحفوظ محليًا",
-          "294"
+          "57"
         ]
       ],
       "decisions": [
         "مراجعة التصنيف المبدئي وعدم اعتبار آخر مشاركة اعتمادًا نهائيًا."
       ],
       "updates": [
+        {
+          "date": "2026-10-20",
+          "title": "تصنيف الملفات بعد فتح المحتوى",
+          "detail": "مراجعة الصور والمستندات المتاحة ونقلها إلى أقسامها وفق محتواها، مع الاحتفاظ بالأصول والنسخ المختلفة."
+        },
         {
           "date": "2026-10-20",
           "title": "تنظيم الملفات حسب الموضوع",
@@ -37496,7 +37631,7 @@
           "name": "الملفات حسب الموضوع والمهام",
           "file": "attachments/catalog.html",
           "date": "2026-10-17",
-          "bytes": 700841,
+          "bytes": 561814,
           "category": "أرشيف المشروع"
         }
       ],
@@ -39111,7 +39246,7 @@
     }
   ],
   "b2c": {
-    "checkedAt": "2026-10-20T10:15:43.783970+00:00",
+    "checkedAt": "2026-10-20T14:56:55.307Z",
     "store": {
       "id": 819567008,
       "name": "EMIZ",
@@ -39158,33 +39293,30 @@
           "to": "2026-10-20"
         },
         "totals": {
-          "sales": 0,
-          "orders": 0,
-          "average_order_value": 0,
-          "customers": 0,
+          "sales": 329,
+          "orders": 1,
+          "average_order_value": 366,
+          "customers": 1,
           "returned_orders": 0,
-          "units_sold": 0,
-          "discount": 0,
+          "units_sold": 2,
+          "discount": 36.6,
           "tax": 0,
           "shipping": 0,
           "cod_fees": 0,
-          "payment_fees": 0,
-          "cost_of_goods": 0
+          "payment_fees": 8.25,
+          "cost_of_goods": 110
         },
         "rows": [
           {
-            "sales.total_sales": 0,
-            "sales.orders_count": 0,
-            "avg-cart-price": 0,
-            "customer-count": 0,
-            "order-returned-count": 0,
-            "sales.total_discount": 0,
-            "sales.total_tax": 0,
-            "sales.total_shipping": 0,
-            "sales.total_epayment_fee": 0
+            "sales.total_sales": 329,
+            "sales.orders_count": 1,
+            "avg-cart-price": 366,
+            "customer-count": 1,
+            "order-returned-count": 0
           }
         ],
-        "rowCount": 1
+        "rowCount": 1,
+        "checkedAt": "2026-10-20T14:56:55.307Z"
       },
       "daily": {
         "rows": [
@@ -39343,33 +39475,30 @@
           "to": "2026-10-20"
         },
         "totals": {
-          "sales": 57623,
-          "orders": 118,
-          "average_order_value": 519,
+          "sales": 57953,
+          "orders": 119,
+          "average_order_value": 518,
           "customers": 108,
           "returned_orders": 0,
-          "units_sold": 240,
-          "discount": 3438.09,
+          "units_sold": 242,
+          "discount": 3474.69,
           "tax": 0,
           "shipping": 388,
           "cod_fees": 388,
-          "payment_fees": 601.21,
-          "cost_of_goods": 9845
+          "payment_fees": 609.46,
+          "cost_of_goods": 9955
         },
         "rows": [
           {
-            "sales.total_sales": 57623,
-            "sales.orders_count": 118,
-            "avg-cart-price": 519,
+            "sales.total_sales": 57953,
+            "sales.orders_count": 119,
+            "avg-cart-price": 518,
             "customer-count": 108,
-            "order-returned-count": 0,
-            "sales.total_discount": 3438.09,
-            "sales.total_tax": 0,
-            "sales.total_shipping": 388,
-            "sales.total_epayment_fee": 601.21
+            "order-returned-count": 0
           }
         ],
-        "rowCount": 1
+        "rowCount": 1,
+        "checkedAt": "2026-10-20T14:56:55.307Z"
       }
     },
     "errors": {},
@@ -39380,6 +39509,42 @@
       "today": "2026-10-20T10:15:43.783970+00:00",
       "daily": "2026-10-20T07:30:12.795Z",
       "month": "2026-10-20T10:15:43.783970+00:00"
+    },
+    "latestOrderCheck": {
+      "checkedAt": "2026-10-20T14:56:55.307Z",
+      "orders": [
+        {
+          "id": 2032471627,
+          "reference": 294816240,
+          "date": "2026-10-20 17:16:37.000000",
+          "status": "بإنتظار المراجعة",
+          "total": 458.1,
+          "items": [
+            {
+              "name": "اصنع باقتك الخاصة بـ 6 عبوات",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1250982334,
+          "reference": 294802203,
+          "date": "2026-10-20 15:25:38.000000",
+          "status": "تم التنفيذ",
+          "total": 329.4,
+          "items": [
+            {
+              "name": "إيميز إكسير العنب بنكهة الرمان— EMIZ Grape Elixir | Pomegranate",
+              "quantity": 1
+            },
+            {
+              "name": "إيميز بريميوم ( EMIZ Premium)",
+              "quantity": 1
+            }
+          ]
+        }
+      ],
+      "note": "إجماليات تقرير المبيعات مستقلة عن الطلب المعلق؛ عدد وحدات سلة لا يفك الباقات إلى عبوات."
     }
   },
   "social": {
@@ -47148,7 +47313,7 @@
     "visitsCheckedAt": "2026-10-14T11:06:34.938525+00:00"
   },
   "b2bVisits": {
-    "checkedAt": "2026-10-20T10:03:21.046Z",
+    "checkedAt": "2026-10-20T14:55:39.632Z",
     "messages": [
       {
         "postedDate": "2026-10-19",
@@ -49977,7 +50142,9 @@
         "text": "كشف حساب شركة جوافه.pdf",
         "sourceUrl": "https://web.whatsapp.com/"
       }
-    ]
+    ],
+    "lastAttemptAt": "2026-10-20T14:54:42.500996+00:00",
+    "lastAttemptError": "تعذر فتح المجموعات آليًا: coordinate input geometry is unavailable / FrameArrived timed out. احتُفظ بآخر قراءة ناجحة."
   },
   "managementReport": {
     "date": "2026-10-17",
