@@ -38083,11 +38083,11 @@
       "company": "شركات معرض سيال",
       "owner": "غير محدد",
       "phone": "غير منطبق",
-      "status": "33 ملف شركة وعلامة وجهة اتصال — 104 صورة محفوظة",
-      "updatedAt": "2026-10-19",
+      "status": "45 ملف شركة وعلامة وجهة اتصال — 161 صورة محفوظة",
+      "updatedAt": "2026-10-21",
       "objective": "تنظيم شركات معرض سيال وصورها ومنتجاتها ووسائل التواصل ومتابعة اجتماعاتها.",
-      "summary": "إضافة 18 صورة من أ. مهند إلى 6 ملفات: PERIDOT وALLEGRO/IFFCO وVIVER وborchers/Xucker وPROZIS وCocomax.",
-      "outcome": "33 ملفًا و104 صور محفوظة مع المنتجات وبطاقات التواصل؛ لا يوجد اعتماد مورد أو أمر شراء.",
+      "summary": "إضافة 57 صورة وبطاقة إلى 15 ملفًا: 12 ملف شركة وعلامة جديدًا، وتحديث Cocomax وMOKATE وXOXO دون تكرار الشركات.",
+      "outcome": "45 ملفًا و161 صورة محفوظة مع المنتجات وبطاقات التواصل.",
       "facts": [
         [
           "دعوات حضور المعرض",
@@ -38111,11 +38111,11 @@
         ],
         [
           "ملفات الشركات الجديدة",
-          "33 ملف شركة وعلامة وجهة اتصال"
+          "45 ملف شركة وعلامة وجهة اتصال"
         ],
         [
           "الصور المحفوظة",
-          "104 صور محفوظة؛ منها 18 صورة أضيفت في 19 أكتوبر"
+          "161 صورة؛ أضيفت 57 صورة في 21 أكتوبر"
         ],
         [
           "آخر حالات الدعوات",
@@ -38128,6 +38128,11 @@
       ],
       "decisions": [],
       "updates": [
+        {
+          "date": "2026-10-21",
+          "title": "استكمال صور وبطاقات شركات سيال",
+          "detail": "إضافة 57 صورة وبطاقة إلى 15 ملفًا: 12 ملف شركة وعلامة جديدًا، وتحديث Cocomax وMOKATE وXOXO دون تكرار الشركات."
+        },
         {
           "date": "2026-10-19",
           "title": "شركة شورتوك — حفظ تقرير المطابقة والصورتين",
@@ -38221,8 +38226,8 @@
           "name": "دليل شركات سيال — افتح الملفات والصور والتواصل",
           "file": "attachments/SIAL-Companies.html",
           "date": "2026-10-17",
-          "bytes": 17202,
-          "sha256": "cc5ca2cce11b8d6616d3a4304b84dd9f5fd42a0a17382f6c4f80933229ff3ec2",
+          "bytes": 31331,
+          "sha256": "7b207482ed583713c9b71f5d9c144ff86fb4b4bd4a601918b76196755200faf3",
           "status": "جاهز للعرض",
           "category": "دليل المعرض"
         },
@@ -38230,8 +38235,8 @@
           "name": "MOKATE / LOYD — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-mokate.html",
           "date": "2026-10-17",
-          "bytes": 9937,
-          "sha256": "a2fcdc4b697618674901adbbf9d13d8520a9c3b517c61b778921b56696f764eb",
+          "bytes": 7853,
+          "sha256": "580ae0dec295184def5087bf723738042698cbf0307fc791e70bc05b99911beb",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -38248,8 +38253,8 @@
           "name": "XOXO / Mood Foods — الصور والمنتجات والتواصل",
           "file": "attachments/SIAL-xoxo.html",
           "date": "2026-10-17",
-          "bytes": 8409,
-          "sha256": "71ce39059dbb5a854d29cd54ffa2ab40f3257738c39c6748d5587d2fb0e0a90d",
+          "bytes": 6689,
+          "sha256": "b498c8c75e88f72da12ef3134dfcada6a60ee855ecaa0d24b84f8441d6535fd3",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات"
         },
@@ -38421,8 +38426,8 @@
           "date": "2026-10-18",
           "status": "جاهز للعرض",
           "category": "ملفات الشركات",
-          "bytes": 45203,
-          "sha256": "2bba0029eb5e2f854b9581b861062328056dc20f4b0b486b3edda5fbe8006037"
+          "bytes": 44922,
+          "sha256": "5105e6b2947ac8becdd6546e12099db6f13128fc0a7e893526fc2409305f137d"
         },
         {
           "name": "Le Labo Dumoulin — المنتجات والتواصل والصور",
@@ -38538,8 +38543,8 @@
           "date": "2026-10-19",
           "category": "ملفات الشركات",
           "status": "جاهز للعرض",
-          "bytes": 4112,
-          "sha256": "7a59d5bab779eb21dd255b522759e532c42b70e7f6b1dc265ecbea366a7c2154"
+          "bytes": 6485,
+          "sha256": "e3881d8326e47c97612711e0c9867d1cb3409a1f4c9358aed55a266e6983e5e9"
         },
         {
           "name": "شركة شورتوك — تقرير مطابقة الحاويتين",
@@ -38576,9 +38581,117 @@
           "status": "جاهز للتحميل",
           "bytes": 419354,
           "sha256": "24972975589b64630f61706cd46b6f24039667805fd14ed0157b9781456cc8ff"
+        },
+        {
+          "name": "WELLINUS — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-wellinus.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 5608,
+          "sha256": "d32e06d09ecf485282868615b96f1556d68fca0cc89c441bb95a9a05554c510d"
+        },
+        {
+          "name": "MURO KOKU / CORAZON — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-muro-koku.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4696,
+          "sha256": "0f1cedcbbf15581adab21b6d782beabe1b5d2b062e9c5c7a756ec7a1713973cc"
+        },
+        {
+          "name": "TASTIWAY — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-tastiway.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4371,
+          "sha256": "3363bee28ad9a65ee90f2ccda305570fb89fefce91a5bc0be1b3a2b3cdae423a"
+        },
+        {
+          "name": "fulliz — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-fulliz.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4516,
+          "sha256": "11564876a20c7ff467c8c64fc1fade6276d4314c63a9f5845ff2f0e0c5930c3b"
+        },
+        {
+          "name": "Kefir Eau Vertueuse / Maison Lagneaux — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-kefir-eau-vertueuse.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 5193,
+          "sha256": "64093a353aaf375f4b0647198bbc85ae3a74d20c744be11a0de3df5cdc6a1e2f"
+        },
+        {
+          "name": "CARANDINI — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-carandini.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4712,
+          "sha256": "62feb3cb95cc0f0adb92f3c4de7452e6c878287797286f02528a40ade276c95b"
+        },
+        {
+          "name": "Klokk & Co — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-klokk-co.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 5176,
+          "sha256": "2cf13b025f6c5c8ec9ed5c19f32c2eae5a9e589175cd06cd05c0ffd8cd568730"
+        },
+        {
+          "name": "WONDER Popcorn / SunnFoods AS — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-wonder-popcorn.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4492,
+          "sha256": "02c542b58e2826056e3fbcc27269904b5612f708a1e45fd7752d95a8360bfc37"
+        },
+        {
+          "name": "Dilmah / Elevrie — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-dilmah-elevrie.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4370,
+          "sha256": "2033cbc23a6f30dc882ee5fdd20a71efa5fe79bfb9c0acfab08c774efcdee290"
+        },
+        {
+          "name": "SFD / ALLNUTRITION — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-sfd-allnutrition.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4858,
+          "sha256": "75a03bec9bb09d0072c7e4bf1456892081280dce83c240151fd5c4cdb61d2ec9"
+        },
+        {
+          "name": "PERGALĖ / AB Vilniaus pergalė — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-pergale.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4087,
+          "sha256": "78e8de4ea5af2cd3301a4b66162371233e859e54f8807115942fa39b96c9349b"
+        },
+        {
+          "name": "Birštonas Mineral Waters / Akvilė SPA — المنتجات والتواصل والصور",
+          "file": "attachments/SIAL-birstonas-akvile.html",
+          "date": "2026-10-21",
+          "category": "ملفات الشركات",
+          "status": "جاهز للعرض",
+          "bytes": 4203,
+          "sha256": "5d8548ea205e5162dddb78f0e4dbfac7227fbd55811f71e687fb65955e5b1184"
         }
       ],
-      "documentsNote": "33 ملفًا و104 صور أصلية، مع قائمة الدعوات ودليل التواصل وكتالوج UFF وExcel الشركات الصحية.",
+      "documentsNote": "45 ملفًا و161 صورة أصلية، مع دليل التواصل والكتالوجات والدراسات والمطابقة.",
       "nextSteps": [
         "تحديد الشركات والأصناف ذات الأولوية وتعيين مسؤول متابعة.",
         "طلب الاتصال المباشر للعلامات التي تتوفر لها إحالة عبر FDEA فقط، واستكمال Now Juice.",
@@ -38586,7 +38699,7 @@
         "تأكيد انعقاد اجتماعات 17 و18 أكتوبر وتحديث نتائجها عند ورود الدليل."
       ],
       "sourceUrl": "",
-      "coverage": "الصور المرفقة في خمسة ملفات ZIP بتاريخ 19 أكتوبر؛ لا يمثل ذلك مراجعة كاملة للمحادثة."
+      "coverage": "14 ملف ZIP و5 صور مرفقة من المستخدم في 21 أكتوبر؛ أسماء صور ZIP مؤرخة 20 أكتوبر. لا يمثل ذلك مراجعة مباشرة لكل المحادثة."
     },
     {
       "id": "warehouse-533371860",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-21",
   "companies": [
     {
       "id": "mokate",
@@ -11,12 +11,17 @@
         5,
         6,
         7,
-        8
+        8,
+        149,
+        150,
+        151,
+        152
       ],
       "products": [
         "تشكيلات قهوة وكابتشينو MOKATE بالنكهات",
         "شاي وأعشاب LOYD بأصناف متعددة",
-        "منتجات UBE ومساحيق المشروبات الظاهرة على الرفوف"
+        "منتجات UBE ومساحيق المشروبات الظاهرة على الرفوف",
+        "إضافة صور Matcha Latte ومنتجات UBE وتشكيلة المشروبات المعروضة"
       ],
       "contacts": [
         {
@@ -48,7 +53,7 @@
       "booth": "غير ظاهر في الصور",
       "address": "MOKATE Sp. z o.o. — 48 Strażacka Str., 44-240 Żory, Poland",
       "sources": [],
-      "updatedAt": "2026-10-17",
+      "updatedAt": "2026-10-21",
       "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
       "contactReviewAt": "2026-10-18",
       "verifiedPublicContacts": [
@@ -91,7 +96,8 @@
           "note": "",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
     },
     {
       "id": "actiph",
@@ -151,11 +157,14 @@
         12,
         13,
         14,
-        36
+        36,
+        158,
+        159
       ],
       "products": [
         "مشروبات XOXO بنكهات الزنجبيل والليمون والليتشي والعنب والبطيخ الظاهرة في الصور",
-        "العبوات تصف المنتج بأنه عالي الألياف وقليل السكر؛ يلزم ملف المنتج لتأكيد التركيبة"
+        "العبوات تصف المنتج بأنه عالي الألياف وقليل السكر؛ يلزم ملف المنتج لتأكيد التركيبة",
+        "بطاقة تواصل إضافية للرئيس التنفيذي مع صور XOXO"
       ],
       "contacts": [
         {
@@ -168,13 +177,23 @@
           "website": "https://drinkxoxo.com",
           "social": "",
           "source": "بطاقة الأعمال المصورة"
+        },
+        {
+          "name": "Rory Paterson",
+          "role": "CEO & Co-Founder",
+          "email": "rory@moodfoods.io",
+          "phones": [
+            "07501069431"
+          ],
+          "website": "https://drinkxoxo.com",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
         }
       ],
-      "notes": "الرقم مطبوع على البطاقة بصيغة +44 07552839341؛ رابط الاتصال يستخدم الصيغة الدولية دون الصفر المحلي. بعض الصور مشتركة مع علامات أخرى.",
+      "notes": "الرقم مطبوع على البطاقة بصيغة +44 07552839341؛ رابط الاتصال يستخدم الصيغة الدولية دون الصفر المحلي. بعض الصور مشتركة مع علامات أخرى. الرقم الجديد محفوظ بصيغته المحلية كما في البطاقة؛ لم يُضف رمز دولة غير مطبوع.",
       "booth": "غير ظاهر في الصور",
       "address": "",
       "sources": [],
-      "updatedAt": "2026-10-17",
+      "updatedAt": "2026-10-21",
       "status": "بيانات مجمعة — لم يبدأ التواصل من هذا الملف",
       "contactReviewAt": "2026-10-18",
       "verifiedPublicContacts": [
@@ -189,7 +208,8 @@
           "note": "الموقع يذكر تعطل النموذج مؤقتًا ويوجه للبريد.",
           "verifiedAt": "2026-10-18"
         }
-      ]
+      ],
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
     },
     {
       "id": "forever-young",
@@ -1589,7 +1609,12 @@
       "photos": [
         102,
         103,
-        104
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
       ],
       "contacts": [
         {
@@ -1599,17 +1624,440 @@
           "phones": [],
           "website": "https://www.asiaticagro.com",
           "source": "بطاقة المعرض المصورة — 19 أكتوبر 2026"
+        },
+        {
+          "name": "Panitnart Noiruchchukorn",
+          "role": "Assistant Director — OBM Business",
+          "email": "panitnart@asiatic.co.th",
+          "phones": [
+            "+6620730977;ext=125",
+            "+66814584587"
+          ],
+          "website": "http://www.asiaticagro.com",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
         }
       ],
       "category": "مياه جوز هند",
       "products": [
         "مياه جوز الهند المحمص العطري",
         "مياه جوز الهند Mg Plus دون سكر مضاف وفق الملصق",
-        "Cocomax Sparkling في علبة 310 مل"
+        "Cocomax Sparkling في علبة 310 مل",
+        "مياه جوز الهند ومشروبات جوز الهند الفوارة وحليب جوز الهند كما تظهر بالكتيب"
       ],
-      "notes": "البطاقة باسم Asiatic Agro Industry Co., Ltd. لم تُنقل أرقام أو بريد غير واضحين؛ البطاقة الأصلية متاحة للتكبير. القاعة والجناح غير ظاهرين.",
-      "updatedAt": "2026-10-19",
-      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد"
+      "notes": "البطاقة باسم Asiatic Agro Industry Co., Ltd. لم تُنقل أرقام أو بريد غير واضحين؛ البطاقة الأصلية متاحة للتكبير. القاعة والجناح غير ظاهرين. البريد الثاني مكتوب في الصورة export_bd@asistic.co.th؛ يحتاج تأكيد النطاق قبل استخدامه.",
+      "updatedAt": "2026-10-21",
+      "status": "صور وبيانات المعرض محفوظة — لم يُعتمد توريد",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "wellinus",
+      "name": "WELLINUS",
+      "category": "جيلي كولاجين بالفواكه",
+      "photos": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "products": [
+        "جيلي الكولاجين البحري بالرمان والمانجو، أصابع 25 جرامًا",
+        "عبوات 10 أصابع و25 إصبعًا كما تظهر الصور"
+      ],
+      "contacts": [
+        {
+          "name": "Yuni Park",
+          "role": "CEO & Co-Founder",
+          "email": "yuni@wellinus.com",
+          "phones": [
+            "+19496868036"
+          ],
+          "website": "https://www.wellinus.com",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "Instagram / TikTok: @wellinus_official",
+      "booth": "غير ظاهر في الصور",
+      "address": "WELLINUS USA LLC — Irvine, California؛ مصنع في كوريا الجنوبية",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "muro-koku",
+      "name": "MURO KOKU / CORAZON",
+      "category": "مشروبات الأرز والكوجي",
+      "photos": [
+        119,
+        120,
+        121
+      ],
+      "products": [
+        "KYOKKO — SUNRISE RAY؛ أرز وكوجي وأعشاب وتوابل حسب الكتيب",
+        "تشكيلة KOKU الظاهرة بالصور"
+      ],
+      "contacts": [
+        {
+          "name": "Yuji OYA",
+          "role": "COO — CORAZON Corporation",
+          "email": "oya-y@corazon.jp",
+          "phones": [
+            "+819060051384",
+            "+81663110131",
+            "+81355792328"
+          ],
+          "website": "https://www.corazon.jp",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "الفاكس: +81 6 6311 0132 و+81 3 5579 2329. لم تتأكد نسبة الكحول أو الاعتماد للسوق السعودي من الصور.",
+      "booth": "غير ظاهر في الصور",
+      "address": "Osaka / Tokyo, Japan",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "tastiway",
+      "name": "TASTIWAY",
+      "category": "وجبات خفيفة مجففة بالتجميد",
+      "photos": [
+        122,
+        123
+      ],
+      "products": [
+        "قطع زبادي بالفراولة مع بروبيوتيك؛ عبوة 15 جرامًا كما تظهر",
+        "منتجات مجففة بالتجميد في صور العرض"
+      ],
+      "contacts": [
+        {
+          "name": "Chew Zhi Wei (Zowy)",
+          "role": "International Business Development",
+          "email": "zhiwei@tastiway.com",
+          "phones": [
+            "+601110606796",
+            "+6047358810"
+          ],
+          "website": "https://www.tastiway.com",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "فاكس +6047300381؛ رقم مجاني محلي 1800 22 0088.",
+      "booth": "غير ظاهر في الصور",
+      "address": "Alor Setar, Kedah, Malaysia",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "fulliz",
+      "name": "fulliz",
+      "category": "مشروبات إفطار بالفواكه والشوفان",
+      "photos": [
+        124,
+        125,
+        126
+      ],
+      "products": [
+        "مشروب إفطار بالشوفان والشيا؛ نكهات الكيوي والكمثرى والتوت والموز الظاهرة",
+        "دون سكر مضاف وفق ملصق المنتج"
+      ],
+      "contacts": [
+        {
+          "name": "Guillaume Thébault",
+          "role": "Co-fondateur",
+          "email": "guillaume.thebault@full-iz.com",
+          "phones": [
+            "+32499471799"
+          ],
+          "website": "https://www.full-iz.com",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "Instagram: @full.iz؛ LinkedIn: full’iz؛ Facebook: Fulliz.",
+      "booth": "غير ظاهر في الصور",
+      "address": "Rue des Carmes 24, 4000 Liège, Belgium",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "kefir-eau-vertueuse",
+      "name": "Kefir Eau Vertueuse / Maison Lagneaux",
+      "category": "مشروبات كفير مائية",
+      "photos": [
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "products": [
+        "مشروبات كفير بنكهات متعددة",
+        "اللوحة تعرض تخزينًا بدرجة حرارة الغرفة، وعضويًا وغير مبستر وخاليًا من السكر والكحول والغلوتين واللاكتوز؛ أوصاف الشركة"
+      ],
+      "contacts": [
+        {
+          "name": "Mary Otero",
+          "role": "Co-Founder & Head of Sales",
+          "email": "mary@maisonlagneaux.com",
+          "phones": [
+            "+32472264927"
+          ],
+          "website": "https://www.kefireauvertueuse.be",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "علامة مستقلة عن ملفات الكفير الأخرى المحفوظة.",
+      "booth": "غير ظاهر في الصور",
+      "address": "Rue de Fauquez 51, 1460 Ittre, Belgium",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "carandini",
+      "name": "CARANDINI",
+      "category": "صلصات وتتبيلات عالية البروتين",
+      "photos": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "products": [
+        "High Protein Dressing من الحمص والفول كما بالكتيب",
+        "نكهات الكاري والثوم والشطة الظاهرة في صور التشكيلة"
+      ],
+      "contacts": [
+        {
+          "name": "Veronica Onesti",
+          "role": "Key Account Manager",
+          "email": "veronica.onesti@carandini.it",
+          "phones": [
+            "+39059535320"
+          ],
+          "website": "https://www.carandini.it",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "Acetificio Carandini Emilio SpA؛ فاكس +39059536306.",
+      "booth": "غير ظاهر في الصور",
+      "address": "Via per Formigine 54/A, 41051 Castelnuovo Rangone (MO), Italy",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "klokk-co",
+      "name": "Klokk & Co",
+      "category": "مشروبات زنجبيل وفواكه",
+      "photos": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "products": [
+        "Ginger Beer موصوف بأنه خالٍ من الكحول",
+        "مشروبات SKVIZ وتشكيلة العلب الظاهرة بالكتيب"
+      ],
+      "contacts": [
+        {
+          "name": "Håkon Olsen",
+          "role": "Co-founder / Head of Strategy & Business Development",
+          "email": "hakon@klokkco.no",
+          "phones": [
+            "+4747366687"
+          ],
+          "website": "https://www.klokkco.no",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "النرويج",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "wonder-popcorn",
+      "name": "WONDER Popcorn / SunnFoods AS",
+      "category": "فشار ووجبات خفيفة",
+      "photos": [
+        143,
+        144,
+        145
+      ],
+      "products": [
+        "فشار محضر بالهواء بنكهتي Havsnø Salt وHeavenly",
+        "عبوات 30 و100 جرام؛ زيت جوز الهند وملح كما بالكتيب"
+      ],
+      "contacts": [
+        {
+          "name": "Patrick Katzman",
+          "role": "Co-Founder & CEO — SunnFoods AS",
+          "email": "hello@wonderpopcorn.no",
+          "phones": [
+            "+4798615876"
+          ],
+          "website": "https://wonderpopcorn.no",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "النرويج",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "dilmah-elevrie",
+      "name": "Dilmah / Elevrie",
+      "category": "شاي فوار",
+      "photos": [
+        146,
+        147,
+        148
+      ],
+      "products": [
+        "Elevrie Sparkling Tea؛ زجاجات شاي فوار بنكهات متعددة"
+      ],
+      "contacts": [
+        {
+          "name": "Thushini Weerawardane",
+          "role": "Area Executive — Dilmah Ceylon Tea Company PLC",
+          "email": "thushini.weerawardane@dilmahtea.com",
+          "phones": [
+            "+94114822528",
+            "+94763450319"
+          ],
+          "website": "",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "111 Negombo Road, Peliyagoda, Sri Lanka",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "sfd-allnutrition",
+      "name": "SFD / ALLNUTRITION",
+      "category": "مشروبات كولاجين وفيتامينات",
+      "photos": [
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "products": [
+        "مشروبات كولاجين ALLNUTRITION متعددة النكهات؛ 3300 ملجم وفق العبوة، وكولاجين بقري مذكور على العلبة",
+        "مشروبات فيتامينات ومعادن موسومة Zero Sugar كما بالصور"
+      ],
+      "contacts": [
+        {
+          "name": "Zsolt Tóth",
+          "role": "Head of Export — SFD S.A.",
+          "email": "zsolt.toth@sfd.pl",
+          "phones": [
+            "+48881012395"
+          ],
+          "website": "",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "ul. Głogowska 41, 45-315 Opole, Poland",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "pergale",
+      "name": "PERGALĖ / AB Vilniaus pergalė",
+      "category": "شوكولاتة وحلويات",
+      "photos": [
+        160
+      ],
+      "products": [
+        "شوكولاتة PERGALĖ كما تظهر بطاقة الشركة"
+      ],
+      "contacts": [
+        {
+          "name": "Rolandas Jančeris",
+          "role": "Chairman of the Board",
+          "email": "rolandas.janceris@pergale.lt",
+          "phones": [
+            "+37065655033",
+            "+37052751311"
+          ],
+          "website": "https://www.pergale.lt",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "V. A. Graičiūno g. 26, LT-02241 Vilnius, Lithuania",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
+    },
+    {
+      "id": "birstonas-akvile",
+      "name": "Birštonas Mineral Waters / Akvilė SPA",
+      "category": "مياه ومشروبات وظيفية",
+      "photos": [
+        161
+      ],
+      "products": [
+        "Immunity Drink وDigestif Water وFermented Green Tea وBeauty Water",
+        "عبوات 600 مل؛ أوصاف الفيتامينات والكولاجين تخص ملصقات الشركة"
+      ],
+      "contacts": [
+        {
+          "name": "Mark Grazhul",
+          "role": "Export Manager",
+          "email": "soulandtrade@gmail.com",
+          "phones": [
+            "+37062099740",
+            "+37052786318"
+          ],
+          "website": "https://www.bmv.lt",
+          "source": "بطاقة مصورة ضمن دفعة المستخدم المستلمة في 21 أكتوبر 2026"
+        }
+      ],
+      "notes": "",
+      "booth": "غير ظاهر في الصور",
+      "address": "Karių kapų str. 16, LT-10313 Vilnius, Lithuania",
+      "sources": [],
+      "status": "بيانات المعرض محفوظة — لم يُعتمد توريد",
+      "updatedAt": "2026-10-21",
+      "lastImportedAt": "2026-10-21T07:53:47.762409+00:00"
     }
   ],
   "images": [
@@ -2548,7 +2996,634 @@
       "sha256": "563094a793bbcf46884616dde29307146fbe7864435f267e096379ae06e9602f",
       "source": "واتساب أ. مهند — WhatsApp Image 2026-10-19 at 2.50.50 PM (1).jpeg",
       "direction": "incoming"
+    },
+    {
+      "n": 105,
+      "file": "WhatsApp Image 2026-10-20 at 12.25.22 PM.jpeg",
+      "path": "sial-images/sial-105.jpg",
+      "bytes": 89833,
+      "sha256": "ea71f13d357ca5d7499e3ea8ee611e9e995bde1929746ace4e936448a6258a56",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.01 AM.zip / WhatsApp Image 2026-10-20 at 12.25.22 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 106,
+      "file": "WhatsApp Image 2026-10-20 at 12.25.22 PM (1).jpeg",
+      "path": "sial-images/sial-106.jpg",
+      "bytes": 87107,
+      "sha256": "f42a7aad1909e76b8738a793a7b82417d68adc8ecf00087c9aed6980b6cde27f",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.01 AM.zip / WhatsApp Image 2026-10-20 at 12.25.22 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 107,
+      "file": "WhatsApp Image 2026-10-20 at 12.25.23 PM.jpeg",
+      "path": "sial-images/sial-107.jpg",
+      "bytes": 169061,
+      "sha256": "18b5c2005a81ecff76a2ef659a87f198da43bafeb16fb6a3795b4898d5fdf372",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.01 AM.zip / WhatsApp Image 2026-10-20 at 12.25.23 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 108,
+      "file": "WhatsApp Image 2026-10-20 at 12.29.26 PM.jpeg",
+      "path": "sial-images/sial-108.jpg",
+      "bytes": 275418,
+      "sha256": "560799885eba27d0a527f0d8cc1ef6b2026740d5ce3072bfef42249655fce71f",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.04 AM.zip / WhatsApp Image 2026-10-20 at 12.29.26 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 109,
+      "file": "WhatsApp Image 2026-10-20 at 12.29.26 PM (1).jpeg",
+      "path": "sial-images/sial-109.jpg",
+      "bytes": 313071,
+      "sha256": "6437690e3adbe0d603c97066ddf49c497f845099cc056b5ae824ebaefd6603fe",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.04 AM.zip / WhatsApp Image 2026-10-20 at 12.29.26 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 110,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.54 PM.jpeg",
+      "path": "sial-images/sial-110.jpg",
+      "bytes": 186769,
+      "sha256": "f0c8f7e6e984d7509b97614098ed485447dcfa684f43432b094ac53cd554e99a",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.54 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 111,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.54 PM (1).jpeg",
+      "path": "sial-images/sial-111.jpg",
+      "bytes": 188761,
+      "sha256": "44a601833fca8d99ed3092fa0ce8ac6fdab6f38193a0cba2fbdc41cfb704c2f8",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.54 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 112,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.55 PM.jpeg",
+      "path": "sial-images/sial-112.jpg",
+      "bytes": 113581,
+      "sha256": "796325dd747fb9b76cd04c442d7fff71629ddfa1cb9c8cef362251b81f54474b",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.55 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 113,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.55 PM (1).jpeg",
+      "path": "sial-images/sial-113.jpg",
+      "bytes": 151612,
+      "sha256": "04aecc09196734c0957b02afc6d61fb973751b07a8f95ce8446412ffa55f2bdb",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.55 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 114,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.56 PM.jpeg",
+      "path": "sial-images/sial-114.jpg",
+      "bytes": 114098,
+      "sha256": "70858c618ac4884e90ddb3d72597ed721ee225d1176890cd7316263db790477e",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.56 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 115,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.56 PM (1).jpeg",
+      "path": "sial-images/sial-115.jpg",
+      "bytes": 119473,
+      "sha256": "517aed4b0d9e721ff208cb5e45ebe10cc44b7d020b002655ebf4244559e11c53",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.56 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 116,
+      "file": "WhatsApp Image 2026-10-20 at 1.22.56 PM (2).jpeg",
+      "path": "sial-images/sial-116.jpg",
+      "bytes": 152378,
+      "sha256": "204bbb74da7322dea6c15188db0de83fdc9580afd121dd08003c56fcf3866215",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.21 AM.zip / WhatsApp Image 2026-10-20 at 1.22.56 PM (2).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 117,
+      "file": "codex-clipboard-cc6f89f6-29e8-4a33-a5bf-c06ec93197ab.jpg",
+      "path": "sial-images/sial-117.jpg",
+      "bytes": 154242,
+      "sha256": "9b6ff08332e869a389ef454982e0b227a35ffb286caff5f67cc4118c8c29ad15",
+      "source": "مرفقات المستخدم — clipboard / codex-clipboard-cc6f89f6-29e8-4a33-a5bf-c06ec93197ab.jpg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": null
+    },
+    {
+      "n": 118,
+      "file": "codex-clipboard-99310036-35db-4a50-a4e1-afab3e5885b3.jpg",
+      "path": "sial-images/sial-118.jpg",
+      "bytes": 195104,
+      "sha256": "b1f50cd2a917fb691ce1b1bc28a608fc3b945f529d13bf30de4a443d878201c5",
+      "source": "مرفقات المستخدم — clipboard / codex-clipboard-99310036-35db-4a50-a4e1-afab3e5885b3.jpg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": null
+    },
+    {
+      "n": 119,
+      "file": "WhatsApp Image 2026-10-20 at 1.33.39 PM.jpeg",
+      "path": "sial-images/sial-119.jpg",
+      "bytes": 262575,
+      "sha256": "64146c9709b5e905ec7b8539fc91725a75133cd3e7c87f7fc60a4a9297a17531",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.24 AM.zip / WhatsApp Image 2026-10-20 at 1.33.39 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 120,
+      "file": "WhatsApp Image 2026-10-20 at 1.33.40 PM.jpeg",
+      "path": "sial-images/sial-120.jpg",
+      "bytes": 264058,
+      "sha256": "5e771e2965001e34e5daa575a6df7db0268f747325b4b928c19b4bde10dd8db9",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.24 AM.zip / WhatsApp Image 2026-10-20 at 1.33.40 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 121,
+      "file": "WhatsApp Image 2026-10-20 at 1.33.41 PM.jpeg",
+      "path": "sial-images/sial-121.jpg",
+      "bytes": 182870,
+      "sha256": "11bac12e0c70e436aa0a8156c29b9dcf4490be80253f1c450bf4a4a7c3803930",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.24 AM.zip / WhatsApp Image 2026-10-20 at 1.33.41 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 122,
+      "file": "WhatsApp Image 2026-10-20 at 1.47.42 PM.jpeg",
+      "path": "sial-images/sial-122.jpg",
+      "bytes": 177547,
+      "sha256": "a9e86baef1f66492b9bdfd580566f261793e1f5c46c3ff00fd5c9b61a46d578a",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.26 AM.zip / WhatsApp Image 2026-10-20 at 1.47.42 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 123,
+      "file": "WhatsApp Image 2026-10-20 at 1.47.42 PM (1).jpeg",
+      "path": "sial-images/sial-123.jpg",
+      "bytes": 182850,
+      "sha256": "c0e749e7a5f30971537f5b4c785d4980abd83ca687b5b5430a5639abd808ffe2",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.26 AM.zip / WhatsApp Image 2026-10-20 at 1.47.42 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 124,
+      "file": "WhatsApp Image 2026-10-20 at 2.13.15 PM.jpeg",
+      "path": "sial-images/sial-124.jpg",
+      "bytes": 239043,
+      "sha256": "71c7698805ef9612a73d906fb37c69f7b5b6df6a32cd8ec570e9b496de79a9a4",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.29 AM.zip / WhatsApp Image 2026-10-20 at 2.13.15 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 125,
+      "file": "WhatsApp Image 2026-10-20 at 2.13.16 PM.jpeg",
+      "path": "sial-images/sial-125.jpg",
+      "bytes": 226568,
+      "sha256": "f3e772d3c12471de68650506c96565ba020da552dda0f8dc16845f2adba59b40",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.29 AM.zip / WhatsApp Image 2026-10-20 at 2.13.16 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 126,
+      "file": "WhatsApp Image 2026-10-20 at 2.13.17 PM.jpeg",
+      "path": "sial-images/sial-126.jpg",
+      "bytes": 181361,
+      "sha256": "9c1217be03bb91d8e995d15f21c0fd964785ca1ad17ac3138cced692039ef547",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.29 AM.zip / WhatsApp Image 2026-10-20 at 2.13.17 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 127,
+      "file": "WhatsApp Image 2026-10-20 at 2.13.19 PM.jpeg",
+      "path": "sial-images/sial-127.jpg",
+      "bytes": 233253,
+      "sha256": "3a170ee502554104efdca3087c3133d88921b4293bd38b4a963e9e43cbc0043c",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.32 AM.zip / WhatsApp Image 2026-10-20 at 2.13.19 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 128,
+      "file": "WhatsApp Image 2026-10-20 at 2.13.20 PM.jpeg",
+      "path": "sial-images/sial-128.jpg",
+      "bytes": 190673,
+      "sha256": "34100d62275064ba997af2554640656383a12c3d7e8712f70e23a4b50c1d1916",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.32 AM.zip / WhatsApp Image 2026-10-20 at 2.13.20 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 129,
+      "file": "WhatsApp Image 2026-10-20 at 2.31.52 PM.jpeg",
+      "path": "sial-images/sial-129.jpg",
+      "bytes": 220094,
+      "sha256": "30cd63308e3d105ad709510534bd787c69f8f5569dcf949993450101e15f876b",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.32 AM.zip / WhatsApp Image 2026-10-20 at 2.31.52 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 130,
+      "file": "WhatsApp Image 2026-10-20 at 2.31.53 PM.jpeg",
+      "path": "sial-images/sial-130.jpg",
+      "bytes": 225899,
+      "sha256": "af8a569e37d4354e48d216c45338104ca86c22e8a9270a7ddf976970e5be014c",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.32 AM.zip / WhatsApp Image 2026-10-20 at 2.31.53 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 131,
+      "file": "codex-clipboard-bf373a23-55a6-4082-aee8-ea5f543f01d0.jpg",
+      "path": "sial-images/sial-131.jpg",
+      "bytes": 217883,
+      "sha256": "f91321e248656f0c0882d9aa27708cb4f5fd9325c3b9dcb076d61c29183d6218",
+      "source": "مرفقات المستخدم — clipboard / codex-clipboard-bf373a23-55a6-4082-aee8-ea5f543f01d0.jpg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": null
+    },
+    {
+      "n": 132,
+      "file": "WhatsApp Image 2026-10-20 at 2.37.45 PM.jpeg",
+      "path": "sial-images/sial-132.jpg",
+      "bytes": 236286,
+      "sha256": "5b46642631f77e5a9d7b4cea0c3392ec59da7e1d9bb0ae5b8062d261f75e0bc9",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.40 AM.zip / WhatsApp Image 2026-10-20 at 2.37.45 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 133,
+      "file": "WhatsApp Image 2026-10-20 at 2.37.46 PM.jpeg",
+      "path": "sial-images/sial-133.jpg",
+      "bytes": 238359,
+      "sha256": "c4bc8a3b6c2d6e77cab60d06617274a342a66d486ea3ed748f7db5041875b0cf",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.40 AM.zip / WhatsApp Image 2026-10-20 at 2.37.46 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 134,
+      "file": "WhatsApp Image 2026-10-20 at 2.37.53 PM.jpeg",
+      "path": "sial-images/sial-134.jpg",
+      "bytes": 232187,
+      "sha256": "fb1092891f5e29d42d6e1a8854701b18eee96dfa7717c3663c8a76e5d4fea14f",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.40 AM.zip / WhatsApp Image 2026-10-20 at 2.37.53 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 135,
+      "file": "WhatsApp Image 2026-10-20 at 2.37.56 PM.jpeg",
+      "path": "sial-images/sial-135.jpg",
+      "bytes": 196818,
+      "sha256": "a4e4928300b0ab710f57de99d3c6c0f4931e8a8732c93f50ffa5205bb9403c90",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.40 AM.zip / WhatsApp Image 2026-10-20 at 2.37.56 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 136,
+      "file": "WhatsApp Image 2026-10-20 at 2.37.57 PM.jpeg",
+      "path": "sial-images/sial-136.jpg",
+      "bytes": 148299,
+      "sha256": "86cc37b34f080eb79cb74ef66ec5e8636f6bebebd0395b5abd391a91f7b53086",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.37.57 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 137,
+      "file": "WhatsApp Image 2026-10-20 at 2.43.59 PM.jpeg",
+      "path": "sial-images/sial-137.jpg",
+      "bytes": 188347,
+      "sha256": "4e8f9f39dc564aa2d0bbf33ff62c106b8a0d9c903e1c74924dc0cca99cc62bbf",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.43.59 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 138,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.00 PM.jpeg",
+      "path": "sial-images/sial-138.jpg",
+      "bytes": 110848,
+      "sha256": "45e7feaebb392aca2c3b0c8714a989ce81913912ce170dfd9b6847ac12e2f02f",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.44.00 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 139,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.02 PM.jpeg",
+      "path": "sial-images/sial-139.jpg",
+      "bytes": 125395,
+      "sha256": "7cce1152dc2a02c570fb3bcaa7841d63ac974c633d34d1c8c07016a47bc1186f",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.44.02 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 140,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.03 PM.jpeg",
+      "path": "sial-images/sial-140.jpg",
+      "bytes": 317519,
+      "sha256": "c38c7a88e5d189440fdf26fd46dcf7a96bd405fa892af7148dd340c885381515",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.44.03 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 141,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.06 PM.jpeg",
+      "path": "sial-images/sial-141.jpg",
+      "bytes": 335593,
+      "sha256": "2b00217c5b1108d42efb8ad10462ea31356837f1eda799e08cd071dee7c9659c",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.44.06 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 142,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.08 PM.jpeg",
+      "path": "sial-images/sial-142.jpg",
+      "bytes": 312873,
+      "sha256": "34f01d882ee235cfc6d9adb973fe135baf35fedc610b17e28dfddb2fc0c838fa",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.43 AM.zip / WhatsApp Image 2026-10-20 at 2.44.08 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 143,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.09 PM.jpeg",
+      "path": "sial-images/sial-143.jpg",
+      "bytes": 232135,
+      "sha256": "b3e53ed844e6caa8f8c26729d40e46d2aea18b5e7de9f4526f3891128c4db811",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.46 AM.zip / WhatsApp Image 2026-10-20 at 2.44.09 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 144,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.20 PM.jpeg",
+      "path": "sial-images/sial-144.jpg",
+      "bytes": 131084,
+      "sha256": "f7bebc6f71ecba092a51d3e1eb108f374b3b07c836091c700aba72920e6a249c",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.46 AM.zip / WhatsApp Image 2026-10-20 at 2.44.20 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 145,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.22 PM.jpeg",
+      "path": "sial-images/sial-145.jpg",
+      "bytes": 258600,
+      "sha256": "ac8b65e2dc8c2d1df2771035c79a1cd3b2a09eb1acf54d02fe3bf5b2ff67c9ff",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.46 AM.zip / WhatsApp Image 2026-10-20 at 2.44.22 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 146,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.31 PM.jpeg",
+      "path": "sial-images/sial-146.jpg",
+      "bytes": 152166,
+      "sha256": "3af051eb9226a70b2e6fa4b6da7203ed6ab15f09c0d5c6d2989edf2ad5114676",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.51 AM.zip / WhatsApp Image 2026-10-20 at 2.44.31 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 147,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.31 PM (1).jpeg",
+      "path": "sial-images/sial-147.jpg",
+      "bytes": 152881,
+      "sha256": "bad84f417b1c976e0c7f6411837bdfbb403cd6e616edf0fb955479e0f3f25b4e",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.51 AM.zip / WhatsApp Image 2026-10-20 at 2.44.31 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 148,
+      "file": "WhatsApp Image 2026-10-20 at 2.44.32 PM.jpeg",
+      "path": "sial-images/sial-148.jpg",
+      "bytes": 124761,
+      "sha256": "fc0b0a3bb295d3f9b55de6a6ee4579d294c3ebb35eb39296a540b270fe122d21",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.51 AM.zip / WhatsApp Image 2026-10-20 at 2.44.32 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 149,
+      "file": "WhatsApp Image 2026-10-20 at 3.35.11 PM.jpeg",
+      "path": "sial-images/sial-149.jpg",
+      "bytes": 311930,
+      "sha256": "658b5fc80a551a715dc29d09a6e05f55457bb2f855480dd4412556affea2a3c4",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.58 AM.zip / WhatsApp Image 2026-10-20 at 3.35.11 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 150,
+      "file": "WhatsApp Image 2026-10-20 at 3.36.43 PM.jpeg",
+      "path": "sial-images/sial-150.jpg",
+      "bytes": 356821,
+      "sha256": "39dd5681bb3989e7eef678e3f9c7b5a7d9a99283a657e246550cc511cf555b95",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.58 AM.zip / WhatsApp Image 2026-10-20 at 3.36.43 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 151,
+      "file": "WhatsApp Image 2026-10-20 at 3.36.44 PM.jpeg",
+      "path": "sial-images/sial-151.jpg",
+      "bytes": 322948,
+      "sha256": "534e46bda2dbaebf3658e28686ebc6ad79dcd0c5335a739e3f2cb127d1e81339",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.58 AM.zip / WhatsApp Image 2026-10-20 at 3.36.44 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 152,
+      "file": "WhatsApp Image 2026-10-20 at 3.36.44 PM (1).jpeg",
+      "path": "sial-images/sial-152.jpg",
+      "bytes": 340831,
+      "sha256": "4d29b8efd92eae5956930b645b91e861022b4811e7fcae367d38d95531f111a0",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.44.58 AM.zip / WhatsApp Image 2026-10-20 at 3.36.44 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 153,
+      "file": "WhatsApp Image 2026-10-20 at 3.50.28 PM.jpeg",
+      "path": "sial-images/sial-153.jpg",
+      "bytes": 245233,
+      "sha256": "15434bc6b3741f1792a0e80c91d3e5e487def5f9df7fc733ee9c52b325a06bb9",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.02 AM.zip / WhatsApp Image 2026-10-20 at 3.50.28 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 154,
+      "file": "WhatsApp Image 2026-10-20 at 3.55.33 PM.jpeg",
+      "path": "sial-images/sial-154.jpg",
+      "bytes": 162900,
+      "sha256": "bbe740ebc2da580193c9bfe90c1a723e74de60bdce57d98ab12ba6e31bdb8826",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.02 AM.zip / WhatsApp Image 2026-10-20 at 3.55.33 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 155,
+      "file": "WhatsApp Image 2026-10-20 at 3.55.46 PM.jpeg",
+      "path": "sial-images/sial-155.jpg",
+      "bytes": 162974,
+      "sha256": "b5958e4a1a809a0ff91ce287d12e21131317ac4a850a8cf06f66149ac3d55f09",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.02 AM.zip / WhatsApp Image 2026-10-20 at 3.55.46 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 156,
+      "file": "WhatsApp Image 2026-10-20 at 3.55.47 PM.jpeg",
+      "path": "sial-images/sial-156.jpg",
+      "bytes": 211660,
+      "sha256": "22e578d620c7490be84b96138cefc0394ccf613d997ebe2eb4fe860d2a48494b",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.02 AM.zip / WhatsApp Image 2026-10-20 at 3.55.47 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 157,
+      "file": "WhatsApp Image 2026-10-20 at 3.55.59 PM.jpeg",
+      "path": "sial-images/sial-157.jpg",
+      "bytes": 209822,
+      "sha256": "dbdd619373a13870e7d94f7f65ef973ad596f00843d6f994f8a1af61b4bbabcf",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.02 AM.zip / WhatsApp Image 2026-10-20 at 3.55.59 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 158,
+      "file": "WhatsApp Image 2026-10-20 at 6.57.14 PM.jpeg",
+      "path": "sial-images/sial-158.jpg",
+      "bytes": 95753,
+      "sha256": "44418d271092bb41940498b6ca8febac688dcce67e8601b777b189aecadff768",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.08 AM.zip / WhatsApp Image 2026-10-20 at 6.57.14 PM.jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 159,
+      "file": "WhatsApp Image 2026-10-20 at 6.57.14 PM (1).jpeg",
+      "path": "sial-images/sial-159.jpg",
+      "bytes": 79530,
+      "sha256": "8b9434eb04d82d52013fae0d266bfa06bf097199e9e5c00e0347d3d3a0541b4e",
+      "source": "مرفقات المستخدم — WhatsApp Unknown 2026-10-21 at 10.45.08 AM.zip / WhatsApp Image 2026-10-20 at 6.57.14 PM (1).jpeg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": "2026-10-20"
+    },
+    {
+      "n": 160,
+      "file": "codex-clipboard-d09afdde-dd1d-4485-a27d-1944ce490e08.jpg",
+      "path": "sial-images/sial-160.jpg",
+      "bytes": 119454,
+      "sha256": "d988347e2abe1331b96fb1faf3cf25dab286e72f826240ebea3907519c5382c6",
+      "source": "مرفقات المستخدم — clipboard / codex-clipboard-d09afdde-dd1d-4485-a27d-1944ce490e08.jpg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": null
+    },
+    {
+      "n": 161,
+      "file": "codex-clipboard-3d0914d6-6ac1-469c-98c7-27c90d8350c0.jpg",
+      "path": "sial-images/sial-161.jpg",
+      "bytes": 205896,
+      "sha256": "3b90c04ad61bb69d3adc4e0163067f665bfcdeb37bc0220f49f51f3219dd7ef6",
+      "source": "مرفقات المستخدم — clipboard / codex-clipboard-3d0914d6-6ac1-469c-98c7-27c90d8350c0.jpg",
+      "direction": "incoming",
+      "importedAt": "2026-10-21T07:53:47.762409+00:00",
+      "sourceFilenameDate": null
     }
   ],
-  "lastAdditionAt": "2026-10-19T14:50:50+03:00"
+  "lastAdditionAt": "2026-10-21T07:53:47.762409+00:00"
 }
