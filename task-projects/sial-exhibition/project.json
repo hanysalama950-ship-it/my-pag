@@ -8,7 +8,7 @@
   "status": "45 ملف شركة وعلامة وجهة اتصال — 161 صورة محفوظة",
   "updatedAt": "2026-10-21",
   "objective": "تنظيم شركات معرض سيال وصورها ومنتجاتها ووسائل التواصل ومتابعة اجتماعاتها.",
-  "summary": "إضافة 57 صورة وبطاقة إلى 15 ملفًا: 12 ملف شركة وعلامة جديدًا، وتحديث Cocomax وMOKATE وXOXO دون تكرار الشركات.",
+  "summary": "توحيد تصميم ملفات الشركات وإضافة بحث الوكيل الحصري في السعودية بالمصادر، مع فصل التوزيع المعلن عن الحصرية غير المثبتة.",
   "outcome": "45 ملفًا و161 صورة محفوظة مع المنتجات وبطاقات التواصل.",
   "facts": [
     [
@@ -46,10 +46,19 @@
     [
       "دراسة الشركات الصحية",
       "Excel: 110 شركات + 13 جهة تحتاج مراجعة الأصناف؛ القاعات والأجنحة وحالة الوكيل موضحة."
+    ],
+    [
+      "بحث الوكالات السعودية",
+      "3 ملفات بتوزيع سعودي معلن؛ ملف بحصرية إقليمية معلنة؛ لا يوجد إثبات عقد حصري سعودي. بقية النتائج موضحة لكل ملف."
     ]
   ],
   "decisions": [],
   "updates": [
+    {
+      "date": "2026-10-21",
+      "title": "بحث الوكالات السعودية وتحسين ملفات الشركات",
+      "detail": "توحيد تصميم ملفات الشركات وإضافة بحث الوكيل الحصري في السعودية بالمصادر، مع فصل التوزيع المعلن عن الحصرية غير المثبتة. شمل 45 ملفًا وشورتوك."
+    },
     {
       "date": "2026-10-21",
       "title": "استكمال صور وبطاقات شركات سيال",
@@ -148,8 +157,8 @@
       "name": "دليل شركات سيال — افتح الملفات والصور والتواصل",
       "file": "attachments/SIAL-Companies.html",
       "date": "2026-10-17",
-      "bytes": 31331,
-      "sha256": "7b207482ed583713c9b71f5d9c144ff86fb4b4bd4a601918b76196755200faf3",
+      "bytes": 34983,
+      "sha256": "00009014223a0a1840958db27d8aac9708448b65711955c90be144e5e5ec0b77",
       "status": "جاهز للعرض",
       "category": "دليل المعرض"
     },
@@ -157,8 +166,8 @@
       "name": "MOKATE / LOYD — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-mokate.html",
       "date": "2026-10-17",
-      "bytes": 7853,
-      "sha256": "580ae0dec295184def5087bf723738042698cbf0307fc791e70bc05b99911beb",
+      "bytes": 8309,
+      "sha256": "22805440f59956dc91134be41063091f071a14b6c1825a123c3fd702510e3f09",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -166,8 +175,8 @@
       "name": "ACTIPH / activit / ACTI+ — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-actiph.html",
       "date": "2026-10-17",
-      "bytes": 7781,
-      "sha256": "6fc1f24ff8f88477584ed5d1a7d038d1a2c4477f73933c78cc063d0cc2f62ce4",
+      "bytes": 5471,
+      "sha256": "8a94433d8b7331e0c49cce836738b05a0b854b00c828a17cc1265c61181b292f",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -175,8 +184,8 @@
       "name": "XOXO / Mood Foods — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-xoxo.html",
       "date": "2026-10-17",
-      "bytes": 6689,
-      "sha256": "b498c8c75e88f72da12ef3134dfcada6a60ee855ecaa0d24b84f8441d6535fd3",
+      "bytes": 7276,
+      "sha256": "17318b4c9033f0a3ed461c47f6cdce0c056e6f3b87cdf1332dbd6e4a4c1274ea",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -184,8 +193,8 @@
       "name": "Forever Young / FYK / Wanty / teamo — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-forever-young.html",
       "date": "2026-10-17",
-      "bytes": 6774,
-      "sha256": "8cff0229e1ae25aea679af6a021684cb34a4869d7ae3ef067899a8400e173787",
+      "bytes": 5428,
+      "sha256": "43b50a927982e5631fbe40436b3c08f3ea43f193ba53b79f26a264f01d6ef6d1",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -193,8 +202,8 @@
       "name": "Cruz Group / VIGO / YOKO / Fresh Presso — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-cruz-group.html",
       "date": "2026-10-17",
-      "bytes": 8748,
-      "sha256": "cdf7cfe543b960c7f9aa180e53586b00ed2f4c3de83fe14c49172fa4802c2704",
+      "bytes": 6630,
+      "sha256": "88fde593d3ec4fcc343ca360fa591ae242d43633b7f62edd26088fe3e7dbf4bb",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -202,8 +211,8 @@
       "name": "GOYN — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-goyn.html",
       "date": "2026-10-17",
-      "bytes": 7059,
-      "sha256": "d1b6da5f67dc9d8e60663d3d39ddb148db0c0a6740cd45bbbe224bbda93a8d4d",
+      "bytes": 5526,
+      "sha256": "76bb1142e9ac75fb64cc4a23d503e4f955a9af4df49f5da2e604b37a27948d9b",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -211,8 +220,8 @@
       "name": "Vini Tonon / Torresino — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-tonon.html",
       "date": "2026-10-17",
-      "bytes": 8170,
-      "sha256": "88d156e33a1577ffa6174aebe59f6f74434899f5dfeed945d06051f3eddc4ad8",
+      "bytes": 6273,
+      "sha256": "8e0ba7dcc0471a6fe79872ded41f25c90a1fd3d37ef19e8ccace0a3b9ad8675c",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -220,8 +229,8 @@
       "name": "Diablo Sugar Free / B Healthy Ltd — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-diablo.html",
       "date": "2026-10-17",
-      "bytes": 9364,
-      "sha256": "e7b253b4147bd72c4ddd9f0fc7fb310bc58df42b215af098b5aebe5f75b733b1",
+      "bytes": 7222,
+      "sha256": "5980b7ab265e16894ec007a8e948a672cce9245d99436d9ce25053bf5a9f8433",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -229,8 +238,8 @@
       "name": "TRIP — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-trip.html",
       "date": "2026-10-17",
-      "bytes": 8483,
-      "sha256": "51afcf2b35c77d5c6a62a9ad468d7d71d864a3d6001641955f3793071f2d7905",
+      "bytes": 6817,
+      "sha256": "6a4b281e4f8cdbde436fce5a3b595cdf9f0b80a41d44bf20334d007e734d063e",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -238,8 +247,8 @@
       "name": "Rheal — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-rheal.html",
       "date": "2026-10-17",
-      "bytes": 6917,
-      "sha256": "05533109fd8f3b84103f9055c43e5a75604fc5cad0ee8fb6d3828c867e28a479",
+      "bytes": 5213,
+      "sha256": "535b247c63995b384815660e504cdba08fe9c4578f078d1097bc5e791d2eef94",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -247,8 +256,8 @@
       "name": "Citizens of Soil — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-citizens-of-soil.html",
       "date": "2026-10-17",
-      "bytes": 6790,
-      "sha256": "9cfaf4a18cefba1b9d84bd0010821b49631fa5d94fa4d9d59e26341a14c8cd23",
+      "bytes": 5118,
+      "sha256": "fd141b559f3498d46958abb93b0ec1d73107644eac7dde4d07510c2d87c985af",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -256,8 +265,8 @@
       "name": "TRIBE — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-tribe.html",
       "date": "2026-10-17",
-      "bytes": 6695,
-      "sha256": "8f26f076cc6e94311d9e2c3fe40c5a5d553ec93233ae3d40003c5853d1fea4a0",
+      "bytes": 5214,
+      "sha256": "addaf6b74d78f42ef742bbfc7563c1a9d8131327a49c96652479237a7e00fa53",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -265,8 +274,8 @@
       "name": "Superfoodio — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-superfoodio.html",
       "date": "2026-10-17",
-      "bytes": 6709,
-      "sha256": "888d22ff31e07832928b5408e95331b3517fffbf66becb3250c834f1ad01516a",
+      "bytes": 5278,
+      "sha256": "4a1309cde0a022008f1e830a2ca629ba44ce86e4ccf8326a423e3faa3df15d6e",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -274,8 +283,8 @@
       "name": "trash — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-trash.html",
       "date": "2026-10-17",
-      "bytes": 7482,
-      "sha256": "b2c1a7a5e39028e489379196f310f067f3393ce3362b3e7acef1bc66bc9b8c9c",
+      "bytes": 6109,
+      "sha256": "e71129f769f350604a16a8f24e64272adb4dc9b614af4b00fd9de8126e875bcc",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -283,8 +292,8 @@
       "name": "FDEA / UK Food Collaborative — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-fdea.html",
       "date": "2026-10-17",
-      "bytes": 8307,
-      "sha256": "c58cab47abc387fc7d24efc1f32b5c165cecd0bc6c3fea2fd1863c13fb2689be",
+      "bytes": 6211,
+      "sha256": "acf3fd8a7ca1dc3ccb50525741c3fc507a80353f035591b9a27c39341210d4df",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -292,8 +301,8 @@
       "name": "ELIXIR LTD — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-elixir.html",
       "date": "2026-10-17",
-      "bytes": 6045,
-      "sha256": "ba617320c1127db5acf6e95f51324c6505b8dd339c186dd34d600e54e0a6424f",
+      "bytes": 6797,
+      "sha256": "b0601b41a0ff90d813f3275f87e858258d8076c02a0c923b2f7194563c419be8",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -301,8 +310,8 @@
       "name": "Now Juice Limited — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-now-juice.html",
       "date": "2026-10-17",
-      "bytes": 6851,
-      "sha256": "b524005613b892c53a8937d57ab8781474dbf38a037a0ed95b3ce19a03caa805",
+      "bytes": 5093,
+      "sha256": "3d13b0ded52667f954263810e28ff3244bee7f26540567a95337563084ef11ec",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -310,8 +319,8 @@
       "name": "WANA BEVERAGE JSC — الصور والمنتجات والتواصل",
       "file": "attachments/SIAL-wana.html",
       "date": "2026-10-17",
-      "bytes": 7808,
-      "sha256": "05e8827f97625430c93a88208bc259348a5632e4eb48559db560728f550dba8d",
+      "bytes": 6078,
+      "sha256": "087e3aa6e2030ca81cbc368d34e9bfaac790e14a2e2f5dcb79c04ab5652f34c4",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات"
     },
@@ -330,8 +339,8 @@
       "date": "2026-10-17",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات",
-      "bytes": 7293,
-      "sha256": "55768993004e3e04a1b9854bfc8e9bf2e5809b91925eacce49a2b70221b47bd5"
+      "bytes": 7068,
+      "sha256": "5785db8403f6199b474f247b3def011dd2df5e9556fd2fc48ddc080a9222764b"
     },
     {
       "name": "Thai Coco — المنتجات والصور والتواصل",
@@ -339,8 +348,8 @@
       "date": "2026-10-18",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات",
-      "bytes": 6733,
-      "sha256": "4756880c10399cde0d08688390f70659cfbe79353067c2f7c4281afeb7992642"
+      "bytes": 7230,
+      "sha256": "f431e90a100fc5d54982778b2ad3e83b7bdf00bd41a1e3fbf62de80283090df7"
     },
     {
       "name": "دليل التواصل المحدث — جميع شركات سيال",
@@ -348,8 +357,8 @@
       "date": "2026-10-18",
       "status": "جاهز للعرض",
       "category": "ملفات الشركات",
-      "bytes": 44922,
-      "sha256": "5105e6b2947ac8becdd6546e12099db6f13128fc0a7e893526fc2409305f137d"
+      "bytes": 47693,
+      "sha256": "ddc0fe52b9108a35c4b6c9ca8ebedcbe49dda4939b0242d51048575e39b93400"
     },
     {
       "name": "Le Labo Dumoulin — المنتجات والتواصل والصور",
@@ -357,8 +366,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4079,
-      "sha256": "792e96c62bdb4f06ceb8beeeb956397dd610b8035f29db7ea74572240b2868c1"
+      "bytes": 5054,
+      "sha256": "a2041281d511f32a00255fbeaf52b917cb91a69fcc6f91c4b76fddb85dc3bfa8"
     },
     {
       "name": "BUDDY — المنتجات والتواصل والصور",
@@ -366,8 +375,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4199,
-      "sha256": "b76f7098b0661cf92d124a8409d7eb222e0bc92f195b4fc1ce32051fb033d826"
+      "bytes": 5104,
+      "sha256": "77926077fbc56adc8d9967598c450a2f4fc052207fd65753caa220b457d44d79"
     },
     {
       "name": "KULT Kefir — المنتجات والتواصل والصور",
@@ -375,8 +384,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4139,
-      "sha256": "bacda822e1406cda469d92eedde41ce5ee4a46bd632a4a6782233b1a41f18db0"
+      "bytes": 5100,
+      "sha256": "737b33d053ff50f9f2133fb531d80d41f5d27b11a22536de98e44918386f7925"
     },
     {
       "name": "ANJ Nutrition Group / Gams — المنتجات والتواصل والصور",
@@ -384,8 +393,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 5027,
-      "sha256": "ef04b500448786d7e308afee4c2822ecec20d1ab8c6b220e1c8538b9bf92a18d"
+      "bytes": 5839,
+      "sha256": "80150be062ef0a2d03d7d3a6170ee86f06b429ca376090bdb58af3ce39f35ea7"
     },
     {
       "name": "UFF+ — المنتجات والتواصل والصور",
@@ -393,8 +402,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 5728,
-      "sha256": "b66d44f5a07f221601b87d8ec2fbf2232c47d5f19e8f1a43a046c623c7bdac16"
+      "bytes": 6296,
+      "sha256": "51f10b48d1cb601d81fd0f1fa00d4e21f44bef2f712e202d7f28972d70f0e861"
     },
     {
       "name": "NutriDream / Be More — المنتجات والتواصل والصور",
@@ -402,8 +411,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4095,
-      "sha256": "d49ed03bf3db76cd7516755a94f75eb9ce043310f0297d02bc8ed8563bcf8396"
+      "bytes": 5066,
+      "sha256": "a09b2588a6470e9a6e431448b10c9ca59a42a2b4d7bae2046cc8c17c2ea5b6c6"
     },
     {
       "name": "QNT / LIIFE — المنتجات والتواصل والصور",
@@ -411,8 +420,8 @@
       "date": "2026-10-18",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 3470,
-      "sha256": "6effcdade6d37ae608902be04ca4a0588e16ea7a0806fec33192c55b29db0d9b"
+      "bytes": 4595,
+      "sha256": "100c4323d498913b647007fd2c351bea20e1f1f742ed7a3bb00d546cfbba5eff"
     },
     {
       "name": "PERIDOT / Peridot Aqua Ltd. — المنتجات والتواصل والصور",
@@ -420,8 +429,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4095,
-      "sha256": "191b70c8b0c6f11c68a85791e1e4b6f5032abe3bacda5dfb9cfa3b0e64f0bcd2"
+      "bytes": 5257,
+      "sha256": "b258fdb9f7660c5a6c5b08a1c06b9b60769dfb52679f4df13fa1bf3cd7ed24ff"
     },
     {
       "name": "ALLEGRO / IFFCO Olive Oil — المنتجات والتواصل والصور",
@@ -429,8 +438,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4306,
-      "sha256": "10146c016bb30bd5338234e000f048ab96ef659245c03601fecb4fcaf90b4fb0"
+      "bytes": 5241,
+      "sha256": "c9165af977fa4b842eb25b201189c4346b8c6ed73f3e9a6d66f66b20e1585e6b"
     },
     {
       "name": "VIVER — المنتجات والتواصل والصور",
@@ -438,8 +447,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4281,
-      "sha256": "ca703919cc5240e2f3fee581f9afd6b7e63892078567953f17cec0a8b6d8de20"
+      "bytes": 5363,
+      "sha256": "c32197baeeb69181649ac0f7cd8ecc8bfc5163f8ec0fe2a49eaeda2f94f0d873"
     },
     {
       "name": "borchers fine food / Xucker — المنتجات والتواصل والصور",
@@ -447,8 +456,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 3918,
-      "sha256": "1497c9df1bf4d3508dc613495ca56b338e0f9c17df446b74b1b844bb5c2b6c28"
+      "bytes": 4891,
+      "sha256": "eee00fad7b469d614aa6dd289939faea9c8dc08d5a818fc4d7d856831bcb3e5f"
     },
     {
       "name": "PROZIS — المنتجات والتواصل والصور",
@@ -456,8 +465,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 3456,
-      "sha256": "9aafc04a03ccab71809935c0bd868049339b96e8a85a6446c482575c856a040c"
+      "bytes": 4454,
+      "sha256": "d105b5a0615caa5dc805243f10b2929fd4002bc727e33635a743060dab32c4a2"
     },
     {
       "name": "Cocomax / Asiatic Agro Industry — المنتجات والتواصل والصور",
@@ -465,8 +474,8 @@
       "date": "2026-10-19",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 6485,
-      "sha256": "e3881d8326e47c97612711e0c9867d1cb3409a1f4c9358aed55a266e6983e5e9"
+      "bytes": 7196,
+      "sha256": "010164bba69ebbf6fbd0da26d4eb8c24d528632614736fd2efd8efe05e269a25"
     },
     {
       "name": "شركة شورتوك — تقرير مطابقة الحاويتين",
@@ -474,8 +483,8 @@
       "date": "2026-10-19",
       "category": "شركة شورتوك",
       "status": "جاهز للعرض",
-      "bytes": 5864,
-      "sha256": "fdddb1a0b85ee44fc68a51bf60ae9d7bb8c6c684b2a9d3f24b4612aba9ad6119"
+      "bytes": 5984,
+      "sha256": "21d4e6047c648e2fcd52f4f868e84b2f73445f3f084b4aaa7823e2d5b1634c8d"
     },
     {
       "name": "شركة شورتوك — صورة توزيع الحاويتين",
@@ -510,8 +519,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 5608,
-      "sha256": "d32e06d09ecf485282868615b96f1556d68fca0cc89c441bb95a9a05554c510d"
+      "bytes": 6078,
+      "sha256": "6238feb1a8e27009964f62468b350b9a922b45bc1d44a840770ff7df13caf7fe"
     },
     {
       "name": "MURO KOKU / CORAZON — المنتجات والتواصل والصور",
@@ -519,8 +528,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4696,
-      "sha256": "0f1cedcbbf15581adab21b6d782beabe1b5d2b062e9c5c7a756ec7a1713973cc"
+      "bytes": 5209,
+      "sha256": "b2218e9b4eff0bfc4e4c440199ce1a69241a2a8f0cc618a8eb8b7e0e97775b76"
     },
     {
       "name": "TASTIWAY — المنتجات والتواصل والصور",
@@ -528,8 +537,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4371,
-      "sha256": "3363bee28ad9a65ee90f2ccda305570fb89fefce91a5bc0be1b3a2b3cdae423a"
+      "bytes": 4866,
+      "sha256": "ca162f8191e3e6c3a34302b416cb8eb8a3f5423dd6e729d02eca275da2592880"
     },
     {
       "name": "fulliz — المنتجات والتواصل والصور",
@@ -537,8 +546,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4516,
-      "sha256": "11564876a20c7ff467c8c64fc1fade6276d4314c63a9f5845ff2f0e0c5930c3b"
+      "bytes": 5206,
+      "sha256": "9f68261f85d8b35cf88c1dbac7ec4727810d4ccf8735bd1b58f0790d75fbff1f"
     },
     {
       "name": "Kefir Eau Vertueuse / Maison Lagneaux — المنتجات والتواصل والصور",
@@ -546,8 +555,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 5193,
-      "sha256": "64093a353aaf375f4b0647198bbc85ae3a74d20c744be11a0de3df5cdc6a1e2f"
+      "bytes": 5708,
+      "sha256": "f594386d5303a2b0dd9d726626ddc3dc04bd70adaaf6bad1d473fbcabecdffb0"
     },
     {
       "name": "CARANDINI — المنتجات والتواصل والصور",
@@ -555,8 +564,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4712,
-      "sha256": "62feb3cb95cc0f0adb92f3c4de7452e6c878287797286f02528a40ade276c95b"
+      "bytes": 5193,
+      "sha256": "e3d0259051e63406f7c13b925266e886fb47fbb97689ea02654d1093da789576"
     },
     {
       "name": "Klokk & Co — المنتجات والتواصل والصور",
@@ -564,8 +573,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 5176,
-      "sha256": "2cf13b025f6c5c8ec9ed5c19f32c2eae5a9e589175cd06cd05c0ffd8cd568730"
+      "bytes": 5600,
+      "sha256": "5ee38cc15fdec859a579974d5019e3894373057c4e0103632f44e7f55281ed60"
     },
     {
       "name": "WONDER Popcorn / SunnFoods AS — المنتجات والتواصل والصور",
@@ -573,8 +582,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4492,
-      "sha256": "02c542b58e2826056e3fbcc27269904b5612f708a1e45fd7752d95a8360bfc37"
+      "bytes": 4730,
+      "sha256": "13b8b28859cf9a914a56fd855946d2341f95ceadf47b2fb4b2e70d8cf7d0adaf"
     },
     {
       "name": "Dilmah / Elevrie — المنتجات والتواصل والصور",
@@ -582,8 +591,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4370,
-      "sha256": "2033cbc23a6f30dc882ee5fdd20a71efa5fe79bfb9c0acfab08c774efcdee290"
+      "bytes": 5362,
+      "sha256": "5797fc9b822fdd9a161b2b529ab25a3a411a53ebcd80c54e99fa5d2375cdbd76"
     },
     {
       "name": "SFD / ALLNUTRITION — المنتجات والتواصل والصور",
@@ -591,8 +600,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4858,
-      "sha256": "75a03bec9bb09d0072c7e4bf1456892081280dce83c240151fd5c4cdb61d2ec9"
+      "bytes": 5272,
+      "sha256": "50f08b0624f216a7b9b53218779e98a5e7d8e58502820df8290dc9fe91651305"
     },
     {
       "name": "PERGALĖ / AB Vilniaus pergalė — المنتجات والتواصل والصور",
@@ -600,8 +609,8 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4087,
-      "sha256": "78e8de4ea5af2cd3301a4b66162371233e859e54f8807115942fa39b96c9349b"
+      "bytes": 4688,
+      "sha256": "1c22caf2975bb6d2d3f0fee9ff71528de1b6ef87e15bda4383daa9d95cb26d6c"
     },
     {
       "name": "Birštonas Mineral Waters / Akvilė SPA — المنتجات والتواصل والصور",
@@ -609,8 +618,17 @@
       "date": "2026-10-21",
       "category": "ملفات الشركات",
       "status": "جاهز للعرض",
-      "bytes": 4203,
-      "sha256": "5d8548ea205e5162dddb78f0e4dbfac7227fbd55811f71e687fb65955e5b1184"
+      "bytes": 4460,
+      "sha256": "e7cdd1f6c6e39cc61ae4758a3028f8679da4b65a2d52d56762d35596c7d05208"
+    },
+    {
+      "name": "شركة شورتوك — الوكالة والمطابقة",
+      "file": "attachments/SIAL-chortoq.html",
+      "date": "2026-10-21",
+      "category": "ملفات الشركات",
+      "status": "جاهز للعرض",
+      "bytes": 2657,
+      "sha256": "43489ea61f8b76245aa3cc094a5ec39782da67e353a355bd8f6452c3b2b9a0c1"
     }
   ],
   "documentsNote": "45 ملفًا و161 صورة أصلية، مع دليل التواصل والكتالوجات والدراسات والمطابقة.",
