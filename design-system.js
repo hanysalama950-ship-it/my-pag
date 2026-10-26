@@ -7,6 +7,8 @@
  const groups={overview:'الرئيسية',hiring:'الأفراد والمتابعة',social:'المبيعات والتسويق',collection:'التشغيل والفرق',meetings:'التقارير والسجلات'};
  for(const [view,label]of Object.entries(groups)){const item=nav.querySelector(`[data-view="${view}"]`);if(item){const heading=document.createElement('div');heading.className='design-section-title';heading.textContent=label;nav.insertBefore(heading,item)}}
  nav.addEventListener('click',e=>{if(!e.target.closest('[data-view]'))return;sidebar.classList.remove('menu-open');toggle.setAttribute('aria-expanded','false');toggle.textContent='الأقسام'});
+ const hues=[260,210,160,25,330,185,45,285,140,355,225,75,305,195,15,245,110,315];
+ nav.querySelectorAll('[data-view]').forEach((button,index)=>button.style.setProperty('--section-hue',hues[index%hues.length]));
  const content=document.getElementById('content');let queued=false;
  let taskLayout='cards';
  function enhance(){queued=false;for(const table of content.querySelectorAll('table')){if(table.classList.contains('shared-table')||table.closest('.design-table-scroll,.tablewrap,.table-wrap'))continue;const wrap=document.createElement('div');wrap.className='design-table-scroll';wrap.tabIndex=0;wrap.setAttribute('role','region');wrap.setAttribute('aria-label','جدول البيانات — يمكن التمرير أفقيًا');table.before(wrap);wrap.append(table)}for(const b of nav.querySelectorAll('[data-view]')){if(b.classList.contains('active')){b.setAttribute('aria-current','page');document.body.dataset.section=b.dataset.view}else b.removeAttribute('aria-current')}
@@ -14,3 +16,4 @@
  }
  new MutationObserver(()=>{if(!queued){queued=true;requestAnimationFrame(enhance)}}).observe(content,{childList:true,subtree:true});enhance();
 })();
+
